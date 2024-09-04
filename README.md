@@ -23,24 +23,24 @@ Ver detalles de como se han generado estos gráficos en [distribuciones-notas.R]
 
 ### Enfermería
 
-![](distribucion-serums-enfermeria.png)
+[![Enfermería](distribucion-serums-enfermeria.png)](distribucion-serums-enfermeria.png)
 
 ### Medicina
 
-![](distribucion-serums-medicina.png)
+[![Medicina](distribucion-serums-medicina.png)](distribucion-serums-medicina.png))
 
 ### Nutrición
 
-![](distribucion-serums-nutricion.png)
+[![Nutrición](distribucion-serums-nutricion.png)](distribucion-serums-nutricion.png)
 
 ### Obstetricia
 
-![](distribucion-serums-obstetricia.png)
+[![Obstetricia](distribucion-serums-obstetricia.png)](distribucion-serums-obstetricia.png)
 
 ### Odontología
 
-![](distribucion-serums-odontologia.png)
+[![Odontología](distribucion-serums-odontologia.png)](distribucion-serums-odontologia.png)
 
 ### Químico Farmacéutico
 
-![](distribucion-serums-quimico-farmaceutico.png)
+[![Químico Farmacéutico](distribucion-serums-quimico-farmaceutico.png)](distribucion-serums-quimico-farmaceutico.png)
