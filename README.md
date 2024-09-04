@@ -19,11 +19,11 @@ Fuente original: [Resultados de la Evaluación para el SERUMS](https://www.gob.p
 
 ## Distribuciones de notas
 
-Ver detalles de como se han generado estos gráficos en [distribuciones-notas.R](/ distribuciones-notas.R)
+Ver detalles de como se han generado estos gráficos en [distribuciones-notas.R](/distribuciones-notas.R)
 
 ### Enfermería
 
-[![Enfermería](/plots/distribucion-serums-enfermeria.png)](/plots/distribucion-serums-enfermeria.png)
+[![Enfermería](/plots/distribucion-serums2024-enfermeria.png)](/plots/distribucion-serums-enfermeria.png)
 
 ### Medicina
 
