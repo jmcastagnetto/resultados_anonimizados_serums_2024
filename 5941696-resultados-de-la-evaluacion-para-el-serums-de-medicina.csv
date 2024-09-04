@@ -1,0 +1,2686 @@
+carrera,n,region_de_evaluacion,nota
+medicina,1,AMAZONAS,12
+medicina,2,AMAZONAS,11.2
+medicina,3,AMAZONAS,10.6
+medicina,4,AMAZONAS,11.4
+medicina,5,AMAZONAS,10.6
+medicina,6,AMAZONAS,9.6
+medicina,7,AMAZONAS,8
+medicina,8,AMAZONAS,12.8
+medicina,9,AMAZONAS,10
+medicina,10,ANCASH,12.6
+medicina,11,ANCASH,NA
+medicina,12,ANCASH,10.2
+medicina,13,ANCASH,12.8
+medicina,14,ANCASH,10.6
+medicina,15,ANCASH,10.6
+medicina,16,ANCASH,11
+medicina,17,ANCASH,13
+medicina,18,ANCASH,9.6
+medicina,19,ANCASH,NA
+medicina,20,ANCASH,11.4
+medicina,21,ANCASH,7.8
+medicina,22,ANCASH,10.4
+medicina,23,ANCASH,NA
+medicina,24,ANCASH,10.4
+medicina,25,ANCASH,11.4
+medicina,26,ANCASH,11
+medicina,27,ANCASH,8.8
+medicina,28,ANCASH,9.6
+medicina,29,ANCASH,8.8
+medicina,30,ANCASH,11.2
+medicina,31,ANCASH,12.4
+medicina,32,ANCASH,10.2
+medicina,33,ANCASH,10.2
+medicina,34,ANCASH,9
+medicina,35,ANCASH,10.2
+medicina,36,ANCASH,11.2
+medicina,37,ANCASH,10.8
+medicina,38,ANCASH,12.2
+medicina,39,ANCASH,10.2
+medicina,40,ANCASH,9.8
+medicina,41,ANCASH,10
+medicina,42,ANCASH,12.6
+medicina,43,ANCASH,10.4
+medicina,44,ANCASH,10
+medicina,45,ANCASH,12.8
+medicina,46,ANCASH,12.2
+medicina,47,ANCASH,10
+medicina,48,ANCASH,10.2
+medicina,49,ANCASH,10.6
+medicina,50,ANCASH,10.4
+medicina,51,ANCASH,12
+medicina,52,ANCASH,9.6
+medicina,53,ANCASH,10.6
+medicina,54,ANCASH,10.8
+medicina,55,APURIMAC,10.4
+medicina,56,APURIMAC,8.8
+medicina,57,APURIMAC,9.4
+medicina,58,APURIMAC,8.8
+medicina,59,APURIMAC,11.2
+medicina,60,APURIMAC,10.2
+medicina,61,APURIMAC,9
+medicina,62,APURIMAC,7.4
+medicina,63,APURIMAC,11.6
+medicina,64,APURIMAC,13.2
+medicina,65,APURIMAC,11.2
+medicina,66,APURIMAC,11.8
+medicina,67,APURIMAC,8.2
+medicina,68,APURIMAC,10
+medicina,69,APURIMAC,12
+medicina,70,APURIMAC,8.2
+medicina,71,APURIMAC,6.6
+medicina,72,APURIMAC,11.4
+medicina,73,APURIMAC,11.6
+medicina,74,APURIMAC,12.4
+medicina,75,APURIMAC,6.2
+medicina,76,APURIMAC,8.8
+medicina,77,APURIMAC,10.8
+medicina,78,APURIMAC,10.2
+medicina,79,APURIMAC,10.8
+medicina,80,APURIMAC,10.8
+medicina,81,AREQUIPA,9.4
+medicina,82,AREQUIPA,11
+medicina,83,AREQUIPA,11.4
+medicina,84,AREQUIPA,11.4
+medicina,85,AREQUIPA,NA
+medicina,86,AREQUIPA,9.4
+medicina,87,AREQUIPA,9.8
+medicina,88,AREQUIPA,8.2
+medicina,89,AREQUIPA,8.6
+medicina,90,AREQUIPA,9.2
+medicina,91,AREQUIPA,11.8
+medicina,92,AREQUIPA,8.4
+medicina,93,AREQUIPA,9
+medicina,94,AREQUIPA,11
+medicina,95,AREQUIPA,11.4
+medicina,96,AREQUIPA,7.8
+medicina,97,AREQUIPA,NA
+medicina,98,AREQUIPA,12
+medicina,99,AREQUIPA,11.8
+medicina,100,AREQUIPA,12.8
+medicina,101,AREQUIPA,10.4
+medicina,102,AREQUIPA,9.2
+medicina,103,AREQUIPA,11.4
+medicina,104,AREQUIPA,11
+medicina,105,AREQUIPA,9.2
+medicina,106,AREQUIPA,10.6
+medicina,107,AREQUIPA,11.2
+medicina,108,AREQUIPA,12.6
+medicina,109,AREQUIPA,10.2
+medicina,110,AREQUIPA,11.4
+medicina,111,AREQUIPA,13
+medicina,112,AREQUIPA,10.6
+medicina,113,AREQUIPA,12.6
+medicina,114,AREQUIPA,11.8
+medicina,115,AREQUIPA,11
+medicina,116,AREQUIPA,10
+medicina,117,AREQUIPA,10.6
+medicina,118,AREQUIPA,9.8
+medicina,119,AREQUIPA,10.2
+medicina,120,AREQUIPA,11.6
+medicina,121,AREQUIPA,12.6
+medicina,122,AREQUIPA,9.4
+medicina,123,AREQUIPA,10.4
+medicina,124,AREQUIPA,12
+medicina,125,AREQUIPA,11
+medicina,126,AREQUIPA,9.4
+medicina,127,AREQUIPA,9.8
+medicina,128,AREQUIPA,10.2
+medicina,129,AREQUIPA,NA
+medicina,130,AREQUIPA,10.2
+medicina,131,AREQUIPA,7
+medicina,132,AREQUIPA,10.2
+medicina,133,AREQUIPA,9.2
+medicina,134,AREQUIPA,7
+medicina,135,AREQUIPA,9.6
+medicina,136,AREQUIPA,8.6
+medicina,137,AREQUIPA,13.4
+medicina,138,AREQUIPA,11
+medicina,139,AREQUIPA,12.4
+medicina,140,AREQUIPA,10.8
+medicina,141,AREQUIPA,12.4
+medicina,142,AREQUIPA,12.8
+medicina,143,AREQUIPA,12.2
+medicina,144,AREQUIPA,11.8
+medicina,145,AREQUIPA,8.2
+medicina,146,AREQUIPA,10.6
+medicina,147,AREQUIPA,10.2
+medicina,148,AREQUIPA,11
+medicina,149,AREQUIPA,12.6
+medicina,150,AREQUIPA,9
+medicina,151,AREQUIPA,9.4
+medicina,152,AREQUIPA,7.8
+medicina,153,AREQUIPA,10.6
+medicina,154,AREQUIPA,10.8
+medicina,155,AREQUIPA,11.6
+medicina,156,AREQUIPA,12.6
+medicina,157,AREQUIPA,8.6
+medicina,158,AREQUIPA,10.6
+medicina,159,AREQUIPA,8.2
+medicina,160,AREQUIPA,8.2
+medicina,161,AREQUIPA,10.6
+medicina,162,AREQUIPA,9.4
+medicina,163,AREQUIPA,8.4
+medicina,164,AREQUIPA,7.2
+medicina,165,AREQUIPA,11.6
+medicina,166,AREQUIPA,12.2
+medicina,167,AREQUIPA,8
+medicina,168,AREQUIPA,12.6
+medicina,169,AREQUIPA,9.8
+medicina,170,AREQUIPA,12.8
+medicina,171,AREQUIPA,10.4
+medicina,172,AREQUIPA,10.8
+medicina,173,AREQUIPA,NA
+medicina,174,AREQUIPA,10.2
+medicina,175,AREQUIPA,8.6
+medicina,176,AREQUIPA,8.8
+medicina,177,AREQUIPA,10.4
+medicina,178,AREQUIPA,12.2
+medicina,179,AREQUIPA,8.6
+medicina,180,AREQUIPA,13
+medicina,181,AREQUIPA,12.8
+medicina,182,AREQUIPA,12.2
+medicina,183,AREQUIPA,9.8
+medicina,184,AREQUIPA,NA
+medicina,185,AREQUIPA,14
+medicina,186,AREQUIPA,8.2
+medicina,187,AREQUIPA,11.6
+medicina,188,AREQUIPA,9.2
+medicina,189,AREQUIPA,10.6
+medicina,190,AREQUIPA,10.4
+medicina,191,AREQUIPA,9.6
+medicina,192,AREQUIPA,11.4
+medicina,193,AREQUIPA,12
+medicina,194,AREQUIPA,6.6
+medicina,195,AREQUIPA,12.4
+medicina,196,AREQUIPA,10.8
+medicina,197,AREQUIPA,11
+medicina,198,AREQUIPA,9.6
+medicina,199,AREQUIPA,NA
+medicina,200,AREQUIPA,9.6
+medicina,201,AREQUIPA,10.8
+medicina,202,AREQUIPA,NA
+medicina,203,AREQUIPA,10.4
+medicina,204,AREQUIPA,11.6
+medicina,205,AREQUIPA,NA
+medicina,206,AREQUIPA,NA
+medicina,207,AREQUIPA,NA
+medicina,208,AREQUIPA,5.8
+medicina,209,AREQUIPA,10
+medicina,210,AREQUIPA,11.2
+medicina,211,AREQUIPA,NA
+medicina,212,AREQUIPA,10.8
+medicina,213,AREQUIPA,12.4
+medicina,214,AREQUIPA,12.6
+medicina,215,AREQUIPA,10.2
+medicina,216,AREQUIPA,9.2
+medicina,217,AREQUIPA,NA
+medicina,218,AREQUIPA,8.8
+medicina,219,AYACUCHO,9.4
+medicina,220,AYACUCHO,12.4
+medicina,221,AYACUCHO,8.8
+medicina,222,AYACUCHO,10
+medicina,223,AYACUCHO,9.4
+medicina,224,AYACUCHO,8.6
+medicina,225,AYACUCHO,7.2
+medicina,226,AYACUCHO,11
+medicina,227,AYACUCHO,10.6
+medicina,228,AYACUCHO,9.8
+medicina,229,AYACUCHO,8
+medicina,230,AYACUCHO,10.2
+medicina,231,AYACUCHO,10.6
+medicina,232,AYACUCHO,8
+medicina,233,AYACUCHO,13.6
+medicina,234,AYACUCHO,NA
+medicina,235,AYACUCHO,12
+medicina,236,AYACUCHO,11.8
+medicina,237,AYACUCHO,10.6
+medicina,238,AYACUCHO,9
+medicina,239,AYACUCHO,5.4
+medicina,240,AYACUCHO,9.8
+medicina,241,AYACUCHO,12
+medicina,242,AYACUCHO,10.8
+medicina,243,AYACUCHO,12
+medicina,244,AYACUCHO,11
+medicina,245,AYACUCHO,12.6
+medicina,246,AYACUCHO,10.2
+medicina,247,AYACUCHO,8.6
+medicina,248,AYACUCHO,6.2
+medicina,249,AYACUCHO,10.4
+medicina,250,AYACUCHO,7.8
+medicina,251,AYACUCHO,11.2
+medicina,252,AYACUCHO,10.6
+medicina,253,AYACUCHO,7.8
+medicina,254,AYACUCHO,10.2
+medicina,255,AYACUCHO,8.6
+medicina,256,AYACUCHO,10
+medicina,257,AYACUCHO,10.4
+medicina,258,AYACUCHO,11.8
+medicina,259,AYACUCHO,6.8
+medicina,260,CAJAMARCA,9.2
+medicina,261,CAJAMARCA,9.4
+medicina,262,CAJAMARCA,11.6
+medicina,263,CAJAMARCA,9
+medicina,264,CAJAMARCA,12.2
+medicina,265,CAJAMARCA,9
+medicina,266,CAJAMARCA,11.2
+medicina,267,CAJAMARCA,10.6
+medicina,268,CAJAMARCA,12.4
+medicina,269,CAJAMARCA,10.8
+medicina,270,CAJAMARCA,10.2
+medicina,271,CAJAMARCA,9.6
+medicina,272,CAJAMARCA,13.4
+medicina,273,CAJAMARCA,12.4
+medicina,274,CAJAMARCA,11
+medicina,275,CAJAMARCA,12.2
+medicina,276,CAJAMARCA,11.4
+medicina,277,CAJAMARCA,11
+medicina,278,CAJAMARCA,13.2
+medicina,279,CAJAMARCA,8.8
+medicina,280,CAJAMARCA,11.6
+medicina,281,CAJAMARCA,10.6
+medicina,282,CAJAMARCA,7.6
+medicina,283,CAJAMARCA,10.8
+medicina,284,CAJAMARCA,10.8
+medicina,285,CAJAMARCA,11.2
+medicina,286,CAJAMARCA,9.4
+medicina,287,CAJAMARCA,8.8
+medicina,288,CAJAMARCA,11.4
+medicina,289,CAJAMARCA,8.8
+medicina,290,CAJAMARCA,11.2
+medicina,291,CAJAMARCA,11.8
+medicina,292,CAJAMARCA,8.6
+medicina,293,CAJAMARCA,8
+medicina,294,CAJAMARCA,8.6
+medicina,295,CAJAMARCA,10.4
+medicina,296,CAJAMARCA,7.8
+medicina,297,CAJAMARCA,9.8
+medicina,298,CAJAMARCA,8.2
+medicina,299,CAJAMARCA,12.4
+medicina,300,CAJAMARCA,10.6
+medicina,301,CAJAMARCA,13.2
+medicina,302,CAJAMARCA,11.2
+medicina,303,CAJAMARCA,10.4
+medicina,304,CALLAO,6
+medicina,305,CALLAO,8.4
+medicina,306,CALLAO,11.2
+medicina,307,CALLAO,11
+medicina,308,CALLAO,11
+medicina,309,CALLAO,8
+medicina,310,CALLAO,8.8
+medicina,311,CALLAO,12
+medicina,312,CALLAO,8
+medicina,313,CALLAO,11.8
+medicina,314,CALLAO,10.6
+medicina,315,CALLAO,NA
+medicina,316,CALLAO,NA
+medicina,317,CALLAO,10
+medicina,318,CALLAO,9
+medicina,319,CALLAO,10.2
+medicina,320,CALLAO,9.6
+medicina,321,CALLAO,9.8
+medicina,322,CALLAO,NA
+medicina,323,CALLAO,5
+medicina,324,CALLAO,9.8
+medicina,325,CALLAO,11
+medicina,326,CALLAO,10.2
+medicina,327,CALLAO,10.8
+medicina,328,CALLAO,9.8
+medicina,329,CALLAO,9.2
+medicina,330,CALLAO,10.2
+medicina,331,CALLAO,9.8
+medicina,332,CALLAO,NA
+medicina,333,CALLAO,12.2
+medicina,334,CALLAO,7.6
+medicina,335,CALLAO,11
+medicina,336,CALLAO,10.6
+medicina,337,CALLAO,9
+medicina,338,CALLAO,8.2
+medicina,339,CALLAO,7.4
+medicina,340,CALLAO,9.6
+medicina,341,CALLAO,11
+medicina,342,CALLAO,10.4
+medicina,343,CALLAO,13.2
+medicina,344,CALLAO,10
+medicina,345,CALLAO,10
+medicina,346,CALLAO,9.4
+medicina,347,CALLAO,8.4
+medicina,348,CALLAO,10
+medicina,349,CALLAO,10.6
+medicina,350,CALLAO,8.8
+medicina,351,CALLAO,10
+medicina,352,CUSCO,9.6
+medicina,353,CUSCO,11.2
+medicina,354,CUSCO,7.6
+medicina,355,CUSCO,7.8
+medicina,356,CUSCO,8.4
+medicina,357,CUSCO,11.2
+medicina,358,CUSCO,6.4
+medicina,359,CUSCO,9.4
+medicina,360,CUSCO,10.8
+medicina,361,CUSCO,11.6
+medicina,362,CUSCO,10.8
+medicina,363,CUSCO,13.8
+medicina,364,CUSCO,8.2
+medicina,365,CUSCO,12.2
+medicina,366,CUSCO,11.8
+medicina,367,CUSCO,12.8
+medicina,368,CUSCO,11.2
+medicina,369,CUSCO,11.8
+medicina,370,CUSCO,11
+medicina,371,CUSCO,10
+medicina,372,CUSCO,10.8
+medicina,373,CUSCO,12
+medicina,374,CUSCO,10.2
+medicina,375,CUSCO,5.8
+medicina,376,CUSCO,12.4
+medicina,377,CUSCO,10.6
+medicina,378,CUSCO,12.4
+medicina,379,CUSCO,10.2
+medicina,380,CUSCO,12.4
+medicina,381,CUSCO,8.6
+medicina,382,CUSCO,NA
+medicina,383,CUSCO,10.8
+medicina,384,CUSCO,8.4
+medicina,385,CUSCO,10.4
+medicina,386,CUSCO,11.2
+medicina,387,CUSCO,12.6
+medicina,388,CUSCO,12.6
+medicina,389,CUSCO,9.4
+medicina,390,CUSCO,NA
+medicina,391,CUSCO,14
+medicina,392,CUSCO,13.8
+medicina,393,CUSCO,10
+medicina,394,CUSCO,11.2
+medicina,395,CUSCO,13
+medicina,396,CUSCO,10
+medicina,397,CUSCO,12.2
+medicina,398,CUSCO,7.8
+medicina,399,CUSCO,6.2
+medicina,400,CUSCO,8.8
+medicina,401,CUSCO,11.6
+medicina,402,CUSCO,10.2
+medicina,403,CUSCO,13.4
+medicina,404,CUSCO,12.2
+medicina,405,CUSCO,11.6
+medicina,406,CUSCO,9
+medicina,407,CUSCO,11.6
+medicina,408,CUSCO,9.2
+medicina,409,CUSCO,9.4
+medicina,410,CUSCO,13.4
+medicina,411,CUSCO,10.2
+medicina,412,CUSCO,10.8
+medicina,413,CUSCO,8.6
+medicina,414,CUSCO,10.6
+medicina,415,CUSCO,9.4
+medicina,416,CUSCO,9.6
+medicina,417,CUSCO,11.8
+medicina,418,CUSCO,9.2
+medicina,419,CUSCO,12.8
+medicina,420,CUSCO,10.6
+medicina,421,CUSCO,10.8
+medicina,422,CUSCO,12
+medicina,423,CUSCO,8.6
+medicina,424,CUSCO,10.4
+medicina,425,CUSCO,8.6
+medicina,426,CUSCO,12.6
+medicina,427,CUSCO,10.4
+medicina,428,CUSCO,9.8
+medicina,429,CUSCO,12.4
+medicina,430,CUSCO,9.2
+medicina,431,CUSCO,13.6
+medicina,432,CUSCO,12
+medicina,433,CUSCO,NA
+medicina,434,CUSCO,10.8
+medicina,435,CUSCO,11
+medicina,436,CUSCO,9.4
+medicina,437,CUSCO,9.8
+medicina,438,CUSCO,9
+medicina,439,CUSCO,NA
+medicina,440,CUSCO,8.8
+medicina,441,CUSCO,NA
+medicina,442,CUSCO,9.8
+medicina,443,CUSCO,10.8
+medicina,444,CUSCO,10
+medicina,445,CUSCO,11.2
+medicina,446,CUSCO,12.6
+medicina,447,CUSCO,10.8
+medicina,448,CUSCO,10.2
+medicina,449,CUSCO,NA
+medicina,450,CUSCO,NA
+medicina,451,CUSCO,10.6
+medicina,452,CUSCO,9
+medicina,453,CUSCO,8
+medicina,454,CUSCO,10.4
+medicina,455,CUSCO,12
+medicina,456,CUSCO,10.8
+medicina,457,CUSCO,8.2
+medicina,458,CUSCO,11
+medicina,459,CUSCO,9.8
+medicina,460,CUSCO,12.8
+medicina,461,CUSCO,14.2
+medicina,462,CUSCO,12
+medicina,463,CUSCO,13.2
+medicina,464,CUSCO,11.2
+medicina,465,CUSCO,11.4
+medicina,466,CUSCO,11.2
+medicina,467,CUSCO,11.8
+medicina,468,CUSCO,9.6
+medicina,469,CUSCO,NA
+medicina,470,CUSCO,11
+medicina,471,CUSCO,9.8
+medicina,472,CUSCO,NA
+medicina,473,CUSCO,NA
+medicina,474,CUSCO,12.4
+medicina,475,CUSCO,NA
+medicina,476,CUSCO,NA
+medicina,477,CUSCO,8.4
+medicina,478,CUSCO,12.2
+medicina,479,CUSCO,10.6
+medicina,480,CUSCO,11.4
+medicina,481,CUSCO,6.2
+medicina,482,CUSCO,7.4
+medicina,483,CUSCO,9
+medicina,484,CUSCO,6.6
+medicina,485,CUSCO,12.6
+medicina,486,CUSCO,10.6
+medicina,487,CUSCO,11.8
+medicina,488,CUSCO,11.8
+medicina,489,CUSCO,14.4
+medicina,490,CUSCO,12.6
+medicina,491,CUSCO,9.8
+medicina,492,CUSCO,13.2
+medicina,493,CUSCO,12.6
+medicina,494,CUSCO,7.8
+medicina,495,CUSCO,11.2
+medicina,496,CUSCO,8.8
+medicina,497,CUSCO,9
+medicina,498,CUSCO,7.4
+medicina,499,CUSCO,11.4
+medicina,500,CUSCO,11
+medicina,501,CUSCO,8.4
+medicina,502,CUSCO,10.6
+medicina,503,CUSCO,10
+medicina,504,CUSCO,11.4
+medicina,505,CUSCO,12.6
+medicina,506,CUSCO,10.6
+medicina,507,CUSCO,11.2
+medicina,508,CUSCO,NA
+medicina,509,CUSCO,12.4
+medicina,510,CUSCO,12.8
+medicina,511,CUSCO,12.2
+medicina,512,CUSCO,10.2
+medicina,513,CUSCO,8.6
+medicina,514,CUSCO,10.4
+medicina,515,CUSCO,10.4
+medicina,516,CUSCO,7.4
+medicina,517,CUSCO,8.4
+medicina,518,CUSCO,9.6
+medicina,519,CUSCO,12
+medicina,520,CUSCO,9.6
+medicina,521,CUSCO,10.8
+medicina,522,CUSCO,10.4
+medicina,523,CUSCO,12.4
+medicina,524,CUSCO,10.6
+medicina,525,CUSCO,11.8
+medicina,526,CUSCO,9.8
+medicina,527,CUSCO,9.4
+medicina,528,CUSCO,8.4
+medicina,529,CUSCO,7.6
+medicina,530,CUSCO,8.2
+medicina,531,CUSCO,10.2
+medicina,532,CUSCO,11.2
+medicina,533,CUSCO,9.4
+medicina,534,CUSCO,11.2
+medicina,535,CUSCO,10.2
+medicina,536,CUSCO,8.4
+medicina,537,CUSCO,11.8
+medicina,538,CUSCO,7.8
+medicina,539,HUANCAVELICA,13.4
+medicina,540,HUANCAVELICA,NA
+medicina,541,HUANUCO,12.2
+medicina,542,HUANUCO,NA
+medicina,543,HUANUCO,8.4
+medicina,544,HUANUCO,10.8
+medicina,545,HUANUCO,12.8
+medicina,546,HUANUCO,7.2
+medicina,547,HUANUCO,9.2
+medicina,548,HUANUCO,8
+medicina,549,HUANUCO,9
+medicina,550,HUANUCO,12.4
+medicina,551,HUANUCO,10
+medicina,552,HUANUCO,11.6
+medicina,553,HUANUCO,11.8
+medicina,554,HUANUCO,11.8
+medicina,555,HUANUCO,12.6
+medicina,556,HUANUCO,11.6
+medicina,557,HUANUCO,9.8
+medicina,558,HUANUCO,12
+medicina,559,HUANUCO,13
+medicina,560,HUANUCO,NA
+medicina,561,HUANUCO,8.8
+medicina,562,HUANUCO,NA
+medicina,563,HUANUCO,11.4
+medicina,564,HUANUCO,11.6
+medicina,565,HUANUCO,12.4
+medicina,566,HUANUCO,8.6
+medicina,567,HUANUCO,NA
+medicina,568,HUANUCO,8
+medicina,569,HUANUCO,9.2
+medicina,570,HUANUCO,11.6
+medicina,571,HUANUCO,8.2
+medicina,572,HUANUCO,10.2
+medicina,573,HUANUCO,8.8
+medicina,574,HUANUCO,NA
+medicina,575,HUANUCO,9.8
+medicina,576,HUANUCO,13.6
+medicina,577,HUANUCO,6.2
+medicina,578,HUANUCO,11.4
+medicina,579,HUANUCO,10.6
+medicina,580,HUANUCO,10.8
+medicina,581,HUANUCO,9.6
+medicina,582,HUANUCO,14.8
+medicina,583,HUANUCO,11.8
+medicina,584,HUANUCO,NA
+medicina,585,HUANUCO,NA
+medicina,586,HUANUCO,11
+medicina,587,HUANUCO,10.8
+medicina,588,HUANUCO,9.6
+medicina,589,HUANUCO,7.4
+medicina,590,HUANUCO,NA
+medicina,591,HUANUCO,12.2
+medicina,592,HUANUCO,9.8
+medicina,593,HUANUCO,13.8
+medicina,594,HUANUCO,12
+medicina,595,HUANUCO,7.6
+medicina,596,HUANUCO,8.4
+medicina,597,ICA,10.8
+medicina,598,ICA,9.4
+medicina,599,ICA,9.4
+medicina,600,ICA,9.8
+medicina,601,ICA,14.6
+medicina,602,ICA,11.4
+medicina,603,ICA,7.8
+medicina,604,ICA,12.2
+medicina,605,ICA,12
+medicina,606,ICA,NA
+medicina,607,ICA,10.8
+medicina,608,ICA,10.2
+medicina,609,ICA,10.8
+medicina,610,ICA,8.6
+medicina,611,ICA,12.2
+medicina,612,ICA,10.6
+medicina,613,ICA,13.2
+medicina,614,ICA,12.8
+medicina,615,ICA,12
+medicina,616,ICA,10.6
+medicina,617,ICA,9.8
+medicina,618,ICA,6.4
+medicina,619,ICA,9.6
+medicina,620,ICA,9.8
+medicina,621,ICA,10.6
+medicina,622,ICA,12
+medicina,623,ICA,12
+medicina,624,ICA,10.8
+medicina,625,ICA,9.8
+medicina,626,ICA,11.6
+medicina,627,ICA,13
+medicina,628,ICA,10.6
+medicina,629,ICA,6.6
+medicina,630,ICA,12.8
+medicina,631,ICA,9.8
+medicina,632,ICA,NA
+medicina,633,ICA,9.4
+medicina,634,ICA,10.2
+medicina,635,ICA,12.4
+medicina,636,ICA,NA
+medicina,637,ICA,10.6
+medicina,638,ICA,NA
+medicina,639,ICA,9.6
+medicina,640,ICA,10
+medicina,641,ICA,9.4
+medicina,642,ICA,12.6
+medicina,643,ICA,9
+medicina,644,ICA,9.4
+medicina,645,ICA,10
+medicina,646,ICA,11.8
+medicina,647,ICA,8.6
+medicina,648,ICA,9
+medicina,649,ICA,NA
+medicina,650,ICA,10.8
+medicina,651,ICA,11.8
+medicina,652,ICA,10
+medicina,653,ICA,12.6
+medicina,654,ICA,NA
+medicina,655,ICA,NA
+medicina,656,ICA,10.2
+medicina,657,ICA,9.2
+medicina,658,ICA,12.2
+medicina,659,ICA,10.4
+medicina,660,ICA,NA
+medicina,661,ICA,9
+medicina,662,ICA,12.8
+medicina,663,ICA,9.4
+medicina,664,ICA,10.2
+medicina,665,ICA,9.6
+medicina,666,ICA,NA
+medicina,667,ICA,9.2
+medicina,668,ICA,13.6
+medicina,669,ICA,10
+medicina,670,ICA,10.6
+medicina,671,ICA,9.6
+medicina,672,ICA,9.8
+medicina,673,ICA,10.4
+medicina,674,ICA,11.8
+medicina,675,ICA,6.8
+medicina,676,ICA,NA
+medicina,677,ICA,9.2
+medicina,678,ICA,11.2
+medicina,679,ICA,10.8
+medicina,680,ICA,10
+medicina,681,ICA,10
+medicina,682,ICA,11.8
+medicina,683,ICA,11.6
+medicina,684,ICA,10.6
+medicina,685,ICA,10.6
+medicina,686,ICA,11.8
+medicina,687,ICA,11.4
+medicina,688,ICA,13.8
+medicina,689,ICA,9.4
+medicina,690,ICA,12.6
+medicina,691,ICA,11.4
+medicina,692,ICA,11.4
+medicina,693,ICA,6.8
+medicina,694,ICA,11.4
+medicina,695,ICA,9.4
+medicina,696,ICA,11.8
+medicina,697,ICA,NA
+medicina,698,ICA,10.6
+medicina,699,ICA,7
+medicina,700,ICA,10.4
+medicina,701,ICA,10
+medicina,702,ICA,11.4
+medicina,703,ICA,NA
+medicina,704,ICA,9
+medicina,705,ICA,11.2
+medicina,706,ICA,10.6
+medicina,707,ICA,8.6
+medicina,708,ICA,10.8
+medicina,709,ICA,10.8
+medicina,710,ICA,12.2
+medicina,711,ICA,9.2
+medicina,712,JUNIN,10.4
+medicina,713,JUNIN,12
+medicina,714,JUNIN,12
+medicina,715,JUNIN,11.6
+medicina,716,JUNIN,12.2
+medicina,717,JUNIN,10.6
+medicina,718,JUNIN,10.2
+medicina,719,JUNIN,8
+medicina,720,JUNIN,NA
+medicina,721,JUNIN,11
+medicina,722,JUNIN,13.4
+medicina,723,JUNIN,NA
+medicina,724,JUNIN,11.8
+medicina,725,JUNIN,11.4
+medicina,726,JUNIN,10
+medicina,727,JUNIN,12.4
+medicina,728,JUNIN,11.6
+medicina,729,JUNIN,9.2
+medicina,730,JUNIN,8.8
+medicina,731,JUNIN,8.4
+medicina,732,JUNIN,12.8
+medicina,733,JUNIN,10
+medicina,734,JUNIN,13.2
+medicina,735,JUNIN,11.4
+medicina,736,JUNIN,9
+medicina,737,JUNIN,NA
+medicina,738,JUNIN,12.6
+medicina,739,JUNIN,8.4
+medicina,740,JUNIN,10
+medicina,741,JUNIN,10.8
+medicina,742,JUNIN,10
+medicina,743,JUNIN,9.8
+medicina,744,JUNIN,14.4
+medicina,745,JUNIN,11.8
+medicina,746,JUNIN,10.6
+medicina,747,JUNIN,11
+medicina,748,JUNIN,9.8
+medicina,749,JUNIN,NA
+medicina,750,JUNIN,10
+medicina,751,JUNIN,9.6
+medicina,752,JUNIN,NA
+medicina,753,JUNIN,9.4
+medicina,754,JUNIN,6.4
+medicina,755,JUNIN,11.2
+medicina,756,JUNIN,11.6
+medicina,757,JUNIN,12.4
+medicina,758,JUNIN,13.4
+medicina,759,JUNIN,11.6
+medicina,760,JUNIN,10.6
+medicina,761,JUNIN,10.6
+medicina,762,JUNIN,13.2
+medicina,763,JUNIN,11.4
+medicina,764,JUNIN,9
+medicina,765,JUNIN,10.6
+medicina,766,JUNIN,11
+medicina,767,JUNIN,9.2
+medicina,768,JUNIN,11.4
+medicina,769,JUNIN,7.6
+medicina,770,JUNIN,12.8
+medicina,771,JUNIN,12
+medicina,772,JUNIN,10.2
+medicina,773,JUNIN,NA
+medicina,774,JUNIN,NA
+medicina,775,JUNIN,9.2
+medicina,776,JUNIN,13
+medicina,777,JUNIN,14.4
+medicina,778,JUNIN,10
+medicina,779,JUNIN,8.4
+medicina,780,JUNIN,12.2
+medicina,781,JUNIN,9.2
+medicina,782,JUNIN,9.8
+medicina,783,JUNIN,11.2
+medicina,784,JUNIN,13.2
+medicina,785,JUNIN,NA
+medicina,786,JUNIN,10.8
+medicina,787,JUNIN,11.2
+medicina,788,JUNIN,10.8
+medicina,789,JUNIN,9.8
+medicina,790,JUNIN,12.2
+medicina,791,JUNIN,13.4
+medicina,792,JUNIN,11.4
+medicina,793,JUNIN,11.2
+medicina,794,JUNIN,12
+medicina,795,JUNIN,9.4
+medicina,796,JUNIN,9.8
+medicina,797,JUNIN,8
+medicina,798,JUNIN,10.4
+medicina,799,JUNIN,11.4
+medicina,800,JUNIN,12.4
+medicina,801,JUNIN,10.6
+medicina,802,JUNIN,11.4
+medicina,803,LA LIBERTAD,9.8
+medicina,804,LA LIBERTAD,12.2
+medicina,805,LA LIBERTAD,7.6
+medicina,806,LA LIBERTAD,10.4
+medicina,807,LA LIBERTAD,12
+medicina,808,LA LIBERTAD,10.8
+medicina,809,LA LIBERTAD,10
+medicina,810,LA LIBERTAD,11.4
+medicina,811,LA LIBERTAD,9.2
+medicina,812,LA LIBERTAD,NA
+medicina,813,LA LIBERTAD,11.6
+medicina,814,LA LIBERTAD,11.4
+medicina,815,LA LIBERTAD,11
+medicina,816,LA LIBERTAD,11.2
+medicina,817,LA LIBERTAD,8.2
+medicina,818,LA LIBERTAD,10.6
+medicina,819,LA LIBERTAD,11
+medicina,820,LA LIBERTAD,9.2
+medicina,821,LA LIBERTAD,12.2
+medicina,822,LA LIBERTAD,12
+medicina,823,LA LIBERTAD,11.8
+medicina,824,LA LIBERTAD,10
+medicina,825,LA LIBERTAD,10.6
+medicina,826,LA LIBERTAD,12.2
+medicina,827,LA LIBERTAD,11
+medicina,828,LA LIBERTAD,10.6
+medicina,829,LA LIBERTAD,11.8
+medicina,830,LA LIBERTAD,11.4
+medicina,831,LA LIBERTAD,NA
+medicina,832,LA LIBERTAD,NA
+medicina,833,LA LIBERTAD,13.6
+medicina,834,LA LIBERTAD,9.6
+medicina,835,LA LIBERTAD,11
+medicina,836,LA LIBERTAD,9.2
+medicina,837,LA LIBERTAD,13
+medicina,838,LA LIBERTAD,12.2
+medicina,839,LA LIBERTAD,NA
+medicina,840,LA LIBERTAD,9
+medicina,841,LA LIBERTAD,10.2
+medicina,842,LA LIBERTAD,12.6
+medicina,843,LA LIBERTAD,NA
+medicina,844,LA LIBERTAD,10.2
+medicina,845,LA LIBERTAD,10
+medicina,846,LA LIBERTAD,8
+medicina,847,LA LIBERTAD,NA
+medicina,848,LA LIBERTAD,11.2
+medicina,849,LA LIBERTAD,9.6
+medicina,850,LA LIBERTAD,13
+medicina,851,LA LIBERTAD,NA
+medicina,852,LA LIBERTAD,11.8
+medicina,853,LA LIBERTAD,9.6
+medicina,854,LA LIBERTAD,12.4
+medicina,855,LA LIBERTAD,12
+medicina,856,LA LIBERTAD,12
+medicina,857,LA LIBERTAD,8.2
+medicina,858,LA LIBERTAD,11.8
+medicina,859,LA LIBERTAD,10.6
+medicina,860,LA LIBERTAD,12
+medicina,861,LA LIBERTAD,9.8
+medicina,862,LA LIBERTAD,7.6
+medicina,863,LA LIBERTAD,NA
+medicina,864,LA LIBERTAD,NA
+medicina,865,LA LIBERTAD,10.2
+medicina,866,LA LIBERTAD,8.2
+medicina,867,LA LIBERTAD,10.4
+medicina,868,LA LIBERTAD,10.4
+medicina,869,LA LIBERTAD,12.2
+medicina,870,LA LIBERTAD,10
+medicina,871,LA LIBERTAD,13.6
+medicina,872,LA LIBERTAD,8.2
+medicina,873,LA LIBERTAD,12.4
+medicina,874,LA LIBERTAD,13.6
+medicina,875,LA LIBERTAD,NA
+medicina,876,LA LIBERTAD,11.4
+medicina,877,LA LIBERTAD,11
+medicina,878,LA LIBERTAD,10.2
+medicina,879,LA LIBERTAD,11.2
+medicina,880,LA LIBERTAD,9
+medicina,881,LA LIBERTAD,9.4
+medicina,882,LA LIBERTAD,9.6
+medicina,883,LA LIBERTAD,11.2
+medicina,884,LA LIBERTAD,8.8
+medicina,885,LA LIBERTAD,11.2
+medicina,886,LA LIBERTAD,8.8
+medicina,887,LA LIBERTAD,11.4
+medicina,888,LA LIBERTAD,8.2
+medicina,889,LA LIBERTAD,11.6
+medicina,890,LA LIBERTAD,NA
+medicina,891,LA LIBERTAD,12.4
+medicina,892,LA LIBERTAD,10
+medicina,893,LA LIBERTAD,8.8
+medicina,894,LA LIBERTAD,9.4
+medicina,895,LA LIBERTAD,10.2
+medicina,896,LA LIBERTAD,12.2
+medicina,897,LA LIBERTAD,10.8
+medicina,898,LA LIBERTAD,11.4
+medicina,899,LA LIBERTAD,10.4
+medicina,900,LA LIBERTAD,9.2
+medicina,901,LA LIBERTAD,10.8
+medicina,902,LA LIBERTAD,10.4
+medicina,903,LA LIBERTAD,9.2
+medicina,904,LA LIBERTAD,12.8
+medicina,905,LA LIBERTAD,9.8
+medicina,906,LA LIBERTAD,8.6
+medicina,907,LA LIBERTAD,13.8
+medicina,908,LA LIBERTAD,13.6
+medicina,909,LA LIBERTAD,10.2
+medicina,910,LA LIBERTAD,12
+medicina,911,LA LIBERTAD,12.2
+medicina,912,LA LIBERTAD,9.8
+medicina,913,LA LIBERTAD,6.4
+medicina,914,LA LIBERTAD,11
+medicina,915,LA LIBERTAD,12.2
+medicina,916,LA LIBERTAD,9.8
+medicina,917,LA LIBERTAD,12.2
+medicina,918,LA LIBERTAD,9.2
+medicina,919,LA LIBERTAD,9.6
+medicina,920,LA LIBERTAD,12.6
+medicina,921,LA LIBERTAD,11.2
+medicina,922,LA LIBERTAD,10.2
+medicina,923,LA LIBERTAD,13.2
+medicina,924,LA LIBERTAD,10.8
+medicina,925,LA LIBERTAD,12.4
+medicina,926,LA LIBERTAD,10.6
+medicina,927,LA LIBERTAD,11.2
+medicina,928,LA LIBERTAD,10.4
+medicina,929,LA LIBERTAD,9.8
+medicina,930,LA LIBERTAD,12.2
+medicina,931,LA LIBERTAD,11.8
+medicina,932,LA LIBERTAD,9.6
+medicina,933,LA LIBERTAD,11.4
+medicina,934,LA LIBERTAD,12.6
+medicina,935,LA LIBERTAD,10
+medicina,936,LA LIBERTAD,13.2
+medicina,937,LA LIBERTAD,10.8
+medicina,938,LA LIBERTAD,11.4
+medicina,939,LA LIBERTAD,10.2
+medicina,940,LA LIBERTAD,NA
+medicina,941,LA LIBERTAD,12.2
+medicina,942,LA LIBERTAD,8.2
+medicina,943,LA LIBERTAD,12.8
+medicina,944,LA LIBERTAD,NA
+medicina,945,LA LIBERTAD,10.6
+medicina,946,LA LIBERTAD,8.8
+medicina,947,LA LIBERTAD,9.4
+medicina,948,LA LIBERTAD,7.8
+medicina,949,LA LIBERTAD,9.6
+medicina,950,LA LIBERTAD,7.8
+medicina,951,LA LIBERTAD,10.8
+medicina,952,LA LIBERTAD,NA
+medicina,953,LA LIBERTAD,12.6
+medicina,954,LA LIBERTAD,11
+medicina,955,LA LIBERTAD,11.6
+medicina,956,LA LIBERTAD,10.4
+medicina,957,LA LIBERTAD,13.8
+medicina,958,LA LIBERTAD,13
+medicina,959,LA LIBERTAD,9.8
+medicina,960,LA LIBERTAD,14.2
+medicina,961,LA LIBERTAD,9.8
+medicina,962,LA LIBERTAD,9.6
+medicina,963,LA LIBERTAD,NA
+medicina,964,LA LIBERTAD,12.2
+medicina,965,LA LIBERTAD,11
+medicina,966,LA LIBERTAD,10.2
+medicina,967,LA LIBERTAD,11.8
+medicina,968,LA LIBERTAD,7.2
+medicina,969,LA LIBERTAD,10.4
+medicina,970,LA LIBERTAD,7.4
+medicina,971,LA LIBERTAD,NA
+medicina,972,LA LIBERTAD,8.6
+medicina,973,LA LIBERTAD,8.6
+medicina,974,LA LIBERTAD,11
+medicina,975,LA LIBERTAD,NA
+medicina,976,LA LIBERTAD,8.6
+medicina,977,LA LIBERTAD,9.6
+medicina,978,LA LIBERTAD,9.2
+medicina,979,LA LIBERTAD,10.2
+medicina,980,LA LIBERTAD,NA
+medicina,981,LA LIBERTAD,11.4
+medicina,982,LA LIBERTAD,14.8
+medicina,983,LA LIBERTAD,11.2
+medicina,984,LA LIBERTAD,9.2
+medicina,985,LA LIBERTAD,10.2
+medicina,986,LA LIBERTAD,9.8
+medicina,987,LA LIBERTAD,8.6
+medicina,988,LA LIBERTAD,11.6
+medicina,989,LA LIBERTAD,10.2
+medicina,990,LA LIBERTAD,12.4
+medicina,991,LA LIBERTAD,11.4
+medicina,992,LA LIBERTAD,12.6
+medicina,993,LA LIBERTAD,13
+medicina,994,LA LIBERTAD,9.6
+medicina,995,LA LIBERTAD,13.6
+medicina,996,LA LIBERTAD,12.8
+medicina,997,LA LIBERTAD,11.6
+medicina,998,LA LIBERTAD,12
+medicina,999,LA LIBERTAD,12
+medicina,1000,LA LIBERTAD,10
+medicina,1001,LA LIBERTAD,10.2
+medicina,1002,LA LIBERTAD,NA
+medicina,1003,LA LIBERTAD,13.4
+medicina,1004,LA LIBERTAD,9.6
+medicina,1005,LA LIBERTAD,10
+medicina,1006,LA LIBERTAD,10
+medicina,1007,LA LIBERTAD,7.8
+medicina,1008,LA LIBERTAD,11.4
+medicina,1009,LA LIBERTAD,9.8
+medicina,1010,LA LIBERTAD,9.8
+medicina,1011,LA LIBERTAD,9.8
+medicina,1012,LAMBAYEQUE,10.8
+medicina,1013,LAMBAYEQUE,10.4
+medicina,1014,LAMBAYEQUE,11
+medicina,1015,LAMBAYEQUE,11
+medicina,1016,LAMBAYEQUE,9.8
+medicina,1017,LAMBAYEQUE,10.8
+medicina,1018,LAMBAYEQUE,11.6
+medicina,1019,LAMBAYEQUE,13.4
+medicina,1020,LAMBAYEQUE,9.8
+medicina,1021,LAMBAYEQUE,12.6
+medicina,1022,LAMBAYEQUE,11.4
+medicina,1023,LAMBAYEQUE,13
+medicina,1024,LAMBAYEQUE,13
+medicina,1025,LAMBAYEQUE,10.6
+medicina,1026,LAMBAYEQUE,NA
+medicina,1027,LAMBAYEQUE,11
+medicina,1028,LAMBAYEQUE,11.4
+medicina,1029,LAMBAYEQUE,11.8
+medicina,1030,LAMBAYEQUE,8.4
+medicina,1031,LAMBAYEQUE,10.8
+medicina,1032,LAMBAYEQUE,11.2
+medicina,1033,LAMBAYEQUE,11.4
+medicina,1034,LAMBAYEQUE,10.4
+medicina,1035,LAMBAYEQUE,10.8
+medicina,1036,LAMBAYEQUE,9.6
+medicina,1037,LAMBAYEQUE,10.2
+medicina,1038,LAMBAYEQUE,10.8
+medicina,1039,LAMBAYEQUE,10.4
+medicina,1040,LAMBAYEQUE,9
+medicina,1041,LAMBAYEQUE,10.8
+medicina,1042,LAMBAYEQUE,10.4
+medicina,1043,LAMBAYEQUE,11.8
+medicina,1044,LAMBAYEQUE,9.8
+medicina,1045,LAMBAYEQUE,11.4
+medicina,1046,LAMBAYEQUE,11.6
+medicina,1047,LAMBAYEQUE,11
+medicina,1048,LAMBAYEQUE,8.8
+medicina,1049,LAMBAYEQUE,9.6
+medicina,1050,LAMBAYEQUE,11.2
+medicina,1051,LAMBAYEQUE,12.2
+medicina,1052,LAMBAYEQUE,9.4
+medicina,1053,LAMBAYEQUE,12.2
+medicina,1054,LAMBAYEQUE,10.6
+medicina,1055,LAMBAYEQUE,8.8
+medicina,1056,LAMBAYEQUE,9.8
+medicina,1057,LAMBAYEQUE,NA
+medicina,1058,LAMBAYEQUE,10.4
+medicina,1059,LAMBAYEQUE,10.2
+medicina,1060,LAMBAYEQUE,12.2
+medicina,1061,LAMBAYEQUE,9.6
+medicina,1062,LAMBAYEQUE,12.4
+medicina,1063,LAMBAYEQUE,8.6
+medicina,1064,LAMBAYEQUE,12.6
+medicina,1065,LAMBAYEQUE,11
+medicina,1066,LAMBAYEQUE,11.6
+medicina,1067,LAMBAYEQUE,NA
+medicina,1068,LAMBAYEQUE,12.2
+medicina,1069,LAMBAYEQUE,9
+medicina,1070,LAMBAYEQUE,10
+medicina,1071,LAMBAYEQUE,10.8
+medicina,1072,LAMBAYEQUE,12
+medicina,1073,LAMBAYEQUE,12.2
+medicina,1074,LAMBAYEQUE,11.8
+medicina,1075,LAMBAYEQUE,9.6
+medicina,1076,LAMBAYEQUE,11
+medicina,1077,LAMBAYEQUE,11.8
+medicina,1078,LAMBAYEQUE,12.4
+medicina,1079,LAMBAYEQUE,9.4
+medicina,1080,LAMBAYEQUE,12.6
+medicina,1081,LAMBAYEQUE,11.8
+medicina,1082,LAMBAYEQUE,10
+medicina,1083,LAMBAYEQUE,10.8
+medicina,1084,LAMBAYEQUE,NA
+medicina,1085,LAMBAYEQUE,11.2
+medicina,1086,LAMBAYEQUE,8.8
+medicina,1087,LAMBAYEQUE,8.6
+medicina,1088,LAMBAYEQUE,9.8
+medicina,1089,LAMBAYEQUE,10.6
+medicina,1090,LAMBAYEQUE,11.4
+medicina,1091,LAMBAYEQUE,12.2
+medicina,1092,LAMBAYEQUE,10.4
+medicina,1093,LAMBAYEQUE,11.8
+medicina,1094,LAMBAYEQUE,7.6
+medicina,1095,LAMBAYEQUE,10.6
+medicina,1096,LAMBAYEQUE,10
+medicina,1097,LAMBAYEQUE,11
+medicina,1098,LAMBAYEQUE,10.6
+medicina,1099,LAMBAYEQUE,10.6
+medicina,1100,LAMBAYEQUE,9.8
+medicina,1101,LAMBAYEQUE,10.2
+medicina,1102,LAMBAYEQUE,10.2
+medicina,1103,LAMBAYEQUE,9.8
+medicina,1104,LAMBAYEQUE,11.8
+medicina,1105,LAMBAYEQUE,11.2
+medicina,1106,LAMBAYEQUE,10.4
+medicina,1107,LAMBAYEQUE,8.4
+medicina,1108,LAMBAYEQUE,9
+medicina,1109,LAMBAYEQUE,10.8
+medicina,1110,LAMBAYEQUE,10.4
+medicina,1111,LAMBAYEQUE,12.4
+medicina,1112,LAMBAYEQUE,11.2
+medicina,1113,LAMBAYEQUE,8.4
+medicina,1114,LAMBAYEQUE,10.2
+medicina,1115,LAMBAYEQUE,12.6
+medicina,1116,LAMBAYEQUE,10
+medicina,1117,LAMBAYEQUE,9.4
+medicina,1118,LAMBAYEQUE,9.4
+medicina,1119,LAMBAYEQUE,NA
+medicina,1120,LAMBAYEQUE,11.8
+medicina,1121,LAMBAYEQUE,11
+medicina,1122,LAMBAYEQUE,12.8
+medicina,1123,LAMBAYEQUE,11
+medicina,1124,LAMBAYEQUE,11.4
+medicina,1125,LAMBAYEQUE,10
+medicina,1126,LAMBAYEQUE,11.2
+medicina,1127,LAMBAYEQUE,10.4
+medicina,1128,LAMBAYEQUE,9
+medicina,1129,LAMBAYEQUE,13
+medicina,1130,LAMBAYEQUE,9.8
+medicina,1131,LAMBAYEQUE,11.2
+medicina,1132,LAMBAYEQUE,10.4
+medicina,1133,LAMBAYEQUE,11.6
+medicina,1134,LAMBAYEQUE,11.8
+medicina,1135,LAMBAYEQUE,11.2
+medicina,1136,LAMBAYEQUE,11.4
+medicina,1137,LAMBAYEQUE,11.4
+medicina,1138,LAMBAYEQUE,12.4
+medicina,1139,LAMBAYEQUE,11
+medicina,1140,LAMBAYEQUE,11.6
+medicina,1141,LAMBAYEQUE,10.4
+medicina,1142,LAMBAYEQUE,10.4
+medicina,1143,LAMBAYEQUE,9.6
+medicina,1144,LIMA NORTE,7.4
+medicina,1145,LIMA NORTE,10.2
+medicina,1146,LIMA NORTE,9.4
+medicina,1147,LIMA NORTE,13
+medicina,1148,LIMA NORTE,11
+medicina,1149,LIMA NORTE,12.4
+medicina,1150,LIMA NORTE,11.8
+medicina,1151,LIMA NORTE,8.6
+medicina,1152,LIMA NORTE,9.2
+medicina,1153,LIMA NORTE,12.4
+medicina,1154,LIMA NORTE,8.8
+medicina,1155,LIMA NORTE,8.8
+medicina,1156,LIMA NORTE,12
+medicina,1157,LIMA NORTE,12.6
+medicina,1158,LIMA NORTE,13.2
+medicina,1159,LIMA NORTE,9.8
+medicina,1160,LIMA NORTE,9.8
+medicina,1161,LIMA NORTE,6.8
+medicina,1162,LIMA NORTE,NA
+medicina,1163,LIMA NORTE,12.4
+medicina,1164,LIMA NORTE,9.8
+medicina,1165,LIMA NORTE,12
+medicina,1166,LIMA NORTE,11
+medicina,1167,LIMA NORTE,11.2
+medicina,1168,LIMA NORTE,NA
+medicina,1169,LIMA NORTE,10.8
+medicina,1170,LIMA NORTE,9
+medicina,1171,LIMA NORTE,10.2
+medicina,1172,LIMA NORTE,10.6
+medicina,1173,LIMA NORTE,9.4
+medicina,1174,LIMA NORTE,8.2
+medicina,1175,LIMA NORTE,NA
+medicina,1176,LIMA NORTE,10.6
+medicina,1177,LIMA NORTE,10
+medicina,1178,LIMA NORTE,9.2
+medicina,1179,LIMA NORTE,9.4
+medicina,1180,LIMA NORTE,8
+medicina,1181,LIMA NORTE,9.4
+medicina,1182,LIMA NORTE,14
+medicina,1183,LIMA NORTE,8
+medicina,1184,LIMA NORTE,8.6
+medicina,1185,LIMA NORTE,8.8
+medicina,1186,LIMA NORTE,10.4
+medicina,1187,LIMA NORTE,11.2
+medicina,1188,LIMA NORTE,11.2
+medicina,1189,LIMA NORTE,8.2
+medicina,1190,LIMA NORTE,12.8
+medicina,1191,LIMA NORTE,8
+medicina,1192,LIMA NORTE,10
+medicina,1193,LIMA NORTE,10
+medicina,1194,LIMA NORTE,11.2
+medicina,1195,LIMA NORTE,11
+medicina,1196,LIMA NORTE,10.4
+medicina,1197,LIMA NORTE,11.4
+medicina,1198,LIMA NORTE,NA
+medicina,1199,LIMA NORTE,8.2
+medicina,1200,LIMA NORTE,NA
+medicina,1201,LIMA NORTE,10.6
+medicina,1202,LIMA NORTE,11
+medicina,1203,LIMA NORTE,10
+medicina,1204,LIMA NORTE,NA
+medicina,1205,LIMA NORTE,11
+medicina,1206,LIMA NORTE,10.4
+medicina,1207,LIMA NORTE,NA
+medicina,1208,LIMA NORTE,NA
+medicina,1209,LIMA NORTE,12.2
+medicina,1210,LIMA NORTE,NA
+medicina,1211,LIMA NORTE,10
+medicina,1212,LIMA NORTE,9.8
+medicina,1213,LIMA NORTE,8.8
+medicina,1214,LIMA NORTE,9.4
+medicina,1215,LIMA NORTE,8.4
+medicina,1216,LIMA NORTE,8.4
+medicina,1217,LIMA NORTE,NA
+medicina,1218,LIMA NORTE,8
+medicina,1219,LIMA NORTE,13.2
+medicina,1220,LIMA NORTE,NA
+medicina,1221,LIMA NORTE,9.8
+medicina,1222,LIMA NORTE,10.6
+medicina,1223,LIMA NORTE,11.2
+medicina,1224,LIMA NORTE,13.8
+medicina,1225,LIMA NORTE,8.2
+medicina,1226,LIMA NORTE,9.8
+medicina,1227,LIMA NORTE,10
+medicina,1228,LIMA NORTE,NA
+medicina,1229,LIMA NORTE,13.2
+medicina,1230,LIMA NORTE,10.6
+medicina,1231,LIMA NORTE,8.4
+medicina,1232,LIMA NORTE,11.2
+medicina,1233,LIMA NORTE,10.4
+medicina,1234,LIMA NORTE,10.8
+medicina,1235,LIMA NORTE,10
+medicina,1236,LIMA NORTE,14
+medicina,1237,LIMA NORTE,9.6
+medicina,1238,LIMA NORTE,12.4
+medicina,1239,LIMA NORTE,8.8
+medicina,1240,LIMA NORTE,9.6
+medicina,1241,LIMA NORTE,9
+medicina,1242,LIMA NORTE,11
+medicina,1243,LIMA NORTE,11.6
+medicina,1244,LIMA NORTE,10.2
+medicina,1245,LIMA NORTE,11.8
+medicina,1246,LIMA NORTE,11.8
+medicina,1247,LIMA NORTE,8.8
+medicina,1248,LIMA NORTE,6.4
+medicina,1249,LIMA NORTE,12
+medicina,1250,LIMA NORTE,11.8
+medicina,1251,LIMA NORTE,10.4
+medicina,1252,LIMA NORTE,11.8
+medicina,1253,LIMA NORTE,10
+medicina,1254,LIMA NORTE,12
+medicina,1255,LIMA NORTE,12
+medicina,1256,LIMA NORTE,12.6
+medicina,1257,LIMA NORTE,9.6
+medicina,1258,LIMA NORTE,10.8
+medicina,1259,LIMA NORTE,11.6
+medicina,1260,LIMA NORTE,9.2
+medicina,1261,LIMA NORTE,10.4
+medicina,1262,LIMA NORTE,6.8
+medicina,1263,LIMA NORTE,7.8
+medicina,1264,LIMA NORTE,9.2
+medicina,1265,LIMA NORTE,9.6
+medicina,1266,LIMA NORTE,10.6
+medicina,1267,LIMA NORTE,12.2
+medicina,1268,LIMA NORTE,8.2
+medicina,1269,LIMA NORTE,9.2
+medicina,1270,LIMA NORTE,11.8
+medicina,1271,LIMA NORTE,12.8
+medicina,1272,LIMA NORTE,7.8
+medicina,1273,LIMA NORTE,NA
+medicina,1274,LIMA NORTE,8.4
+medicina,1275,LIMA NORTE,9.2
+medicina,1276,LIMA NORTE,7
+medicina,1277,LIMA NORTE,7
+medicina,1278,LIMA NORTE,10.6
+medicina,1279,LIMA NORTE,7.6
+medicina,1280,LIMA NORTE,10.6
+medicina,1281,LIMA NORTE,7.2
+medicina,1282,LIMA NORTE,NA
+medicina,1283,LIMA NORTE,7.6
+medicina,1284,LIMA NORTE,7.6
+medicina,1285,LIMA NORTE,NA
+medicina,1286,LIMA NORTE,9.4
+medicina,1287,LIMA NORTE,10.8
+medicina,1288,LIMA NORTE,8.2
+medicina,1289,LIMA NORTE,11
+medicina,1290,LIMA NORTE,10
+medicina,1291,LIMA NORTE,NA
+medicina,1292,LIMA NORTE,11.4
+medicina,1293,LIMA NORTE,4.8
+medicina,1294,LIMA NORTE,11.6
+medicina,1295,LIMA NORTE,7.8
+medicina,1296,LIMA NORTE,10.4
+medicina,1297,LIMA NORTE,8.2
+medicina,1298,LIMA NORTE,12.2
+medicina,1299,LIMA NORTE,6
+medicina,1300,LIMA NORTE,9.8
+medicina,1301,LIMA NORTE,8.6
+medicina,1302,LIMA NORTE,8.6
+medicina,1303,LIMA NORTE,8.2
+medicina,1304,LIMA NORTE,10
+medicina,1305,LIMA NORTE,8.8
+medicina,1306,LIMA NORTE,8.2
+medicina,1307,LIMA NORTE,NA
+medicina,1308,LIMA NORTE,4.8
+medicina,1309,LIMA NORTE,9
+medicina,1310,LIMA NORTE,7.2
+medicina,1311,LIMA NORTE,8
+medicina,1312,LIMA NORTE,4.2
+medicina,1313,LIMA NORTE,13.4
+medicina,1314,LIMA NORTE,10.4
+medicina,1315,LIMA NORTE,4.8
+medicina,1316,LIMA NORTE,NA
+medicina,1317,LIMA NORTE,12.4
+medicina,1318,LIMA NORTE,10.8
+medicina,1319,LIMA NORTE,8.4
+medicina,1320,LIMA NORTE,11
+medicina,1321,LIMA NORTE,10
+medicina,1322,LIMA NORTE,11.8
+medicina,1323,LIMA NORTE,9.2
+medicina,1324,LIMA NORTE,13.2
+medicina,1325,LIMA NORTE,11
+medicina,1326,LIMA NORTE,13.4
+medicina,1327,LIMA NORTE,8
+medicina,1328,LIMA NORTE,10.4
+medicina,1329,LIMA NORTE,13.8
+medicina,1330,LIMA NORTE,9.8
+medicina,1331,LIMA NORTE,NA
+medicina,1332,LIMA NORTE,5.8
+medicina,1333,LIMA NORTE,NA
+medicina,1334,LIMA NORTE,10.4
+medicina,1335,LIMA NORTE,13.4
+medicina,1336,LIMA NORTE,9.2
+medicina,1337,LIMA NORTE,10.8
+medicina,1338,LIMA NORTE,14.2
+medicina,1339,LIMA NORTE,12.2
+medicina,1340,LIMA NORTE,11.2
+medicina,1341,LIMA NORTE,NA
+medicina,1342,LIMA NORTE,6.2
+medicina,1343,LIMA NORTE,12.2
+medicina,1344,LIMA NORTE,9.6
+medicina,1345,LIMA NORTE,10.6
+medicina,1346,LIMA NORTE,11.6
+medicina,1347,LIMA NORTE,11.4
+medicina,1348,LIMA NORTE,7.2
+medicina,1349,LIMA NORTE,9
+medicina,1350,LIMA NORTE,12.6
+medicina,1351,LIMA NORTE,13.4
+medicina,1352,LIMA NORTE,10.6
+medicina,1353,LIMA NORTE,NA
+medicina,1354,LIMA NORTE,8.8
+medicina,1355,LIMA NORTE,9.8
+medicina,1356,LIMA NORTE,NA
+medicina,1357,LIMA NORTE,10.4
+medicina,1358,LIMA NORTE,4.6
+medicina,1359,LIMA NORTE,NA
+medicina,1360,LIMA NORTE,NA
+medicina,1361,LIMA NORTE,12.4
+medicina,1362,LIMA NORTE,10.2
+medicina,1363,LIMA NORTE,9.6
+medicina,1364,LIMA NORTE,NA
+medicina,1365,LIMA NORTE,14.4
+medicina,1366,LIMA NORTE,10.2
+medicina,1367,LIMA NORTE,8
+medicina,1368,LIMA NORTE,10.2
+medicina,1369,LIMA NORTE,12.2
+medicina,1370,LIMA NORTE,13.8
+medicina,1371,LIMA NORTE,11.8
+medicina,1372,LIMA NORTE,10
+medicina,1373,LIMA NORTE,10
+medicina,1374,LIMA NORTE,9.4
+medicina,1375,LIMA NORTE,9.6
+medicina,1376,LIMA NORTE,11.6
+medicina,1377,LIMA NORTE,12
+medicina,1378,LIMA NORTE,8.8
+medicina,1409,LIMA NORTE,10.8
+medicina,1410,LIMA NORTE,10.2
+medicina,1411,LIMA NORTE,10.6
+medicina,1412,LIMA NORTE,12.4
+medicina,1413,LIMA NORTE,NA
+medicina,1414,LIMA NORTE,10.6
+medicina,1415,LIMA NORTE,8.2
+medicina,1416,LIMA NORTE,11.6
+medicina,1417,LIMA NORTE,12.6
+medicina,1418,LIMA NORTE,10.2
+medicina,1419,LIMA NORTE,6
+medicina,1420,LIMA NORTE,12
+medicina,1421,LIMA NORTE,NA
+medicina,1422,LIMA NORTE,13.2
+medicina,1423,LIMA NORTE,10.2
+medicina,1424,LIMA NORTE,7.6
+medicina,1425,LIMA NORTE,11
+medicina,1426,LIMA NORTE,7.8
+medicina,1427,LIMA NORTE,11.2
+medicina,1428,LIMA NORTE,12.2
+medicina,1429,LIMA NORTE,NA
+medicina,1430,LIMA NORTE,11.8
+medicina,1431,LIMA NORTE,8.8
+medicina,1432,LIMA NORTE,7.4
+medicina,1433,LIMA REGION,NA
+medicina,1434,LIMA REGION,10.4
+medicina,1435,LIMA REGION,8
+medicina,1436,LIMA REGION,NA
+medicina,1437,LIMA REGION,9.6
+medicina,1438,LIMA REGION,9.2
+medicina,1439,LIMA REGION,12.2
+medicina,1440,LIMA REGION,10
+medicina,1441,LIMA REGION,8.2
+medicina,1442,LIMA REGION,11
+medicina,1443,LIMA REGION,7
+medicina,1444,LIMA REGION,9.8
+medicina,1445,LIMA REGION,9.2
+medicina,1446,LIMA REGION,11.4
+medicina,1447,LIMA REGION,7.4
+medicina,1448,LIMA REGION,NA
+medicina,1449,LIMA REGION,10
+medicina,1450,LIMA REGION,NA
+medicina,1451,LIMA REGION,7.8
+medicina,1452,LIMA REGION,10.8
+medicina,1453,LIMA REGION,8.6
+medicina,1454,LIMA REGION,8.2
+medicina,1455,LIMA REGION,NA
+medicina,1456,LIMA REGION,13.8
+medicina,1457,LIMA REGION,NA
+medicina,1458,LIMA REGION,10.8
+medicina,1459,LIMA REGION,12.4
+medicina,1460,LIMA REGION,8.6
+medicina,1461,LIMA REGION,NA
+medicina,1462,LIMA REGION,11.8
+medicina,1463,LIMA REGION,11.4
+medicina,1464,LIMA REGION,NA
+medicina,1465,LIMA REGION,10.4
+medicina,1466,LIMA REGION,NA
+medicina,1467,LIMA REGION,9.4
+medicina,1468,LIMA REGION,10
+medicina,1469,LIMA REGION,11
+medicina,1470,LIMA REGION,12
+medicina,1471,LIMA REGION,12.6
+medicina,1472,LIMA REGION,11.6
+medicina,1473,LIMA REGION,7.8
+medicina,1474,LIMA REGION,11.8
+medicina,1475,LIMA REGION,9.8
+medicina,1476,LIMA REGION,NA
+medicina,1477,LIMA REGION,9.4
+medicina,1478,LIMA REGION,11.8
+medicina,1479,LIMA REGION,NA
+medicina,1480,LIMA REGION,11.6
+medicina,1481,LIMA REGION,9.2
+medicina,1482,LIMA REGION,5.8
+medicina,1483,LIMA REGION,9.4
+medicina,1484,LIMA REGION,10.6
+medicina,1485,LIMA REGION,9
+medicina,1486,LIMA REGION,11.6
+medicina,1487,LIMA REGION,10.2
+medicina,1488,LIMA REGION,8.8
+medicina,1489,LIMA REGION,7.8
+medicina,1490,LIMA REGION,10
+medicina,1491,LIMA REGION,7.6
+medicina,1492,LIMA REGION,7.4
+medicina,1493,LIMA REGION,9.8
+medicina,1494,LIMA REGION,14.4
+medicina,1495,LIMA REGION,11.2
+medicina,1496,LIMA REGION,9.2
+medicina,1497,LIMA REGION,8
+medicina,1498,LIMA REGION,10.8
+medicina,1499,LIMA REGION,NA
+medicina,1500,LIMA REGION,NA
+medicina,1501,LIMA REGION,11
+medicina,1502,LIMA REGION,11.6
+medicina,1503,LIMA REGION,13.4
+medicina,1504,LIMA REGION,7.8
+medicina,1505,LIMA REGION,7.6
+medicina,1506,LIMA REGION,10
+medicina,1507,LIMA REGION,10
+medicina,1508,LIMA REGION,7.8
+medicina,1509,LIMA REGION,10.8
+medicina,1510,LIMA REGION,11
+medicina,1511,LIMA REGION,9.2
+medicina,1512,LIMA REGION,NA
+medicina,1513,LIMA REGION,9.2
+medicina,1514,LIMA REGION,10.6
+medicina,1515,LIMA REGION,10
+medicina,1516,LIMA REGION,11
+medicina,1517,LIMA REGION,8.4
+medicina,1518,LIMA REGION,NA
+medicina,1519,LIMA REGION,10.4
+medicina,1520,LIMA REGION,10.6
+medicina,1521,LIMA REGION,NA
+medicina,1522,LIMA REGION,11.4
+medicina,1523,LIMA REGION,11.2
+medicina,1524,LIMA REGION,NA
+medicina,1525,LIMA REGION,10.6
+medicina,1526,LIMA REGION,NA
+medicina,1527,LIMA REGION,10
+medicina,1528,LIMA REGION,13.4
+medicina,1529,LIMA REGION,10.4
+medicina,1530,LIMA REGION,8.4
+medicina,1531,LIMA REGION,NA
+medicina,1532,LIMA REGION,8.6
+medicina,1533,LIMA REGION,12.6
+medicina,1534,LIMA REGION,11.8
+medicina,1535,LIMA REGION,11.2
+medicina,1536,LIMA REGION,10.2
+medicina,1537,LIMA REGION,10.8
+medicina,1538,LIMA REGION,NA
+medicina,1539,LIMA REGION,NA
+medicina,1540,LIMA REGION,12.6
+medicina,1541,LIMA REGION,7.8
+medicina,1542,LIMA REGION,7.4
+medicina,1543,LIMA REGION,NA
+medicina,1544,LIMA REGION,8.8
+medicina,1545,LIMA REGION,8.2
+medicina,1546,LIMA REGION,9.2
+medicina,1547,LIMA REGION,NA
+medicina,1548,LIMA REGION,NA
+medicina,1549,LIMA REGION,11.2
+medicina,1550,LIMA REGION,8.8
+medicina,1551,LIMA REGION,11.6
+medicina,1552,LIMA REGION,9.8
+medicina,1553,LIMA REGION,NA
+medicina,1554,LIMA REGION,NA
+medicina,1555,LIMA REGION,6.6
+medicina,1556,LIMA REGION,11.6
+medicina,1557,LIMA REGION,10.4
+medicina,1558,LIMA REGION,6.4
+medicina,1559,LIMA REGION,12.4
+medicina,1560,LIMA REGION,12
+medicina,1561,LIMA REGION,12
+medicina,1562,LIMA REGION,NA
+medicina,1563,LIMA REGION,10.2
+medicina,1564,LIMA REGION,10.8
+medicina,1565,LIMA REGION,6.6
+medicina,1566,LIMA REGION,14.4
+medicina,1567,LIMA REGION,10.6
+medicina,1568,LIMA REGION,12
+medicina,1569,LIMA REGION,10.4
+medicina,1570,LIMA REGION,8.4
+medicina,1571,LIMA REGION,10
+medicina,1572,LIMA REGION,7
+medicina,1573,LIMA REGION,10.6
+medicina,1574,LIMA REGION,9.2
+medicina,1575,LIMA REGION,10.2
+medicina,1576,LIMA REGION,9.4
+medicina,1577,LIMA SUR,10
+medicina,1578,LIMA SUR,12
+medicina,1579,LIMA SUR,8.8
+medicina,1580,LIMA SUR,10
+medicina,1581,LIMA SUR,11.8
+medicina,1582,LIMA SUR,7.4
+medicina,1583,LIMA SUR,12.6
+medicina,1584,LIMA SUR,8
+medicina,1585,LIMA SUR,11
+medicina,1586,LIMA SUR,12.8
+medicina,1587,LIMA SUR,12.6
+medicina,1588,LIMA SUR,9.4
+medicina,1589,LIMA SUR,7.6
+medicina,1590,LIMA SUR,11.8
+medicina,1591,LIMA SUR,10.6
+medicina,1592,LIMA SUR,11
+medicina,1593,LIMA SUR,8
+medicina,1594,LIMA SUR,11
+medicina,1595,LIMA SUR,NA
+medicina,1596,LIMA SUR,8.2
+medicina,1597,LIMA SUR,10
+medicina,1598,LIMA SUR,12.4
+medicina,1599,LIMA SUR,9
+medicina,1600,LIMA SUR,12.4
+medicina,1601,LIMA SUR,12
+medicina,1602,LIMA SUR,11.2
+medicina,1603,LIMA SUR,11.6
+medicina,1604,LIMA SUR,11.6
+medicina,1605,LIMA SUR,10.6
+medicina,1606,LIMA SUR,9.4
+medicina,1607,LIMA SUR,8
+medicina,1608,LIMA SUR,9.8
+medicina,1609,LIMA SUR,10.6
+medicina,1610,LIMA SUR,NA
+medicina,1611,LIMA SUR,NA
+medicina,1612,LIMA SUR,11.6
+medicina,1613,LIMA SUR,10.6
+medicina,1614,LIMA SUR,12.2
+medicina,1615,LIMA SUR,9.6
+medicina,1616,LIMA SUR,8.2
+medicina,1617,LIMA SUR,11.6
+medicina,1618,LIMA SUR,9.8
+medicina,1619,LIMA SUR,11.6
+medicina,1620,LIMA SUR,11.8
+medicina,1621,LIMA SUR,11.8
+medicina,1622,LIMA SUR,6.8
+medicina,1623,LIMA SUR,10.4
+medicina,1624,LIMA SUR,NA
+medicina,1625,LIMA SUR,9.8
+medicina,1626,LIMA SUR,9.8
+medicina,1627,LIMA SUR,9.6
+medicina,1628,LIMA SUR,10.2
+medicina,1629,LIMA SUR,12.2
+medicina,1630,LIMA SUR,10.2
+medicina,1631,LIMA SUR,9.4
+medicina,1632,LIMA SUR,12
+medicina,1633,LIMA SUR,11.2
+medicina,1634,LIMA SUR,10
+medicina,1635,LIMA SUR,11.8
+medicina,1636,LIMA SUR,10.8
+medicina,1637,LIMA SUR,10
+medicina,1638,LIMA SUR,11
+medicina,1639,LIMA SUR,6.8
+medicina,1640,LIMA SUR,10
+medicina,1641,LIMA SUR,7.4
+medicina,1642,LIMA SUR,7.4
+medicina,1643,LIMA SUR,10.2
+medicina,1644,LIMA SUR,11
+medicina,1645,LIMA SUR,11.2
+medicina,1646,LIMA SUR,8.2
+medicina,1647,LIMA SUR,10.6
+medicina,1648,LIMA SUR,11
+medicina,1649,LIMA SUR,12.2
+medicina,1650,LIMA SUR,NA
+medicina,1651,LIMA SUR,11.8
+medicina,1652,LIMA SUR,9
+medicina,1653,LIMA SUR,11.2
+medicina,1654,LIMA SUR,10.8
+medicina,1655,LIMA SUR,11.8
+medicina,1656,LIMA SUR,8.8
+medicina,1657,LIMA SUR,8.6
+medicina,1658,LIMA SUR,9.8
+medicina,1659,LIMA SUR,NA
+medicina,1660,LIMA SUR,NA
+medicina,1661,LIMA SUR,13.2
+medicina,1662,LIMA SUR,11
+medicina,1663,LIMA SUR,NA
+medicina,1664,LIMA SUR,8
+medicina,1665,LIMA SUR,7.4
+medicina,1666,LIMA SUR,NA
+medicina,1667,LIMA SUR,NA
+medicina,1668,LIMA SUR,NA
+medicina,1669,LIMA SUR,11
+medicina,1670,LIMA SUR,12
+medicina,1671,LIMA SUR,8.6
+medicina,1672,LIMA SUR,11.6
+medicina,1673,LIMA SUR,11.2
+medicina,1674,LIMA SUR,9.2
+medicina,1675,LIMA SUR,8
+medicina,1676,LIMA SUR,10.6
+medicina,1677,LIMA SUR,10.6
+medicina,1678,LIMA SUR,11.6
+medicina,1679,LIMA SUR,13.8
+medicina,1680,LIMA SUR,12.6
+medicina,1681,LIMA SUR,11
+medicina,1682,LIMA SUR,11.4
+medicina,1683,LIMA SUR,9.4
+medicina,1684,LIMA SUR,10
+medicina,1685,LIMA SUR,10.4
+medicina,1686,LIMA SUR,10.6
+medicina,1687,LIMA SUR,12.4
+medicina,1688,LIMA SUR,13.2
+medicina,1689,LIMA SUR,11.6
+medicina,1690,LIMA SUR,10.4
+medicina,1691,LIMA SUR,10.8
+medicina,1692,LIMA SUR,8
+medicina,1693,LIMA SUR,8.8
+medicina,1694,LIMA SUR,10.6
+medicina,1695,LIMA SUR,8.2
+medicina,1696,LIMA SUR,11.2
+medicina,1697,LIMA SUR,11.4
+medicina,1698,LIMA SUR,7
+medicina,1699,LIMA SUR,9.4
+medicina,1700,LIMA SUR,10.6
+medicina,1701,LIMA SUR,9
+medicina,1702,LIMA SUR,6.8
+medicina,1703,LIMA SUR,9.8
+medicina,1704,LIMA SUR,NA
+medicina,1705,LIMA SUR,12
+medicina,1706,LIMA SUR,14
+medicina,1707,LIMA SUR,7.4
+medicina,1708,LIMA SUR,8.6
+medicina,1709,LIMA SUR,9
+medicina,1710,LIMA SUR,NA
+medicina,1711,LIMA SUR,NA
+medicina,1712,LIMA SUR,11
+medicina,1713,LIMA SUR,12
+medicina,1714,LIMA SUR,10.8
+medicina,1715,LIMA SUR,10.4
+medicina,1716,LIMA SUR,10.8
+medicina,1717,LIMA SUR,NA
+medicina,1718,LIMA SUR,9.6
+medicina,1719,LIMA SUR,9.2
+medicina,1720,LIMA SUR,9.2
+medicina,1721,LIMA SUR,NA
+medicina,1722,LIMA SUR,10.2
+medicina,1723,LIMA SUR,10.6
+medicina,1724,LIMA SUR,9.8
+medicina,1725,LIMA SUR,10.2
+medicina,1726,LIMA SUR,10.8
+medicina,1727,LIMA SUR,12.2
+medicina,1728,LIMA SUR,10.6
+medicina,1729,LIMA SUR,NA
+medicina,1730,LIMA SUR,11.2
+medicina,1731,LIMA SUR,11
+medicina,1732,LIMA SUR,NA
+medicina,1733,LIMA SUR,12.2
+medicina,1734,LIMA SUR,NA
+medicina,1735,LIMA SUR,13.6
+medicina,1736,LIMA SUR,10
+medicina,1737,LIMA SUR,11
+medicina,1738,LIMA SUR,10.8
+medicina,1739,LIMA SUR,11
+medicina,1740,LIMA SUR,NA
+medicina,1741,LIMA SUR,9.8
+medicina,1742,LIMA SUR,10.2
+medicina,1743,LIMA SUR,NA
+medicina,1744,LIMA SUR,11.2
+medicina,1745,LIMA SUR,8.6
+medicina,1746,LIMA SUR,11.6
+medicina,1747,LIMA SUR,9.6
+medicina,1748,LIMA SUR,12.4
+medicina,1749,LIMA SUR,9.2
+medicina,1750,LIMA SUR,NA
+medicina,1751,LIMA SUR,9.8
+medicina,1752,LIMA SUR,7
+medicina,1753,LIMA SUR,11.2
+medicina,1754,LIMA SUR,10.4
+medicina,1755,LIMA SUR,13.4
+medicina,1756,LIMA SUR,11.6
+medicina,1757,LIMA SUR,8
+medicina,1758,LIMA SUR,9.8
+medicina,1759,LIMA SUR,12.4
+medicina,1760,LIMA SUR,9.8
+medicina,1761,LIMA SUR,NA
+medicina,1762,LIMA SUR,8.8
+medicina,1763,LIMA SUR,10.2
+medicina,1764,LIMA SUR,10.8
+medicina,1765,LIMA SUR,NA
+medicina,1766,LIMA SUR,12.2
+medicina,1767,LIMA SUR,9.2
+medicina,1768,LIMA SUR,NA
+medicina,1769,LIMA SUR,9.6
+medicina,1770,LIMA SUR,13.2
+medicina,1771,LIMA SUR,10.8
+medicina,1772,LIMA SUR,7.6
+medicina,1773,LIMA SUR,8.2
+medicina,1774,LIMA SUR,10.2
+medicina,1775,LIMA SUR,11.6
+medicina,1776,LIMA SUR,NA
+medicina,1777,LIMA SUR,9.6
+medicina,1778,LIMA SUR,NA
+medicina,1779,LIMA SUR,12.6
+medicina,1780,LIMA SUR,9.4
+medicina,1781,LIMA SUR,7.4
+medicina,1782,LIMA SUR,10.2
+medicina,1783,LIMA SUR,10.2
+medicina,1784,LIMA SUR,10.6
+medicina,1785,LIMA SUR,14.2
+medicina,1786,LIMA SUR,9.8
+medicina,1787,LIMA SUR,12.8
+medicina,1788,LIMA SUR,NA
+medicina,1789,LIMA SUR,NA
+medicina,1790,LIMA SUR,12.2
+medicina,1791,LIMA SUR,6.4
+medicina,1792,LIMA SUR,8.2
+medicina,1793,LIMA SUR,NA
+medicina,1794,LIMA SUR,11
+medicina,1795,LIMA SUR,NA
+medicina,1796,LIMA SUR,8.8
+medicina,1797,LIMA SUR,7.4
+medicina,1798,LIMA SUR,10.2
+medicina,1799,LIMA SUR,11
+medicina,1800,LIMA SUR,10
+medicina,1801,LIMA SUR,7.6
+medicina,1802,LIMA SUR,8.4
+medicina,1803,LIMA SUR,11.8
+medicina,1804,LIMA SUR,10
+medicina,1805,LIMA SUR,13.2
+medicina,1806,LIMA SUR,10
+medicina,1807,LIMA SUR,10.6
+medicina,1808,LIMA SUR,10.2
+medicina,1809,LIMA SUR,10
+medicina,1810,LIMA SUR,11.8
+medicina,1811,LIMA SUR,11.8
+medicina,1812,LIMA SUR,10.4
+medicina,1813,LIMA SUR,NA
+medicina,1814,LIMA SUR,NA
+medicina,1815,LIMA SUR,10.2
+medicina,1816,LIMA SUR,8.4
+medicina,1817,LIMA SUR,10.4
+medicina,1818,LIMA SUR,NA
+medicina,1819,LIMA SUR,12.6
+medicina,1820,LIMA SUR,10.2
+medicina,1821,LIMA SUR,9.8
+medicina,1822,LIMA SUR,12.2
+medicina,1823,LIMA SUR,11.4
+medicina,1824,LIMA SUR,13.4
+medicina,1825,LIMA SUR,13
+medicina,1826,LIMA SUR,9.8
+medicina,1827,LIMA SUR,NA
+medicina,1828,LIMA SUR,10.4
+medicina,1829,LIMA SUR,9
+medicina,1830,LIMA SUR,11.2
+medicina,1831,LIMA SUR,11.2
+medicina,1832,LIMA SUR,9.2
+medicina,1833,LIMA SUR,7.6
+medicina,1834,LIMA SUR,11.8
+medicina,1835,LIMA SUR,11
+medicina,1836,LIMA SUR,11.4
+medicina,1837,LIMA SUR,NA
+medicina,1838,LIMA SUR,8.4
+medicina,1839,LIMA SUR,10.6
+medicina,1840,LIMA SUR,8.6
+medicina,1841,LIMA SUR,9.2
+medicina,1842,LIMA SUR,9.4
+medicina,1843,LIMA SUR,11.2
+medicina,1844,LIMA SUR,9.6
+medicina,1845,LIMA SUR,NA
+medicina,1846,LIMA SUR,NA
+medicina,1847,LIMA SUR,10.2
+medicina,1848,LIMA SUR,NA
+medicina,1849,LIMA SUR,10.4
+medicina,1850,LIMA SUR,9.6
+medicina,1851,LIMA SUR,7.8
+medicina,1852,LIMA SUR,12.4
+medicina,1853,LIMA SUR,8.6
+medicina,1854,LIMA SUR,9.6
+medicina,1855,LIMA SUR,9.8
+medicina,1856,LIMA SUR,10.8
+medicina,1857,LIMA SUR,10.8
+medicina,1858,LIMA SUR,6.4
+medicina,1859,LIMA SUR,10.6
+medicina,1860,LIMA SUR,11
+medicina,1861,LIMA SUR,9
+medicina,1862,LIMA SUR,13
+medicina,1863,LIMA SUR,7.6
+medicina,1864,LIMA SUR,8.2
+medicina,1865,LIMA SUR,10
+medicina,1866,LIMA SUR,13
+medicina,1867,LIMA SUR,NA
+medicina,1868,LIMA SUR,11
+medicina,1869,LIMA SUR,NA
+medicina,1870,LIMA SUR,10.4
+medicina,1871,LIMA SUR,11.4
+medicina,1872,LIMA SUR,11.4
+medicina,1873,LIMA SUR,7.8
+medicina,1874,LIMA SUR,8.2
+medicina,1875,LIMA SUR,8.6
+medicina,1876,LIMA SUR,7.8
+medicina,1877,LIMA SUR,7.8
+medicina,1878,LIMA SUR,NA
+medicina,1879,LIMA SUR,9.4
+medicina,1880,LIMA SUR,8.6
+medicina,1881,LIMA SUR,11.6
+medicina,1882,LIMA SUR,11.2
+medicina,1883,LIMA SUR,10.6
+medicina,1884,LIMA SUR,8
+medicina,1885,LIMA SUR,8
+medicina,1886,LIMA SUR,13.4
+medicina,1887,LIMA SUR,9.4
+medicina,1888,LIMA SUR,9.8
+medicina,1889,LIMA SUR,6.4
+medicina,1890,LIMA SUR,10.4
+medicina,1891,LIMA SUR,9
+medicina,1892,LIMA SUR,10.8
+medicina,1893,LIMA SUR,8.4
+medicina,1894,LIMA SUR,14.2
+medicina,1895,LIMA SUR,7.2
+medicina,1896,LIMA SUR,NA
+medicina,1897,LIMA SUR,10.2
+medicina,1898,LIMA SUR,8.8
+medicina,1899,LIMA SUR,10.8
+medicina,1900,LIMA SUR,8.8
+medicina,1901,LIMA SUR,12.6
+medicina,1902,LIMA SUR,11.6
+medicina,1903,LIMA SUR,9
+medicina,1904,LIMA SUR,11.6
+medicina,1905,LIMA SUR,9.6
+medicina,1906,LIMA SUR,NA
+medicina,1907,LIMA SUR,10
+medicina,1908,LIMA SUR,13.6
+medicina,1909,LIMA SUR,13.2
+medicina,1910,LIMA SUR,9.2
+medicina,1911,LIMA SUR,10.2
+medicina,1912,LIMA SUR,10
+medicina,1913,LIMA SUR,13
+medicina,1914,LIMA SUR,10.4
+medicina,1915,LIMA SUR,NA
+medicina,1916,LIMA SUR,11.4
+medicina,1917,LIMA SUR,8.6
+medicina,1918,LIMA SUR,9.8
+medicina,1919,LIMA SUR,11.8
+medicina,1920,LIMA SUR,NA
+medicina,1921,LIMA SUR,7.4
+medicina,1922,LIMA SUR,9.6
+medicina,1923,LIMA SUR,8.6
+medicina,1924,LIMA SUR,10.6
+medicina,1925,LIMA SUR,11.8
+medicina,1926,LIMA SUR,7.6
+medicina,1927,LIMA SUR,12.4
+medicina,1928,LIMA SUR,7.6
+medicina,1929,LIMA SUR,9
+medicina,1930,LIMA SUR,9.8
+medicina,1931,LIMA SUR,10.4
+medicina,1932,LIMA SUR,9
+medicina,1933,LIMA SUR,12.6
+medicina,1934,LIMA SUR,10.8
+medicina,1935,LIMA SUR,NA
+medicina,1936,LIMA SUR,NA
+medicina,1937,LIMA SUR,NA
+medicina,1938,LIMA SUR,7.8
+medicina,1939,LIMA SUR,10.2
+medicina,1940,LIMA SUR,NA
+medicina,1941,LIMA SUR,NA
+medicina,1942,LIMA SUR,13.6
+medicina,1943,LIMA SUR,8.4
+medicina,1944,LIMA SUR,NA
+medicina,1945,LIMA SUR,NA
+medicina,1946,LIMA SUR,9.4
+medicina,1947,LIMA SUR,NA
+medicina,1948,LIMA SUR,NA
+medicina,1949,LIMA SUR,9.8
+medicina,1950,LIMA SUR,7.8
+medicina,1951,LIMA SUR,9.2
+medicina,1952,LIMA SUR,10.8
+medicina,1953,LIMA SUR,9.2
+medicina,1954,LIMA SUR,7.2
+medicina,1955,LIMA SUR,9.4
+medicina,1956,LIMA SUR,NA
+medicina,1957,LIMA SUR,NA
+medicina,1958,LIMA SUR,8.6
+medicina,1959,LIMA SUR,9.6
+medicina,1960,LIMA SUR,6.8
+medicina,1961,LIMA SUR,8.4
+medicina,1962,LIMA SUR,12.2
+medicina,1963,LIMA SUR,10.4
+medicina,1964,LIMA SUR,10.6
+medicina,1965,LIMA SUR,9
+medicina,1966,LIMA SUR,9
+medicina,1967,LIMA SUR,12.6
+medicina,1968,LIMA SUR,10.8
+medicina,1969,LIMA SUR,NA
+medicina,1970,LIMA SUR,11.2
+medicina,1971,LIMA SUR,10.4
+medicina,1972,LIMA SUR,9.2
+medicina,1973,LIMA SUR,NA
+medicina,1974,LIMA SUR,10.2
+medicina,1975,LIMA SUR,8.6
+medicina,1976,LIMA SUR,NA
+medicina,1977,LIMA SUR,NA
+medicina,1978,LIMA SUR,11.8
+medicina,1979,LIMA SUR,8.8
+medicina,1980,LIMA SUR,8.8
+medicina,1981,LIMA SUR,NA
+medicina,1982,LIMA SUR,8.6
+medicina,1983,LIMA SUR,10.6
+medicina,1984,LIMA SUR,8.8
+medicina,1985,LIMA SUR,12
+medicina,1986,LIMA SUR,9.4
+medicina,1987,LIMA SUR,9.2
+medicina,1988,LIMA SUR,12.2
+medicina,1989,LIMA SUR,9.8
+medicina,1990,LIMA SUR,10.2
+medicina,1991,LIMA SUR,8.6
+medicina,1992,LIMA SUR,9.8
+medicina,1993,LIMA SUR,NA
+medicina,1994,LIMA SUR,10
+medicina,1995,LIMA SUR,13.6
+medicina,1996,LIMA SUR,11
+medicina,1997,LIMA SUR,10.6
+medicina,1998,LIMA SUR,12.4
+medicina,1999,LIMA SUR,NA
+medicina,2000,LIMA SUR,8.4
+medicina,2001,LIMA SUR,7.2
+medicina,2002,LIMA SUR,11.6
+medicina,2003,LIMA SUR,8.6
+medicina,2004,LIMA SUR,11.4
+medicina,2005,LIMA SUR,10.4
+medicina,2006,LIMA SUR,10.4
+medicina,2007,LIMA SUR,10.8
+medicina,2008,LIMA SUR,11.4
+medicina,2009,LIMA SUR,NA
+medicina,2010,LIMA SUR,11.8
+medicina,2011,LIMA SUR,13.4
+medicina,2012,LIMA SUR,9.6
+medicina,2013,LIMA SUR,8.2
+medicina,2014,LIMA SUR,NA
+medicina,2015,LIMA SUR,9.6
+medicina,2016,LIMA SUR,11.6
+medicina,2017,LIMA SUR,11.6
+medicina,2018,LIMA SUR,11.4
+medicina,2019,LIMA SUR,12.2
+medicina,2020,LIMA SUR,NA
+medicina,2021,LIMA SUR,11.4
+medicina,2022,LIMA SUR,9.6
+medicina,2023,LIMA SUR,NA
+medicina,2024,LIMA SUR,NA
+medicina,2025,LIMA SUR,12
+medicina,2026,LIMA SUR,NA
+medicina,2027,LIMA SUR,4.2
+medicina,2028,LIMA SUR,11
+medicina,2029,LIMA SUR,7
+medicina,2030,LIMA SUR,NA
+medicina,2031,LIMA SUR,NA
+medicina,2032,LIMA SUR,9.8
+medicina,2033,LIMA SUR,8.4
+medicina,2034,LIMA SUR,13
+medicina,2035,LIMA SUR,13.8
+medicina,2036,LIMA SUR,13.4
+medicina,2037,LIMA SUR,NA
+medicina,2038,LIMA SUR,NA
+medicina,2039,LIMA SUR,8.8
+medicina,2040,LIMA SUR,9.4
+medicina,2041,LIMA SUR,11.6
+medicina,2042,LIMA SUR,12.2
+medicina,2043,LIMA SUR,13
+medicina,2044,LIMA SUR,11.2
+medicina,2045,LIMA SUR,9
+medicina,2046,LIMA SUR,4.8
+medicina,2047,LIMA SUR,NA
+medicina,2048,LIMA SUR,10
+medicina,2049,LIMA SUR,9.6
+medicina,2050,LIMA SUR,NA
+medicina,2051,LIMA SUR,10.2
+medicina,2052,LIMA SUR,10.8
+medicina,2053,LIMA SUR,13
+medicina,2054,LIMA SUR,NA
+medicina,2055,LIMA SUR,9.8
+medicina,2056,LIMA SUR,10.6
+medicina,2057,LIMA SUR,12.2
+medicina,2058,LIMA SUR,11.6
+medicina,2059,LIMA SUR,9.4
+medicina,2060,LIMA SUR,NA
+medicina,2061,LIMA SUR,NA
+medicina,2062,LIMA SUR,10
+medicina,2063,LIMA SUR,13
+medicina,2064,LIMA SUR,8.2
+medicina,2065,LIMA SUR,10.6
+medicina,2066,LIMA SUR,10.2
+medicina,2067,LIMA SUR,10.4
+medicina,2068,LIMA SUR,NA
+medicina,2069,LIMA SUR,9.6
+medicina,2070,LIMA SUR,9.6
+medicina,2071,LIMA SUR,10
+medicina,2072,LIMA SUR,10
+medicina,2073,LIMA SUR,12.6
+medicina,2074,LIMA SUR,8.6
+medicina,2075,LIMA SUR,10.4
+medicina,2076,LIMA SUR,NA
+medicina,2077,LIMA SUR,9.2
+medicina,2078,LIMA SUR,11.6
+medicina,2079,LIMA SUR,NA
+medicina,2080,LIMA SUR,11.4
+medicina,2081,LIMA SUR,8.6
+medicina,2082,LIMA SUR,11.2
+medicina,2083,LIMA SUR,NA
+medicina,2084,LIMA SUR,9.6
+medicina,2085,LIMA SUR,12.4
+medicina,2086,LIMA SUR,11.6
+medicina,2087,LIMA SUR,NA
+medicina,2088,LIMA SUR,11
+medicina,2089,LIMA SUR,7.8
+medicina,2090,LIMA SUR,10.6
+medicina,2091,LIMA SUR,9.2
+medicina,2092,LIMA SUR,10.2
+medicina,2093,LIMA SUR,11.8
+medicina,2094,LIMA SUR,13
+medicina,2095,LIMA SUR,9.4
+medicina,2096,LIMA SUR,10.8
+medicina,2097,LIMA SUR,NA
+medicina,2098,LIMA SUR,11.2
+medicina,2099,LIMA SUR,10.6
+medicina,2100,LIMA SUR,NA
+medicina,2101,LIMA SUR,10.2
+medicina,2102,LIMA SUR,10.4
+medicina,2103,LIMA SUR,12.8
+medicina,2104,LIMA SUR,NA
+medicina,2105,LIMA SUR,NA
+medicina,2106,LIMA SUR,NA
+medicina,2107,LIMA SUR,8.4
+medicina,2108,LIMA SUR,9.6
+medicina,2109,LIMA SUR,9.2
+medicina,2110,LIMA SUR,9.8
+medicina,2111,LIMA SUR,11
+medicina,2112,LIMA SUR,11.6
+medicina,2113,LIMA SUR,12.6
+medicina,2114,LIMA SUR,10
+medicina,2115,LIMA SUR,10.2
+medicina,2116,LIMA SUR,11.4
+medicina,2117,LIMA SUR,NA
+medicina,2118,LIMA SUR,13.6
+medicina,2119,LIMA SUR,NA
+medicina,2120,LIMA SUR,12.8
+medicina,2121,LIMA SUR,NA
+medicina,2122,LIMA SUR,8
+medicina,2123,LIMA SUR,13
+medicina,2124,LIMA SUR,12.8
+medicina,2125,LIMA SUR,13.8
+medicina,2126,LIMA SUR,11.6
+medicina,2127,LIMA SUR,10.8
+medicina,2128,LIMA SUR,12
+medicina,2129,LIMA SUR,6.6
+medicina,2130,LIMA SUR,12.6
+medicina,2131,LIMA SUR,8
+medicina,2132,LIMA SUR,8
+medicina,2133,LIMA SUR,10.8
+medicina,2134,LIMA SUR,12
+medicina,2135,LIMA SUR,12
+medicina,2136,LIMA SUR,NA
+medicina,2137,LIMA SUR,13
+medicina,2138,LIMA SUR,11.8
+medicina,2139,LIMA SUR,11.2
+medicina,2140,LIMA SUR,11.2
+medicina,2141,LIMA SUR,10.6
+medicina,2142,LIMA SUR,10.4
+medicina,2143,LIMA SUR,7.2
+medicina,2144,LIMA SUR,7.8
+medicina,2145,LIMA SUR,15.2
+medicina,2146,LIMA SUR,12.4
+medicina,2147,LIMA SUR,9.6
+medicina,2148,LIMA SUR,NA
+medicina,2149,LIMA SUR,9.8
+medicina,2150,LIMA SUR,9.6
+medicina,2151,LIMA SUR,8.4
+medicina,2152,LIMA SUR,12.2
+medicina,2153,LIMA SUR,10.2
+medicina,2154,LIMA SUR,9.6
+medicina,2155,LIMA SUR,10.4
+medicina,2156,LIMA SUR,9.8
+medicina,2157,LIMA SUR,9.2
+medicina,2158,LIMA SUR,10
+medicina,2159,LIMA SUR,10.8
+medicina,2160,LIMA SUR,12
+medicina,2161,LIMA SUR,9.8
+medicina,2162,LIMA SUR,12.2
+medicina,2163,LIMA SUR,NA
+medicina,2164,LIMA SUR,12.2
+medicina,2165,LIMA SUR,9.2
+medicina,2166,LIMA SUR,10
+medicina,2167,LIMA SUR,11.4
+medicina,2168,LIMA SUR,NA
+medicina,2169,LIMA SUR,11
+medicina,2170,LIMA SUR,11.4
+medicina,2171,LIMA SUR,12.2
+medicina,2172,LIMA SUR,NA
+medicina,2173,LIMA SUR,8.8
+medicina,2174,LIMA SUR,11.2
+medicina,2175,LIMA SUR,NA
+medicina,2176,LIMA SUR,11.4
+medicina,2177,LIMA SUR,12.6
+medicina,2178,LIMA SUR,8
+medicina,2179,LORETO,11.8
+medicina,2180,LORETO,10.8
+medicina,2181,LORETO,8
+medicina,2182,LORETO,7.8
+medicina,2183,LORETO,9.8
+medicina,2184,LORETO,9.2
+medicina,2185,LORETO,10.4
+medicina,2186,LORETO,9.8
+medicina,2187,LORETO,10.8
+medicina,2188,LORETO,13.2
+medicina,2189,LORETO,12
+medicina,2190,LORETO,13.6
+medicina,2191,LORETO,11.8
+medicina,2192,LORETO,13.4
+medicina,2193,LORETO,13
+medicina,2194,LORETO,6.6
+medicina,2195,LORETO,8.6
+medicina,2196,LORETO,10.2
+medicina,2197,MADRE DE DIOS,10.6
+medicina,2198,MADRE DE DIOS,7
+medicina,2199,MADRE DE DIOS,9.2
+medicina,2200,MADRE DE DIOS,9.2
+medicina,2201,MADRE DE DIOS,9.8
+medicina,2202,MADRE DE DIOS,9.2
+medicina,2203,MADRE DE DIOS,10.2
+medicina,2204,MADRE DE DIOS,7.8
+medicina,2205,MADRE DE DIOS,7.8
+medicina,2206,MOQUEGUA,NA
+medicina,2207,MOQUEGUA,9.4
+medicina,2208,MOQUEGUA,13
+medicina,2209,MOQUEGUA,NA
+medicina,2210,MOQUEGUA,7.4
+medicina,2211,MOQUEGUA,10.6
+medicina,2212,MOQUEGUA,11.4
+medicina,2213,MOQUEGUA,7.8
+medicina,2214,MOQUEGUA,12
+medicina,2215,MOQUEGUA,9.2
+medicina,2216,MOQUEGUA,10.4
+medicina,2217,MOQUEGUA,9.8
+medicina,2218,PASCO,NA
+medicina,2219,PASCO,11
+medicina,2220,PASCO,11.8
+medicina,2221,PASCO,12.8
+medicina,2222,PASCO,11.8
+medicina,2223,PASCO,12.2
+medicina,2224,PASCO,12.4
+medicina,2225,PASCO,12.4
+medicina,2226,PASCO,11.2
+medicina,2227,PASCO,11.4
+medicina,2228,PASCO,13.4
+medicina,2229,PASCO,11.8
+medicina,2230,PASCO,12.8
+medicina,2231,PIURA,11.4
+medicina,2232,PIURA,11.2
+medicina,2233,PIURA,8.8
+medicina,2234,PIURA,7
+medicina,2235,PIURA,10.6
+medicina,2236,PIURA,9.4
+medicina,2237,PIURA,11
+medicina,2238,PIURA,12.8
+medicina,2239,PIURA,10.6
+medicina,2240,PIURA,11.8
+medicina,2241,PIURA,NA
+medicina,2242,PIURA,10.8
+medicina,2243,PIURA,14.2
+medicina,2244,PIURA,11.6
+medicina,2245,PIURA,9.8
+medicina,2246,PIURA,11.8
+medicina,2247,PIURA,10
+medicina,2248,PIURA,11.2
+medicina,2249,PIURA,10.6
+medicina,2250,PIURA,12.6
+medicina,2251,PIURA,11.4
+medicina,2252,PIURA,11.6
+medicina,2253,PIURA,9.2
+medicina,2254,PIURA,9
+medicina,2255,PIURA,9.8
+medicina,2256,PIURA,8.6
+medicina,2257,PIURA,8.2
+medicina,2258,PIURA,5.4
+medicina,2259,PIURA,NA
+medicina,2260,PIURA,11.2
+medicina,2261,PIURA,12.6
+medicina,2262,PIURA,11.2
+medicina,2263,PIURA,11
+medicina,2264,PIURA,12.2
+medicina,2265,PIURA,11.4
+medicina,2266,PIURA,8.8
+medicina,2267,PIURA,10.4
+medicina,2268,PIURA,10.8
+medicina,2269,PIURA,9.6
+medicina,2270,PIURA,10.2
+medicina,2271,PIURA,10.4
+medicina,2272,PIURA,10.6
+medicina,2273,PIURA,11.2
+medicina,2274,PIURA,10.2
+medicina,2275,PIURA,9.2
+medicina,2276,PIURA,8.8
+medicina,2277,PIURA,11.6
+medicina,2278,PIURA,NA
+medicina,2279,PIURA,11.8
+medicina,2280,PIURA,NA
+medicina,2281,PIURA,10.2
+medicina,2282,PIURA,11.8
+medicina,2283,PIURA,8
+medicina,2284,PIURA,10.6
+medicina,2285,PIURA,8.4
+medicina,2286,PIURA,NA
+medicina,2287,PIURA,9.6
+medicina,2288,PIURA,11.6
+medicina,2289,PIURA,13
+medicina,2290,PIURA,12.2
+medicina,2291,PIURA,8.4
+medicina,2292,PIURA,8.6
+medicina,2293,PIURA,13
+medicina,2294,PIURA,12.2
+medicina,2295,PIURA,8.2
+medicina,2296,PIURA,10.8
+medicina,2297,PIURA,12.6
+medicina,2298,PIURA,NA
+medicina,2299,PIURA,10.6
+medicina,2300,PIURA,10.4
+medicina,2301,PIURA,7.2
+medicina,2302,PIURA,12.8
+medicina,2303,PIURA,9.2
+medicina,2304,PIURA,6.8
+medicina,2305,PIURA,11.4
+medicina,2306,PIURA,12
+medicina,2307,PIURA,11.4
+medicina,2308,PIURA,9.8
+medicina,2309,PIURA,11.6
+medicina,2310,PIURA,9.4
+medicina,2311,PIURA,11.4
+medicina,2312,PIURA,8.8
+medicina,2313,PIURA,9
+medicina,2314,PIURA,10.2
+medicina,2315,PIURA,11.4
+medicina,2316,PIURA,9.2
+medicina,2317,PIURA,11.4
+medicina,2318,PIURA,10.4
+medicina,2319,PIURA,12.6
+medicina,2320,PIURA,8.8
+medicina,2321,PIURA,11.6
+medicina,2322,PIURA,7
+medicina,2323,PIURA,10.4
+medicina,2324,PIURA,11.2
+medicina,2325,PIURA,12.4
+medicina,2326,PIURA,12
+medicina,2327,PIURA,11.2
+medicina,2328,PIURA,9.6
+medicina,2329,PIURA,9.2
+medicina,2330,PIURA,6
+medicina,2331,PIURA,12.6
+medicina,2332,PIURA,11.8
+medicina,2333,PIURA,10.2
+medicina,2334,PIURA,12.2
+medicina,2335,PIURA,10
+medicina,2336,PIURA,9
+medicina,2337,PIURA,9.6
+medicina,2338,PIURA,12.4
+medicina,2339,PIURA,NA
+medicina,2340,PIURA,9.2
+medicina,2341,PIURA,12
+medicina,2342,PIURA,10.6
+medicina,2343,PIURA,NA
+medicina,2344,PIURA,8.2
+medicina,2345,PIURA,10.6
+medicina,2346,PIURA,10.4
+medicina,2347,PIURA,NA
+medicina,2348,PIURA,8.8
+medicina,2349,PIURA,10.6
+medicina,2350,PIURA,NA
+medicina,2351,PIURA,10.8
+medicina,2352,PIURA,10.4
+medicina,2353,PIURA,8.4
+medicina,2354,PIURA,9.8
+medicina,2355,PIURA,13.4
+medicina,2356,PIURA,11.4
+medicina,2357,PIURA,12.2
+medicina,2358,PIURA,8.6
+medicina,2359,PIURA,NA
+medicina,2360,PIURA,13
+medicina,2361,PIURA,11.8
+medicina,2362,PIURA,10.4
+medicina,2363,PIURA,NA
+medicina,2364,PIURA,9.2
+medicina,2365,PIURA,8.6
+medicina,2366,PIURA,12.4
+medicina,2367,PIURA,11.2
+medicina,2368,PIURA,7.8
+medicina,2369,PIURA,11.2
+medicina,2370,PIURA,11.2
+medicina,2371,PIURA,9.8
+medicina,2372,PIURA,13.4
+medicina,2373,PIURA,9.8
+medicina,2374,PIURA,9.8
+medicina,2375,PIURA,10.6
+medicina,2376,PIURA,9.6
+medicina,2377,PIURA,11.2
+medicina,2378,PIURA,10.4
+medicina,2379,PIURA,10.2
+medicina,2380,PIURA,13.6
+medicina,2381,PIURA,10.8
+medicina,2382,PIURA,10.8
+medicina,2383,PIURA,13.2
+medicina,2384,PIURA,9.2
+medicina,2385,PIURA,9.4
+medicina,2386,PUNO,6.8
+medicina,2387,PUNO,9.8
+medicina,2388,PUNO,11.8
+medicina,2389,PUNO,6.8
+medicina,2390,PUNO,8.8
+medicina,2391,PUNO,12.6
+medicina,2392,PUNO,NA
+medicina,2393,PUNO,8.4
+medicina,2394,PUNO,9.6
+medicina,2395,PUNO,12.6
+medicina,2396,PUNO,10.2
+medicina,2397,PUNO,10
+medicina,2398,PUNO,11.2
+medicina,2399,PUNO,8
+medicina,2400,PUNO,12
+medicina,2401,PUNO,11.4
+medicina,2402,PUNO,11.4
+medicina,2403,PUNO,12.6
+medicina,2404,PUNO,12.8
+medicina,2405,PUNO,10.4
+medicina,2406,PUNO,9.4
+medicina,2407,PUNO,11
+medicina,2408,PUNO,11
+medicina,2409,PUNO,6.8
+medicina,2410,PUNO,NA
+medicina,2411,PUNO,8.6
+medicina,2412,PUNO,8.6
+medicina,2413,PUNO,11
+medicina,2414,PUNO,8.4
+medicina,2415,PUNO,7.2
+medicina,2416,PUNO,7.8
+medicina,2417,PUNO,12.6
+medicina,2418,PUNO,10.6
+medicina,2419,PUNO,11.2
+medicina,2420,PUNO,9
+medicina,2421,PUNO,9.2
+medicina,2422,PUNO,10.2
+medicina,2423,PUNO,8.2
+medicina,2424,PUNO,10.4
+medicina,2425,PUNO,NA
+medicina,2426,PUNO,9.6
+medicina,2427,PUNO,NA
+medicina,2428,PUNO,11.4
+medicina,2429,PUNO,9.8
+medicina,2430,PUNO,13.8
+medicina,2431,PUNO,9.4
+medicina,2432,PUNO,8.8
+medicina,2433,PUNO,NA
+medicina,2434,PUNO,11.8
+medicina,2435,PUNO,10.2
+medicina,2436,PUNO,10
+medicina,2437,PUNO,NA
+medicina,2438,PUNO,11
+medicina,2439,PUNO,8
+medicina,2440,PUNO,9.4
+medicina,2441,PUNO,8.8
+medicina,2442,PUNO,13.4
+medicina,2443,PUNO,11.4
+medicina,2444,PUNO,8.4
+medicina,2445,PUNO,10.6
+medicina,2446,PUNO,10.6
+medicina,2447,PUNO,NA
+medicina,2448,PUNO,9.8
+medicina,2449,PUNO,9.2
+medicina,2450,PUNO,11.6
+medicina,2451,PUNO,12.2
+medicina,2452,PUNO,13.6
+medicina,2453,PUNO,10.4
+medicina,2454,PUNO,7.2
+medicina,2455,PUNO,11.6
+medicina,2456,PUNO,10
+medicina,2457,PUNO,NA
+medicina,2458,PUNO,7
+medicina,2459,PUNO,8.8
+medicina,2460,PUNO,11
+medicina,2461,PUNO,9.4
+medicina,2462,PUNO,8.4
+medicina,2463,PUNO,12.6
+medicina,2464,PUNO,11
+medicina,2465,PUNO,8.8
+medicina,2466,PUNO,12
+medicina,2467,PUNO,10.4
+medicina,2468,PUNO,12.8
+medicina,2469,PUNO,9.2
+medicina,2470,PUNO,8.4
+medicina,2471,PUNO,11.4
+medicina,2472,PUNO,8.4
+medicina,2473,PUNO,11.8
+medicina,2474,PUNO,14.2
+medicina,2475,PUNO,NA
+medicina,2476,PUNO,8.8
+medicina,2477,PUNO,8.2
+medicina,2478,PUNO,15.6
+medicina,2479,PUNO,10.8
+medicina,2480,PUNO,9.6
+medicina,2481,PUNO,10.2
+medicina,2482,PUNO,9
+medicina,2483,PUNO,11.6
+medicina,2484,PUNO,9.2
+medicina,2485,PUNO,9.2
+medicina,2486,PUNO,8.4
+medicina,2487,PUNO,11.2
+medicina,2488,PUNO,11.8
+medicina,2489,PUNO,10.6
+medicina,2490,PUNO,8.8
+medicina,2491,PUNO,10.2
+medicina,2492,PUNO,10.2
+medicina,2493,PUNO,8.4
+medicina,2494,PUNO,10.6
+medicina,2495,PUNO,10
+medicina,2496,PUNO,9.2
+medicina,2497,PUNO,6.4
+medicina,2498,PUNO,9.8
+medicina,2499,PUNO,NA
+medicina,2500,PUNO,13.4
+medicina,2501,PUNO,9.4
+medicina,2502,PUNO,9
+medicina,2503,PUNO,10.8
+medicina,2504,PUNO,8
+medicina,2505,PUNO,10.4
+medicina,2506,PUNO,7.8
+medicina,2507,PUNO,NA
+medicina,2508,PUNO,9.2
+medicina,2509,PUNO,NA
+medicina,2510,PUNO,NA
+medicina,2511,PUNO,8.8
+medicina,2512,PUNO,NA
+medicina,2513,PUNO,NA
+medicina,2514,PUNO,11.4
+medicina,2515,PUNO,10.6
+medicina,2516,PUNO,11.4
+medicina,2517,PUNO,10.6
+medicina,2518,PUNO,9.2
+medicina,2519,PUNO,11.2
+medicina,2520,PUNO,11.8
+medicina,2521,PUNO,11.4
+medicina,2522,PUNO,12.6
+medicina,2523,PUNO,10.8
+medicina,2524,PUNO,9.6
+medicina,2525,PUNO,10.8
+medicina,2526,PUNO,10
+medicina,2527,PUNO,10.6
+medicina,2528,PUNO,8.6
+medicina,2529,PUNO,10.6
+medicina,2530,PUNO,9.8
+medicina,2531,PUNO,NA
+medicina,2532,PUNO,11.8
+medicina,2533,PUNO,12.2
+medicina,2534,PUNO,10.6
+medicina,2535,PUNO,11.2
+medicina,2536,PUNO,9.6
+medicina,2537,PUNO,8.4
+medicina,2538,PUNO,7.2
+medicina,2539,PUNO,11.6
+medicina,2540,PUNO,12.4
+medicina,2541,PUNO,9.8
+medicina,2542,PUNO,11.4
+medicina,2543,PUNO,10.8
+medicina,2544,PUNO,7.2
+medicina,2545,PUNO,7.4
+medicina,2546,PUNO,13.4
+medicina,2547,PUNO,11.8
+medicina,2548,PUNO,10.6
+medicina,2549,PUNO,10.4
+medicina,2550,PUNO,8.2
+medicina,2551,PUNO,11.6
+medicina,2553,PUNO,11.6
+medicina,2554,PUNO,10.4
+medicina,2555,PUNO,9.2
+medicina,2556,PUNO,9
+medicina,2557,PUNO,10.4
+medicina,2558,PUNO,9
+medicina,2559,PUNO,NA
+medicina,2560,PUNO,NA
+medicina,2561,PUNO,9.2
+medicina,2562,PUNO,11.2
+medicina,2563,PUNO,9.6
+medicina,2564,PUNO,10
+medicina,2565,PUNO,8.8
+medicina,2566,PUNO,11
+medicina,2567,PUNO,8.8
+medicina,2568,PUNO,9.8
+medicina,2569,PUNO,8.8
+medicina,2570,PUNO,9.4
+medicina,2571,PUNO,7.2
+medicina,2572,PUNO,11.4
+medicina,2573,PUNO,9.6
+medicina,2574,PUNO,10.4
+medicina,2575,PUNO,9.2
+medicina,2576,PUNO,9.4
+medicina,2577,PUNO,10.6
+medicina,2578,PUNO,10.8
+medicina,2579,PUNO,8.6
+medicina,2580,PUNO,11.8
+medicina,2581,PUNO,7.2
+medicina,2582,PUNO,11.8
+medicina,2583,PUNO,11.4
+medicina,2584,PUNO,9.2
+medicina,2585,PUNO,10.8
+medicina,2586,PUNO,11.4
+medicina,2587,PUNO,11.4
+medicina,2588,PUNO,10
+medicina,2589,PUNO,13.6
+medicina,2590,PUNO,8.8
+medicina,2591,PUNO,8.6
+medicina,2592,PUNO,9.8
+medicina,2593,PUNO,8.4
+medicina,2594,PUNO,12.2
+medicina,2595,PUNO,12
+medicina,2596,PUNO,9.8
+medicina,2597,PUNO,11.8
+medicina,2598,PUNO,NA
+medicina,2599,PUNO,11.2
+medicina,2600,PUNO,9.8
+medicina,2601,PUNO,10
+medicina,2602,PUNO,9.2
+medicina,2603,PUNO,8.6
+medicina,2604,PUNO,9.2
+medicina,2605,PUNO,10.4
+medicina,2606,PUNO,10
+medicina,2607,PUNO,10.2
+medicina,2608,PUNO,10.8
+medicina,2609,PUNO,10
+medicina,2610,PUNO,11
+medicina,2611,PUNO,9.2
+medicina,2612,PUNO,11
+medicina,2613,SAN MARTIN,9.6
+medicina,2614,SAN MARTIN,10.4
+medicina,2615,SAN MARTIN,NA
+medicina,2616,SAN MARTIN,9.4
+medicina,2617,SAN MARTIN,10.2
+medicina,2618,SAN MARTIN,10.6
+medicina,2619,SAN MARTIN,9.4
+medicina,2620,SAN MARTIN,9
+medicina,2621,SAN MARTIN,12.2
+medicina,2622,SAN MARTIN,9.6
+medicina,2623,SAN MARTIN,9.6
+medicina,2624,SAN MARTIN,6
+medicina,2625,SAN MARTIN,7.6
+medicina,2626,SAN MARTIN,11.6
+medicina,2627,SAN MARTIN,10.6
+medicina,2628,SAN MARTIN,11.8
+medicina,2629,SAN MARTIN,9.8
+medicina,2630,SAN MARTIN,9.4
+medicina,2631,SAN MARTIN,12
+medicina,2632,SAN MARTIN,10.8
+medicina,2633,SAN MARTIN,NA
+medicina,2634,SAN MARTIN,10.8
+medicina,2635,SAN MARTIN,10.8
+medicina,2636,SAN MARTIN,8
+medicina,2637,SAN MARTIN,NA
+medicina,2638,SAN MARTIN,8.4
+medicina,2639,SAN MARTIN,13.8
+medicina,2640,SAN MARTIN,8.4
+medicina,2641,SAN MARTIN,13.2
+medicina,2642,SAN MARTIN,8
+medicina,2643,SAN MARTIN,10.2
+medicina,2644,SAN MARTIN,10.6
+medicina,2645,SAN MARTIN,10.6
+medicina,2646,SAN MARTIN,9.4
+medicina,2647,TACNA,13.8
+medicina,2648,TACNA,8.8
+medicina,2649,TACNA,12.4
+medicina,2650,TACNA,12
+medicina,2651,TACNA,11.8
+medicina,2652,TACNA,9.6
+medicina,2653,TACNA,8
+medicina,2654,TACNA,11.2
+medicina,2655,TACNA,9.6
+medicina,2656,TACNA,9.6
+medicina,2657,TACNA,13.8
+medicina,2658,TACNA,10.4
+medicina,2659,TACNA,11.4
+medicina,2660,TACNA,11.2
+medicina,2661,TACNA,7.2
+medicina,2662,TACNA,11.6
+medicina,2663,TACNA,11.2
+medicina,2664,TACNA,NA
+medicina,2665,TACNA,10
+medicina,2666,TACNA,12.6
+medicina,2667,TACNA,11
+medicina,2668,TACNA,6.8
+medicina,2669,TACNA,12.4
+medicina,2670,TACNA,9.8
+medicina,2671,TACNA,9.6
+medicina,2672,TACNA,12.4
+medicina,2673,TACNA,9.2
+medicina,2674,TACNA,8.2
+medicina,2675,TACNA,12
+medicina,2676,TACNA,12
+medicina,2677,TACNA,12.6
+medicina,2678,TACNA,8.2
+medicina,2679,TACNA,12.2
+medicina,2680,TACNA,6.6
+medicina,2681,TACNA,10
+medicina,2682,TACNA,NA
+medicina,2683,TACNA,11.4
+medicina,2684,TACNA,11.4
+medicina,2685,TACNA,12.4
+medicina,2686,TACNA,11
+medicina,2687,TACNA,10.6
+medicina,2688,TACNA,13.4
+medicina,2689,TUMBES,11.2
+medicina,2690,TUMBES,10.2
+medicina,2691,TUMBES,NA
+medicina,2692,TUMBES,11.4
+medicina,2693,TUMBES,NA
+medicina,2694,TUMBES,11.4
+medicina,2695,TUMBES,11
+medicina,2696,TUMBES,NA
+medicina,2697,UCAYALI,10.4
+medicina,2698,UCAYALI,13
+medicina,2699,UCAYALI,NA
+medicina,2700,UCAYALI,9
+medicina,2701,UCAYALI,12.8
+medicina,2702,UCAYALI,8.4
+medicina,2703,UCAYALI,11.4
+medicina,2704,UCAYALI,8.8
+medicina,2705,UCAYALI,12.2
+medicina,2706,UCAYALI,12.2
+medicina,2707,UCAYALI,11
+medicina,2708,UCAYALI,10.2
+medicina,2709,UCAYALI,7.8
+medicina,2710,UCAYALI,10.6
+medicina,2711,UCAYALI,9.2
+medicina,2712,UCAYALI,7.8
+medicina,2713,UCAYALI,10.4
+medicina,2714,UCAYALI,11
+medicina,2715,UCAYALI,12
+medicina,2716,UCAYALI,11

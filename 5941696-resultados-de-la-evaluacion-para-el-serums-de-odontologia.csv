@@ -1,0 +1,2962 @@
+carrera,n,region_de_evaluacion,nota
+odontologia,1,AMAZONAS,9.4
+odontologia,2,AMAZONAS,11
+odontologia,3,AMAZONAS,11.8
+odontologia,4,AMAZONAS,10.4
+odontologia,5,AMAZONAS,9.2
+odontologia,6,AMAZONAS,10.6
+odontologia,7,AMAZONAS,9
+odontologia,8,AMAZONAS,10
+odontologia,9,AMAZONAS,11.2
+odontologia,10,AMAZONAS,10.6
+odontologia,11,AMAZONAS,9.2
+odontologia,12,AMAZONAS,7.4
+odontologia,13,AMAZONAS,7.4
+odontologia,14,AMAZONAS,9.4
+odontologia,15,AMAZONAS,11.4
+odontologia,16,AMAZONAS,11
+odontologia,17,AMAZONAS,11
+odontologia,18,AMAZONAS,9.8
+odontologia,19,AMAZONAS,10
+odontologia,20,AMAZONAS,11.2
+odontologia,21,AMAZONAS,7.8
+odontologia,22,ANCASH,13
+odontologia,23,ANCASH,8.8
+odontologia,24,ANCASH,8
+odontologia,25,ANCASH,9.2
+odontologia,26,ANCASH,8.6
+odontologia,27,ANCASH,9.8
+odontologia,28,ANCASH,10.6
+odontologia,29,ANCASH,9
+odontologia,30,ANCASH,NA
+odontologia,31,ANCASH,10.8
+odontologia,32,ANCASH,8.8
+odontologia,33,ANCASH,12.6
+odontologia,34,ANCASH,10.4
+odontologia,35,ANCASH,11
+odontologia,36,ANCASH,10
+odontologia,37,ANCASH,10.4
+odontologia,38,ANCASH,9.2
+odontologia,39,ANCASH,10.6
+odontologia,40,ANCASH,NA
+odontologia,41,ANCASH,10.8
+odontologia,42,ANCASH,NA
+odontologia,43,ANCASH,10.8
+odontologia,44,ANCASH,NA
+odontologia,45,ANCASH,8.4
+odontologia,46,ANCASH,NA
+odontologia,47,ANCASH,NA
+odontologia,48,ANCASH,NA
+odontologia,49,ANCASH,NA
+odontologia,50,ANCASH,12.4
+odontologia,51,ANCASH,7
+odontologia,52,ANCASH,9
+odontologia,53,ANCASH,10.8
+odontologia,54,ANCASH,9.4
+odontologia,55,ANCASH,5.4
+odontologia,56,ANCASH,10
+odontologia,57,ANCASH,9.8
+odontologia,58,ANCASH,7.6
+odontologia,59,ANCASH,11.2
+odontologia,60,ANCASH,10.6
+odontologia,61,ANCASH,NA
+odontologia,62,ANCASH,10.4
+odontologia,63,ANCASH,NA
+odontologia,64,ANCASH,7.8
+odontologia,65,ANCASH,10
+odontologia,66,ANCASH,9.4
+odontologia,67,ANCASH,NA
+odontologia,68,ANCASH,8
+odontologia,69,ANCASH,NA
+odontologia,70,ANCASH,9.2
+odontologia,71,ANCASH,9
+odontologia,72,ANCASH,10
+odontologia,73,ANCASH,11
+odontologia,74,ANCASH,8.8
+odontologia,75,ANCASH,8
+odontologia,76,ANCASH,10.8
+odontologia,77,ANCASH,8.8
+odontologia,78,ANCASH,12.4
+odontologia,79,ANCASH,10.2
+odontologia,80,ANCASH,7.6
+odontologia,81,ANCASH,NA
+odontologia,82,ANCASH,11.2
+odontologia,83,ANCASH,NA
+odontologia,84,ANCASH,NA
+odontologia,85,ANCASH,11.2
+odontologia,86,ANCASH,8.4
+odontologia,87,ANCASH,4.8
+odontologia,88,ANCASH,NA
+odontologia,89,ANCASH,NA
+odontologia,90,ANCASH,10
+odontologia,91,ANCASH,NA
+odontologia,92,ANCASH,9.4
+odontologia,93,ANCASH,8.6
+odontologia,94,ANCASH,8
+odontologia,95,ANCASH,NA
+odontologia,96,ANCASH,10.2
+odontologia,97,ANCASH,10.2
+odontologia,98,ANCASH,9.6
+odontologia,99,ANCASH,7.4
+odontologia,100,ANCASH,7.8
+odontologia,101,ANCASH,10.2
+odontologia,102,APURIMAC,8
+odontologia,103,APURIMAC,10.4
+odontologia,104,APURIMAC,NA
+odontologia,105,APURIMAC,10.6
+odontologia,106,APURIMAC,8.4
+odontologia,107,APURIMAC,8.6
+odontologia,108,APURIMAC,9.4
+odontologia,109,APURIMAC,11.6
+odontologia,110,APURIMAC,9.8
+odontologia,111,APURIMAC,9.2
+odontologia,112,APURIMAC,9.8
+odontologia,113,APURIMAC,10.6
+odontologia,114,APURIMAC,9
+odontologia,115,APURIMAC,11
+odontologia,116,APURIMAC,8.6
+odontologia,117,APURIMAC,10.8
+odontologia,118,APURIMAC,9
+odontologia,119,APURIMAC,11
+odontologia,120,APURIMAC,11
+odontologia,121,APURIMAC,NA
+odontologia,122,APURIMAC,10.2
+odontologia,123,APURIMAC,9.2
+odontologia,124,APURIMAC,12.4
+odontologia,125,APURIMAC,8.6
+odontologia,126,APURIMAC,11.8
+odontologia,127,APURIMAC,NA
+odontologia,128,APURIMAC,10.4
+odontologia,129,APURIMAC,11
+odontologia,130,APURIMAC,9.4
+odontologia,131,APURIMAC,8.2
+odontologia,132,APURIMAC,10
+odontologia,133,APURIMAC,10
+odontologia,134,APURIMAC,10.8
+odontologia,135,APURIMAC,9
+odontologia,136,APURIMAC,9.6
+odontologia,137,APURIMAC,4.6
+odontologia,138,APURIMAC,NA
+odontologia,139,APURIMAC,8.2
+odontologia,140,APURIMAC,9.4
+odontologia,141,APURIMAC,10.4
+odontologia,142,APURIMAC,9.4
+odontologia,143,APURIMAC,8.4
+odontologia,144,APURIMAC,10.6
+odontologia,145,APURIMAC,9.6
+odontologia,146,APURIMAC,6.4
+odontologia,147,APURIMAC,10.8
+odontologia,148,APURIMAC,11.8
+odontologia,149,APURIMAC,9
+odontologia,150,APURIMAC,9.4
+odontologia,151,APURIMAC,7.8
+odontologia,152,APURIMAC,11.2
+odontologia,153,APURIMAC,8.4
+odontologia,154,APURIMAC,8
+odontologia,155,APURIMAC,10.4
+odontologia,156,APURIMAC,8.4
+odontologia,157,APURIMAC,11.4
+odontologia,158,APURIMAC,6
+odontologia,159,APURIMAC,9.2
+odontologia,160,APURIMAC,12
+odontologia,161,APURIMAC,8.6
+odontologia,162,APURIMAC,10.8
+odontologia,163,APURIMAC,12.2
+odontologia,164,APURIMAC,NA
+odontologia,165,APURIMAC,NA
+odontologia,166,APURIMAC,NA
+odontologia,167,APURIMAC,4.8
+odontologia,168,APURIMAC,5.8
+odontologia,169,APURIMAC,11.8
+odontologia,170,APURIMAC,7.2
+odontologia,171,APURIMAC,6.4
+odontologia,172,APURIMAC,8.6
+odontologia,173,APURIMAC,11.4
+odontologia,174,APURIMAC,8
+odontologia,175,APURIMAC,10.6
+odontologia,176,APURIMAC,6.8
+odontologia,177,APURIMAC,11.4
+odontologia,178,APURIMAC,8.8
+odontologia,179,APURIMAC,12.2
+odontologia,180,APURIMAC,8.6
+odontologia,181,APURIMAC,7.2
+odontologia,182,APURIMAC,8.4
+odontologia,183,APURIMAC,9.4
+odontologia,184,APURIMAC,9.8
+odontologia,185,APURIMAC,7.6
+odontologia,186,APURIMAC,12.4
+odontologia,187,APURIMAC,8.6
+odontologia,188,APURIMAC,6.6
+odontologia,189,APURIMAC,13
+odontologia,190,APURIMAC,9.8
+odontologia,191,APURIMAC,9.8
+odontologia,192,APURIMAC,11.8
+odontologia,193,APURIMAC,9.2
+odontologia,194,APURIMAC,10.8
+odontologia,195,APURIMAC,7
+odontologia,196,APURIMAC,9
+odontologia,197,APURIMAC,8.4
+odontologia,198,APURIMAC,9.4
+odontologia,199,APURIMAC,7.8
+odontologia,200,APURIMAC,10
+odontologia,201,APURIMAC,9.8
+odontologia,202,APURIMAC,10.6
+odontologia,203,APURIMAC,8.2
+odontologia,204,APURIMAC,10
+odontologia,205,APURIMAC,8.4
+odontologia,206,APURIMAC,10.2
+odontologia,207,APURIMAC,11.2
+odontologia,208,APURIMAC,5.8
+odontologia,209,APURIMAC,12.2
+odontologia,210,APURIMAC,9.4
+odontologia,211,APURIMAC,7.4
+odontologia,212,APURIMAC,3.8
+odontologia,213,APURIMAC,10.2
+odontologia,214,APURIMAC,7.4
+odontologia,215,APURIMAC,8.4
+odontologia,216,APURIMAC,12
+odontologia,217,APURIMAC,9.6
+odontologia,218,APURIMAC,8.2
+odontologia,219,APURIMAC,5.4
+odontologia,220,APURIMAC,9.4
+odontologia,221,APURIMAC,10.2
+odontologia,222,APURIMAC,NA
+odontologia,223,APURIMAC,9.6
+odontologia,224,APURIMAC,10.2
+odontologia,225,APURIMAC,11.6
+odontologia,226,APURIMAC,10.2
+odontologia,227,APURIMAC,7.2
+odontologia,228,APURIMAC,11.4
+odontologia,229,APURIMAC,9.8
+odontologia,230,APURIMAC,11.6
+odontologia,231,APURIMAC,7.8
+odontologia,232,APURIMAC,9
+odontologia,233,APURIMAC,10
+odontologia,234,APURIMAC,10.4
+odontologia,235,APURIMAC,9.2
+odontologia,236,APURIMAC,10.2
+odontologia,237,APURIMAC,8.4
+odontologia,238,APURIMAC,8.4
+odontologia,239,APURIMAC,10.2
+odontologia,240,APURIMAC,11
+odontologia,241,APURIMAC,8.8
+odontologia,242,APURIMAC,8.6
+odontologia,243,APURIMAC,10
+odontologia,244,APURIMAC,8.4
+odontologia,245,APURIMAC,8.8
+odontologia,246,APURIMAC,9.8
+odontologia,247,APURIMAC,6.6
+odontologia,248,AREQUIPA,10.2
+odontologia,249,AREQUIPA,10.4
+odontologia,250,AREQUIPA,8
+odontologia,251,AREQUIPA,6.2
+odontologia,252,AREQUIPA,11.4
+odontologia,253,AREQUIPA,9.6
+odontologia,254,AREQUIPA,9.6
+odontologia,255,AREQUIPA,9.6
+odontologia,256,AREQUIPA,9
+odontologia,257,AREQUIPA,10.4
+odontologia,258,AREQUIPA,10.2
+odontologia,259,AREQUIPA,NA
+odontologia,260,AREQUIPA,NA
+odontologia,261,AREQUIPA,10.8
+odontologia,262,AREQUIPA,10.6
+odontologia,263,AREQUIPA,9.2
+odontologia,264,AREQUIPA,12.4
+odontologia,265,AREQUIPA,12
+odontologia,266,AREQUIPA,8
+odontologia,267,AREQUIPA,11
+odontologia,268,AREQUIPA,12
+odontologia,269,AREQUIPA,10
+odontologia,270,AREQUIPA,8.8
+odontologia,271,AREQUIPA,NA
+odontologia,272,AREQUIPA,12.6
+odontologia,273,AREQUIPA,10.6
+odontologia,274,AREQUIPA,12
+odontologia,275,AREQUIPA,11.2
+odontologia,276,AREQUIPA,9.2
+odontologia,277,AREQUIPA,10.2
+odontologia,278,AREQUIPA,10.4
+odontologia,279,AREQUIPA,10.6
+odontologia,280,AREQUIPA,9.8
+odontologia,281,AREQUIPA,9.2
+odontologia,282,AREQUIPA,10.2
+odontologia,283,AREQUIPA,12
+odontologia,284,AREQUIPA,11.8
+odontologia,285,AREQUIPA,12.4
+odontologia,286,AREQUIPA,10.8
+odontologia,287,AREQUIPA,8.4
+odontologia,288,AREQUIPA,8.6
+odontologia,289,AREQUIPA,9
+odontologia,290,AREQUIPA,9
+odontologia,291,AREQUIPA,8.8
+odontologia,292,AREQUIPA,10.6
+odontologia,293,AREQUIPA,8.2
+odontologia,294,AREQUIPA,12.2
+odontologia,295,AREQUIPA,11.6
+odontologia,296,AREQUIPA,9
+odontologia,297,AREQUIPA,9.6
+odontologia,298,AREQUIPA,9.2
+odontologia,299,AREQUIPA,10.2
+odontologia,300,AREQUIPA,9.2
+odontologia,301,AREQUIPA,12.4
+odontologia,302,AREQUIPA,10.8
+odontologia,303,AREQUIPA,12.4
+odontologia,304,AREQUIPA,10.4
+odontologia,305,AREQUIPA,7.4
+odontologia,306,AREQUIPA,7.4
+odontologia,307,AREQUIPA,10.2
+odontologia,308,AREQUIPA,8.2
+odontologia,309,AREQUIPA,10.6
+odontologia,310,AREQUIPA,11
+odontologia,311,AREQUIPA,NA
+odontologia,312,AREQUIPA,NA
+odontologia,313,AREQUIPA,10.2
+odontologia,314,AREQUIPA,9.4
+odontologia,315,AREQUIPA,11.2
+odontologia,316,AREQUIPA,9.2
+odontologia,317,AREQUIPA,9.8
+odontologia,318,AREQUIPA,8.6
+odontologia,319,AREQUIPA,7
+odontologia,320,AREQUIPA,7.4
+odontologia,321,AREQUIPA,10.6
+odontologia,322,AREQUIPA,10
+odontologia,323,AREQUIPA,NA
+odontologia,324,AREQUIPA,8.6
+odontologia,325,AREQUIPA,10
+odontologia,326,AREQUIPA,10.2
+odontologia,327,AREQUIPA,11.2
+odontologia,328,AREQUIPA,7.8
+odontologia,329,AREQUIPA,10.4
+odontologia,330,AREQUIPA,11.6
+odontologia,331,AREQUIPA,NA
+odontologia,332,AREQUIPA,10.6
+odontologia,333,AREQUIPA,10.4
+odontologia,334,AREQUIPA,9.2
+odontologia,335,AREQUIPA,11.6
+odontologia,336,AREQUIPA,8.4
+odontologia,337,AREQUIPA,11
+odontologia,338,AREQUIPA,12
+odontologia,339,AREQUIPA,9.4
+odontologia,340,AREQUIPA,11.2
+odontologia,341,AREQUIPA,10.2
+odontologia,342,AREQUIPA,12
+odontologia,343,AREQUIPA,8.8
+odontologia,344,AREQUIPA,8.8
+odontologia,345,AREQUIPA,9.4
+odontologia,346,AREQUIPA,10
+odontologia,347,AREQUIPA,8.8
+odontologia,348,AREQUIPA,10.6
+odontologia,349,AREQUIPA,9.4
+odontologia,350,AREQUIPA,8
+odontologia,351,AREQUIPA,7.2
+odontologia,352,AREQUIPA,10
+odontologia,353,AREQUIPA,11.4
+odontologia,354,AREQUIPA,9
+odontologia,355,AREQUIPA,9.4
+odontologia,356,AREQUIPA,7.8
+odontologia,357,AREQUIPA,8.2
+odontologia,358,AREQUIPA,10
+odontologia,359,AREQUIPA,10.6
+odontologia,360,AREQUIPA,13.2
+odontologia,361,AREQUIPA,12.2
+odontologia,362,AREQUIPA,8.8
+odontologia,363,AREQUIPA,9.4
+odontologia,364,AREQUIPA,10.2
+odontologia,365,AREQUIPA,10.8
+odontologia,366,AREQUIPA,7.4
+odontologia,367,AREQUIPA,8.2
+odontologia,368,AREQUIPA,10
+odontologia,369,AREQUIPA,9.6
+odontologia,370,AREQUIPA,8.2
+odontologia,371,AREQUIPA,11.4
+odontologia,372,AREQUIPA,10.6
+odontologia,373,AREQUIPA,NA
+odontologia,374,AREQUIPA,12.6
+odontologia,375,AREQUIPA,11.8
+odontologia,376,AREQUIPA,7.8
+odontologia,377,AREQUIPA,10
+odontologia,378,AREQUIPA,11.4
+odontologia,379,AREQUIPA,10.8
+odontologia,380,AREQUIPA,8.6
+odontologia,381,AREQUIPA,9.4
+odontologia,382,AREQUIPA,10.6
+odontologia,383,AREQUIPA,NA
+odontologia,384,AREQUIPA,11
+odontologia,385,AREQUIPA,NA
+odontologia,386,AREQUIPA,7.8
+odontologia,387,AREQUIPA,10.8
+odontologia,388,AREQUIPA,12.4
+odontologia,389,AREQUIPA,NA
+odontologia,390,AREQUIPA,9.6
+odontologia,391,AREQUIPA,NA
+odontologia,392,AREQUIPA,12.8
+odontologia,393,AREQUIPA,7.8
+odontologia,394,AREQUIPA,10
+odontologia,395,AREQUIPA,NA
+odontologia,396,AREQUIPA,9.8
+odontologia,397,AREQUIPA,8.2
+odontologia,398,AREQUIPA,11
+odontologia,399,AREQUIPA,NA
+odontologia,400,AREQUIPA,11.4
+odontologia,401,AREQUIPA,10.6
+odontologia,402,AREQUIPA,13.2
+odontologia,403,AREQUIPA,12.2
+odontologia,404,AREQUIPA,8
+odontologia,405,AREQUIPA,8
+odontologia,406,AREQUIPA,11
+odontologia,407,AREQUIPA,11.6
+odontologia,408,AREQUIPA,10.2
+odontologia,409,AREQUIPA,10
+odontologia,410,AREQUIPA,9
+odontologia,411,AREQUIPA,9.6
+odontologia,412,AREQUIPA,9.4
+odontologia,413,AREQUIPA,8.2
+odontologia,414,AREQUIPA,11.2
+odontologia,415,AREQUIPA,12.6
+odontologia,416,AREQUIPA,14
+odontologia,417,AREQUIPA,8.4
+odontologia,418,AREQUIPA,7.2
+odontologia,419,AREQUIPA,9.4
+odontologia,420,AREQUIPA,NA
+odontologia,421,AREQUIPA,NA
+odontologia,422,AREQUIPA,7.4
+odontologia,423,AREQUIPA,10.8
+odontologia,424,AREQUIPA,10.6
+odontologia,425,AREQUIPA,11
+odontologia,426,AREQUIPA,11.4
+odontologia,427,AREQUIPA,10.2
+odontologia,428,AREQUIPA,9.2
+odontologia,429,AREQUIPA,NA
+odontologia,430,AREQUIPA,NA
+odontologia,431,AREQUIPA,12
+odontologia,432,AREQUIPA,9.2
+odontologia,433,AREQUIPA,11
+odontologia,434,AREQUIPA,8.6
+odontologia,435,AREQUIPA,7.6
+odontologia,436,AREQUIPA,9.2
+odontologia,437,AREQUIPA,NA
+odontologia,438,AREQUIPA,NA
+odontologia,439,AREQUIPA,10.2
+odontologia,440,AREQUIPA,8.4
+odontologia,441,AREQUIPA,10
+odontologia,442,AREQUIPA,8.2
+odontologia,443,AREQUIPA,11.2
+odontologia,444,AREQUIPA,8.2
+odontologia,445,AREQUIPA,10.6
+odontologia,446,AREQUIPA,7.8
+odontologia,447,AREQUIPA,9
+odontologia,448,AREQUIPA,10.6
+odontologia,449,AREQUIPA,11.4
+odontologia,450,AREQUIPA,10.2
+odontologia,451,AREQUIPA,10
+odontologia,452,AREQUIPA,11
+odontologia,453,AREQUIPA,9.6
+odontologia,454,AREQUIPA,8.6
+odontologia,455,AREQUIPA,10.2
+odontologia,456,AREQUIPA,NA
+odontologia,457,AREQUIPA,8
+odontologia,458,AREQUIPA,10
+odontologia,459,AREQUIPA,10.4
+odontologia,460,AREQUIPA,10.4
+odontologia,461,AREQUIPA,6.8
+odontologia,462,AREQUIPA,10.8
+odontologia,463,AREQUIPA,10
+odontologia,464,AREQUIPA,7.8
+odontologia,465,AREQUIPA,10
+odontologia,466,AREQUIPA,10.4
+odontologia,467,AREQUIPA,8
+odontologia,468,AREQUIPA,9
+odontologia,469,AREQUIPA,10.8
+odontologia,470,AREQUIPA,10.2
+odontologia,471,AREQUIPA,11.8
+odontologia,472,AREQUIPA,6.6
+odontologia,473,AREQUIPA,6.8
+odontologia,474,AREQUIPA,13.8
+odontologia,475,AREQUIPA,9.2
+odontologia,476,AREQUIPA,11
+odontologia,477,AREQUIPA,NA
+odontologia,478,AREQUIPA,9.4
+odontologia,479,AREQUIPA,8.8
+odontologia,480,AREQUIPA,9.4
+odontologia,481,AREQUIPA,13.8
+odontologia,482,AREQUIPA,8.2
+odontologia,483,AREQUIPA,11.2
+odontologia,484,AREQUIPA,12.6
+odontologia,485,AREQUIPA,9.6
+odontologia,486,AREQUIPA,8.6
+odontologia,487,AREQUIPA,8.4
+odontologia,488,AREQUIPA,11.8
+odontologia,489,AREQUIPA,12.6
+odontologia,490,AREQUIPA,12
+odontologia,491,AREQUIPA,11.4
+odontologia,492,AREQUIPA,13
+odontologia,493,AREQUIPA,9.6
+odontologia,494,AREQUIPA,14.4
+odontologia,495,AREQUIPA,12.8
+odontologia,496,AREQUIPA,NA
+odontologia,497,AREQUIPA,8.6
+odontologia,498,AREQUIPA,10.8
+odontologia,499,AREQUIPA,10.6
+odontologia,500,AREQUIPA,12.2
+odontologia,501,AREQUIPA,10
+odontologia,502,AREQUIPA,10.4
+odontologia,503,AREQUIPA,9.2
+odontologia,504,AREQUIPA,NA
+odontologia,505,AREQUIPA,13.4
+odontologia,506,AREQUIPA,NA
+odontologia,507,AREQUIPA,9.2
+odontologia,508,AREQUIPA,9.6
+odontologia,509,AREQUIPA,6.8
+odontologia,510,AREQUIPA,10.4
+odontologia,511,AREQUIPA,11
+odontologia,512,AREQUIPA,9.4
+odontologia,513,AREQUIPA,NA
+odontologia,514,AREQUIPA,NA
+odontologia,515,AREQUIPA,10.2
+odontologia,516,AREQUIPA,12.2
+odontologia,517,AREQUIPA,11.6
+odontologia,518,AREQUIPA,12
+odontologia,519,AYACUCHO,NA
+odontologia,520,AYACUCHO,5.2
+odontologia,521,AYACUCHO,11.6
+odontologia,522,AYACUCHO,8.8
+odontologia,523,AYACUCHO,11
+odontologia,524,AYACUCHO,5.4
+odontologia,525,AYACUCHO,5
+odontologia,526,AYACUCHO,5.4
+odontologia,527,AYACUCHO,7.8
+odontologia,528,AYACUCHO,6.2
+odontologia,529,AYACUCHO,6.8
+odontologia,530,AYACUCHO,7.6
+odontologia,531,AYACUCHO,7.6
+odontologia,532,AYACUCHO,8.2
+odontologia,533,AYACUCHO,8.6
+odontologia,534,AYACUCHO,10.6
+odontologia,535,AYACUCHO,10.6
+odontologia,536,AYACUCHO,7.8
+odontologia,537,AYACUCHO,9.4
+odontologia,538,AYACUCHO,7.4
+odontologia,539,AYACUCHO,NA
+odontologia,540,AYACUCHO,7.8
+odontologia,541,AYACUCHO,8.6
+odontologia,542,AYACUCHO,11.4
+odontologia,543,AYACUCHO,NA
+odontologia,544,AYACUCHO,10.2
+odontologia,545,AYACUCHO,9
+odontologia,546,AYACUCHO,9.2
+odontologia,547,AYACUCHO,8
+odontologia,548,AYACUCHO,NA
+odontologia,549,AYACUCHO,10.6
+odontologia,550,AYACUCHO,6.2
+odontologia,551,AYACUCHO,6.6
+odontologia,552,AYACUCHO,9.8
+odontologia,553,AYACUCHO,9.2
+odontologia,554,AYACUCHO,10.2
+odontologia,555,AYACUCHO,9.6
+odontologia,556,AYACUCHO,11
+odontologia,557,AYACUCHO,8
+odontologia,558,AYACUCHO,NA
+odontologia,559,AYACUCHO,13.2
+odontologia,560,AYACUCHO,8
+odontologia,561,AYACUCHO,8.4
+odontologia,562,AYACUCHO,7.4
+odontologia,563,AYACUCHO,10.6
+odontologia,564,AYACUCHO,9
+odontologia,565,AYACUCHO,7.2
+odontologia,566,AYACUCHO,9
+odontologia,567,AYACUCHO,9.8
+odontologia,568,AYACUCHO,6.4
+odontologia,569,AYACUCHO,7.4
+odontologia,570,AYACUCHO,7.4
+odontologia,571,AYACUCHO,NA
+odontologia,572,AYACUCHO,8.4
+odontologia,573,AYACUCHO,10
+odontologia,574,AYACUCHO,6.6
+odontologia,575,AYACUCHO,9.6
+odontologia,576,AYACUCHO,11.6
+odontologia,577,AYACUCHO,11.4
+odontologia,578,AYACUCHO,8.2
+odontologia,579,AYACUCHO,12.6
+odontologia,580,AYACUCHO,7.2
+odontologia,581,AYACUCHO,NA
+odontologia,582,AYACUCHO,8.6
+odontologia,583,AYACUCHO,9.4
+odontologia,584,AYACUCHO,8
+odontologia,585,AYACUCHO,11.4
+odontologia,586,AYACUCHO,8.6
+odontologia,587,AYACUCHO,8.8
+odontologia,588,AYACUCHO,12.4
+odontologia,589,AYACUCHO,6.6
+odontologia,590,AYACUCHO,10.4
+odontologia,591,AYACUCHO,14
+odontologia,592,AYACUCHO,8
+odontologia,593,AYACUCHO,8.6
+odontologia,594,AYACUCHO,9.8
+odontologia,595,AYACUCHO,10.8
+odontologia,596,AYACUCHO,11
+odontologia,597,AYACUCHO,8.6
+odontologia,598,AYACUCHO,10.2
+odontologia,599,AYACUCHO,10.6
+odontologia,600,AYACUCHO,9.6
+odontologia,601,AYACUCHO,12.2
+odontologia,602,CAJAMARCA,8.6
+odontologia,603,CAJAMARCA,13
+odontologia,604,CAJAMARCA,10.6
+odontologia,605,CAJAMARCA,11
+odontologia,606,CAJAMARCA,8.8
+odontologia,607,CAJAMARCA,5.8
+odontologia,608,CAJAMARCA,10.2
+odontologia,609,CAJAMARCA,14.4
+odontologia,610,CAJAMARCA,9.6
+odontologia,611,CAJAMARCA,10.6
+odontologia,612,CAJAMARCA,10.2
+odontologia,613,CAJAMARCA,9
+odontologia,614,CAJAMARCA,10.4
+odontologia,615,CAJAMARCA,10
+odontologia,616,CAJAMARCA,9.6
+odontologia,617,CAJAMARCA,11
+odontologia,618,CAJAMARCA,11
+odontologia,619,CAJAMARCA,8.4
+odontologia,620,CAJAMARCA,NA
+odontologia,621,CAJAMARCA,9.6
+odontologia,622,CAJAMARCA,10.4
+odontologia,623,CAJAMARCA,8.6
+odontologia,624,CAJAMARCA,10.8
+odontologia,625,CAJAMARCA,10.2
+odontologia,626,CAJAMARCA,10.8
+odontologia,627,CAJAMARCA,12
+odontologia,628,CAJAMARCA,9.8
+odontologia,629,CAJAMARCA,12.4
+odontologia,630,CAJAMARCA,10
+odontologia,631,CAJAMARCA,10
+odontologia,632,CAJAMARCA,NA
+odontologia,633,CAJAMARCA,11
+odontologia,634,CAJAMARCA,9.4
+odontologia,635,CAJAMARCA,9
+odontologia,636,CAJAMARCA,9
+odontologia,637,CAJAMARCA,11.2
+odontologia,638,CAJAMARCA,10
+odontologia,639,CAJAMARCA,8.4
+odontologia,640,CAJAMARCA,NA
+odontologia,641,CAJAMARCA,10.4
+odontologia,642,CAJAMARCA,10.8
+odontologia,643,CAJAMARCA,10.8
+odontologia,644,CAJAMARCA,9.2
+odontologia,645,CAJAMARCA,9.8
+odontologia,646,CAJAMARCA,10.4
+odontologia,647,CAJAMARCA,7.4
+odontologia,648,CAJAMARCA,NA
+odontologia,649,CAJAMARCA,12.4
+odontologia,650,CAJAMARCA,10.4
+odontologia,651,CAJAMARCA,10.2
+odontologia,652,CAJAMARCA,8
+odontologia,653,CAJAMARCA,9.2
+odontologia,654,CAJAMARCA,13.4
+odontologia,655,CAJAMARCA,NA
+odontologia,656,CAJAMARCA,10.6
+odontologia,657,CAJAMARCA,9.4
+odontologia,658,CAJAMARCA,8.4
+odontologia,659,CAJAMARCA,8.8
+odontologia,660,CAJAMARCA,11.2
+odontologia,661,CAJAMARCA,10.8
+odontologia,662,CAJAMARCA,10.4
+odontologia,663,CAJAMARCA,10.4
+odontologia,664,CAJAMARCA,11.2
+odontologia,665,CAJAMARCA,8
+odontologia,666,CAJAMARCA,NA
+odontologia,667,CAJAMARCA,10.8
+odontologia,668,CAJAMARCA,9
+odontologia,669,CAJAMARCA,12.4
+odontologia,670,CAJAMARCA,8
+odontologia,671,CAJAMARCA,8
+odontologia,672,CAJAMARCA,5.6
+odontologia,673,CAJAMARCA,9.4
+odontologia,674,CAJAMARCA,11
+odontologia,675,CAJAMARCA,NA
+odontologia,676,CAJAMARCA,9.8
+odontologia,677,CAJAMARCA,11
+odontologia,678,CAJAMARCA,8.6
+odontologia,679,CAJAMARCA,7.8
+odontologia,680,CAJAMARCA,10
+odontologia,681,CAJAMARCA,10
+odontologia,682,CAJAMARCA,10.2
+odontologia,683,CAJAMARCA,8.6
+odontologia,684,CAJAMARCA,9.4
+odontologia,685,CAJAMARCA,5.4
+odontologia,686,CAJAMARCA,8.8
+odontologia,687,CAJAMARCA,8.4
+odontologia,688,CAJAMARCA,9.8
+odontologia,689,CAJAMARCA,8.6
+odontologia,690,CAJAMARCA,12.4
+odontologia,691,CAJAMARCA,9.4
+odontologia,692,CAJAMARCA,6.2
+odontologia,693,CAJAMARCA,8.6
+odontologia,694,CAJAMARCA,10.8
+odontologia,695,CAJAMARCA,10.8
+odontologia,696,CAJAMARCA,11
+odontologia,697,CAJAMARCA,10.2
+odontologia,698,CAJAMARCA,NA
+odontologia,699,CAJAMARCA,8
+odontologia,700,CAJAMARCA,11.4
+odontologia,701,CAJAMARCA,9.6
+odontologia,702,CAJAMARCA,7.2
+odontologia,703,CAJAMARCA,12
+odontologia,704,CAJAMARCA,9.2
+odontologia,705,CAJAMARCA,7.8
+odontologia,706,CAJAMARCA,8.2
+odontologia,707,CALLAO,11.6
+odontologia,708,CALLAO,11.8
+odontologia,709,CALLAO,11.4
+odontologia,710,CALLAO,NA
+odontologia,711,CALLAO,11.2
+odontologia,712,CALLAO,8.8
+odontologia,713,CALLAO,9.8
+odontologia,714,CALLAO,13.2
+odontologia,715,CALLAO,9
+odontologia,716,CALLAO,7
+odontologia,717,CALLAO,7.6
+odontologia,718,CALLAO,8.4
+odontologia,719,CALLAO,11.6
+odontologia,720,CALLAO,11
+odontologia,721,CALLAO,10.6
+odontologia,722,CALLAO,6.8
+odontologia,723,CALLAO,10.2
+odontologia,724,CALLAO,11.8
+odontologia,725,CALLAO,12.4
+odontologia,726,CALLAO,NA
+odontologia,727,CALLAO,9.6
+odontologia,728,CALLAO,11.2
+odontologia,729,CALLAO,10.8
+odontologia,730,CALLAO,9.2
+odontologia,731,CALLAO,10.2
+odontologia,732,CALLAO,9.8
+odontologia,733,CALLAO,7.6
+odontologia,734,CALLAO,12.8
+odontologia,735,CALLAO,9.4
+odontologia,736,CALLAO,10.8
+odontologia,737,CALLAO,9.4
+odontologia,738,CALLAO,12.2
+odontologia,739,CALLAO,9.8
+odontologia,740,CALLAO,8
+odontologia,741,CUSCO,8.6
+odontologia,742,CUSCO,NA
+odontologia,743,CUSCO,8.4
+odontologia,744,CUSCO,6.8
+odontologia,745,CUSCO,NA
+odontologia,746,CUSCO,NA
+odontologia,747,CUSCO,9.8
+odontologia,748,CUSCO,12
+odontologia,749,CUSCO,9.2
+odontologia,750,CUSCO,NA
+odontologia,751,CUSCO,9.4
+odontologia,752,CUSCO,9
+odontologia,753,CUSCO,10.4
+odontologia,754,CUSCO,10.2
+odontologia,755,CUSCO,9
+odontologia,756,CUSCO,8.2
+odontologia,757,CUSCO,12.4
+odontologia,758,CUSCO,10.4
+odontologia,759,CUSCO,7.6
+odontologia,760,CUSCO,NA
+odontologia,761,CUSCO,NA
+odontologia,762,CUSCO,8.8
+odontologia,763,CUSCO,9.2
+odontologia,764,CUSCO,9.8
+odontologia,765,CUSCO,9.2
+odontologia,766,CUSCO,10.6
+odontologia,767,CUSCO,10.4
+odontologia,768,CUSCO,9.4
+odontologia,769,CUSCO,9.2
+odontologia,770,CUSCO,12.2
+odontologia,771,CUSCO,10
+odontologia,772,CUSCO,NA
+odontologia,773,CUSCO,9.2
+odontologia,774,CUSCO,11.2
+odontologia,775,CUSCO,8.8
+odontologia,776,CUSCO,10
+odontologia,777,CUSCO,9.2
+odontologia,778,CUSCO,NA
+odontologia,779,CUSCO,9.4
+odontologia,780,CUSCO,NA
+odontologia,781,CUSCO,10.4
+odontologia,782,CUSCO,11.2
+odontologia,783,CUSCO,8.8
+odontologia,784,CUSCO,10.6
+odontologia,785,CUSCO,9.6
+odontologia,786,CUSCO,9.2
+odontologia,787,CUSCO,9
+odontologia,788,CUSCO,11.2
+odontologia,789,CUSCO,10.2
+odontologia,790,CUSCO,NA
+odontologia,791,CUSCO,9.6
+odontologia,792,CUSCO,9
+odontologia,793,CUSCO,10
+odontologia,794,CUSCO,10.2
+odontologia,795,CUSCO,9.8
+odontologia,796,CUSCO,8.4
+odontologia,797,CUSCO,11.2
+odontologia,798,CUSCO,9.2
+odontologia,799,CUSCO,11
+odontologia,800,CUSCO,10
+odontologia,801,CUSCO,9.8
+odontologia,802,CUSCO,9.4
+odontologia,803,CUSCO,10
+odontologia,804,CUSCO,8.2
+odontologia,805,CUSCO,5.4
+odontologia,806,CUSCO,10.6
+odontologia,807,CUSCO,NA
+odontologia,808,CUSCO,9.2
+odontologia,809,CUSCO,6.6
+odontologia,810,CUSCO,9.8
+odontologia,811,CUSCO,9.2
+odontologia,812,CUSCO,8.8
+odontologia,813,CUSCO,8
+odontologia,814,CUSCO,11.2
+odontologia,815,CUSCO,11.4
+odontologia,816,CUSCO,11.6
+odontologia,817,CUSCO,NA
+odontologia,818,CUSCO,NA
+odontologia,819,CUSCO,10.4
+odontologia,820,CUSCO,9.8
+odontologia,821,CUSCO,6.4
+odontologia,822,CUSCO,12.4
+odontologia,823,CUSCO,9.4
+odontologia,824,CUSCO,10.8
+odontologia,825,CUSCO,11.6
+odontologia,826,CUSCO,9.2
+odontologia,827,CUSCO,10
+odontologia,828,CUSCO,10.6
+odontologia,829,CUSCO,4.6
+odontologia,830,CUSCO,7.6
+odontologia,831,CUSCO,10.8
+odontologia,832,CUSCO,10.8
+odontologia,833,CUSCO,11.4
+odontologia,834,CUSCO,10.8
+odontologia,835,CUSCO,6.6
+odontologia,836,CUSCO,9.4
+odontologia,837,CUSCO,8.6
+odontologia,838,CUSCO,NA
+odontologia,839,CUSCO,9.2
+odontologia,840,CUSCO,NA
+odontologia,841,CUSCO,NA
+odontologia,842,CUSCO,9
+odontologia,843,CUSCO,9.4
+odontologia,844,CUSCO,11.4
+odontologia,845,CUSCO,10.4
+odontologia,846,CUSCO,13.4
+odontologia,847,CUSCO,9.8
+odontologia,848,CUSCO,9.6
+odontologia,849,CUSCO,7.4
+odontologia,850,CUSCO,8.2
+odontologia,851,CUSCO,11
+odontologia,852,CUSCO,10
+odontologia,853,CUSCO,NA
+odontologia,854,CUSCO,NA
+odontologia,855,CUSCO,11.4
+odontologia,856,CUSCO,NA
+odontologia,857,CUSCO,11.2
+odontologia,858,CUSCO,10.8
+odontologia,859,CUSCO,9.4
+odontologia,860,CUSCO,7.8
+odontologia,861,CUSCO,NA
+odontologia,862,CUSCO,8.2
+odontologia,863,CUSCO,NA
+odontologia,864,CUSCO,6.2
+odontologia,865,CUSCO,8.8
+odontologia,866,CUSCO,8.4
+odontologia,867,CUSCO,8.2
+odontologia,868,CUSCO,9.6
+odontologia,869,CUSCO,NA
+odontologia,870,CUSCO,11.2
+odontologia,871,HUANCAVELICA,11.2
+odontologia,872,HUANCAVELICA,9.2
+odontologia,873,HUANCAVELICA,11.6
+odontologia,874,HUANCAVELICA,NA
+odontologia,875,HUANCAVELICA,10.2
+odontologia,876,HUANCAVELICA,9
+odontologia,877,HUANCAVELICA,8.6
+odontologia,878,HUANCAVELICA,8.6
+odontologia,879,HUANUCO,10
+odontologia,880,HUANUCO,6.4
+odontologia,881,HUANUCO,8.4
+odontologia,882,HUANUCO,10.8
+odontologia,883,HUANUCO,10
+odontologia,884,HUANUCO,NA
+odontologia,885,HUANUCO,NA
+odontologia,886,HUANUCO,9.4
+odontologia,887,HUANUCO,8.6
+odontologia,888,HUANUCO,10
+odontologia,889,HUANUCO,7.6
+odontologia,890,HUANUCO,8.8
+odontologia,891,HUANUCO,8.6
+odontologia,892,HUANUCO,13
+odontologia,893,HUANUCO,13.4
+odontologia,894,HUANUCO,NA
+odontologia,895,HUANUCO,7.8
+odontologia,896,HUANUCO,9.2
+odontologia,897,HUANUCO,9
+odontologia,898,HUANUCO,10.2
+odontologia,899,HUANUCO,9.2
+odontologia,900,HUANUCO,10.2
+odontologia,901,HUANUCO,7
+odontologia,902,HUANUCO,7.2
+odontologia,903,HUANUCO,10
+odontologia,904,HUANUCO,12.8
+odontologia,905,HUANUCO,11.6
+odontologia,906,HUANUCO,11.4
+odontologia,907,HUANUCO,NA
+odontologia,908,HUANUCO,12.4
+odontologia,909,HUANUCO,11.4
+odontologia,910,HUANUCO,6.8
+odontologia,911,HUANUCO,9
+odontologia,912,HUANUCO,10.8
+odontologia,913,HUANUCO,10
+odontologia,914,HUANUCO,12.6
+odontologia,915,HUANUCO,7.8
+odontologia,916,HUANUCO,13
+odontologia,917,HUANUCO,9.8
+odontologia,918,HUANUCO,NA
+odontologia,919,HUANUCO,7.2
+odontologia,920,HUANUCO,8.8
+odontologia,921,HUANUCO,9.8
+odontologia,922,HUANUCO,9.4
+odontologia,923,HUANUCO,5.8
+odontologia,924,HUANUCO,10.6
+odontologia,925,HUANUCO,10
+odontologia,926,HUANUCO,NA
+odontologia,927,HUANUCO,12.4
+odontologia,928,HUANUCO,9.4
+odontologia,929,HUANUCO,14.8
+odontologia,930,HUANUCO,12.2
+odontologia,931,HUANUCO,8.6
+odontologia,932,HUANUCO,9.6
+odontologia,933,HUANUCO,10.4
+odontologia,934,HUANUCO,NA
+odontologia,935,HUANUCO,14.6
+odontologia,936,HUANUCO,12.6
+odontologia,937,HUANUCO,10.2
+odontologia,938,HUANUCO,7.8
+odontologia,939,HUANUCO,NA
+odontologia,940,HUANUCO,12.2
+odontologia,941,HUANUCO,9.6
+odontologia,942,HUANUCO,13.6
+odontologia,943,HUANUCO,11.8
+odontologia,944,HUANUCO,9.4
+odontologia,945,HUANUCO,8.2
+odontologia,946,HUANUCO,NA
+odontologia,947,HUANUCO,7.2
+odontologia,948,HUANUCO,12.2
+odontologia,949,HUANUCO,NA
+odontologia,950,HUANUCO,8.8
+odontologia,951,HUANUCO,NA
+odontologia,952,HUANUCO,13.4
+odontologia,953,HUANUCO,11.2
+odontologia,954,HUANUCO,8.6
+odontologia,955,HUANUCO,NA
+odontologia,956,HUANUCO,12
+odontologia,957,HUANUCO,9.4
+odontologia,958,HUANUCO,11.4
+odontologia,959,HUANUCO,8.8
+odontologia,960,HUANUCO,10.8
+odontologia,961,HUANUCO,9
+odontologia,962,HUANUCO,12
+odontologia,963,HUANUCO,10.4
+odontologia,964,HUANUCO,NA
+odontologia,965,HUANUCO,NA
+odontologia,966,HUANUCO,NA
+odontologia,967,HUANUCO,9
+odontologia,968,HUANUCO,NA
+odontologia,969,HUANUCO,11.4
+odontologia,970,HUANUCO,10
+odontologia,971,HUANUCO,11.8
+odontologia,972,HUANUCO,10.6
+odontologia,973,HUANUCO,9.4
+odontologia,974,HUANUCO,10
+odontologia,975,HUANUCO,8.8
+odontologia,976,HUANUCO,8
+odontologia,977,HUANUCO,7.6
+odontologia,978,HUANUCO,9.2
+odontologia,979,ICA,7.8
+odontologia,980,ICA,12
+odontologia,981,ICA,10.2
+odontologia,982,ICA,9.2
+odontologia,983,ICA,12.2
+odontologia,984,ICA,10.8
+odontologia,985,ICA,9
+odontologia,986,ICA,NA
+odontologia,987,ICA,9
+odontologia,988,ICA,9
+odontologia,989,ICA,7.4
+odontologia,990,ICA,9
+odontologia,991,ICA,NA
+odontologia,992,ICA,12
+odontologia,993,ICA,6.2
+odontologia,994,ICA,10.4
+odontologia,995,ICA,10.8
+odontologia,996,ICA,9.8
+odontologia,997,ICA,10
+odontologia,998,ICA,8.2
+odontologia,999,ICA,9.6
+odontologia,1000,ICA,9
+odontologia,1001,ICA,10.6
+odontologia,1002,ICA,10.8
+odontologia,1003,ICA,6
+odontologia,1004,ICA,9.6
+odontologia,1005,ICA,11
+odontologia,1006,ICA,8
+odontologia,1007,ICA,10.6
+odontologia,1008,ICA,6.6
+odontologia,1009,ICA,10.2
+odontologia,1010,ICA,11.8
+odontologia,1011,ICA,10.6
+odontologia,1012,ICA,9.8
+odontologia,1013,ICA,13
+odontologia,1014,ICA,9.4
+odontologia,1015,ICA,10
+odontologia,1016,ICA,7.4
+odontologia,1017,ICA,11.2
+odontologia,1018,ICA,6.6
+odontologia,1019,ICA,11.8
+odontologia,1020,ICA,8
+odontologia,1021,ICA,7
+odontologia,1022,ICA,9
+odontologia,1023,ICA,NA
+odontologia,1024,ICA,9.8
+odontologia,1025,ICA,10.8
+odontologia,1026,ICA,6.6
+odontologia,1027,ICA,7.4
+odontologia,1028,ICA,9.6
+odontologia,1029,ICA,11.2
+odontologia,1030,ICA,9.2
+odontologia,1031,ICA,6.4
+odontologia,1032,ICA,9.2
+odontologia,1033,ICA,7.6
+odontologia,1034,ICA,NA
+odontologia,1035,ICA,7.8
+odontologia,1036,ICA,NA
+odontologia,1037,ICA,9.2
+odontologia,1038,ICA,9.2
+odontologia,1039,ICA,7
+odontologia,1040,ICA,13.4
+odontologia,1041,ICA,11.4
+odontologia,1042,ICA,10.4
+odontologia,1043,ICA,9
+odontologia,1044,ICA,9.6
+odontologia,1045,ICA,10.4
+odontologia,1046,ICA,11.2
+odontologia,1047,ICA,8.8
+odontologia,1048,ICA,7.2
+odontologia,1049,ICA,8.2
+odontologia,1050,ICA,10.6
+odontologia,1051,ICA,12.4
+odontologia,1052,ICA,12.4
+odontologia,1053,ICA,9.8
+odontologia,1054,ICA,9.8
+odontologia,1055,ICA,9.6
+odontologia,1056,ICA,NA
+odontologia,1057,ICA,10.6
+odontologia,1058,ICA,9.6
+odontologia,1059,ICA,8
+odontologia,1060,ICA,11.2
+odontologia,1061,ICA,9.6
+odontologia,1062,ICA,9.6
+odontologia,1063,ICA,9.2
+odontologia,1064,ICA,9.4
+odontologia,1065,ICA,11.6
+odontologia,1066,ICA,12.8
+odontologia,1067,ICA,8.2
+odontologia,1068,ICA,10.2
+odontologia,1069,ICA,7.4
+odontologia,1070,ICA,10.4
+odontologia,1071,ICA,11.2
+odontologia,1072,ICA,3.6
+odontologia,1073,ICA,7.8
+odontologia,1074,ICA,NA
+odontologia,1075,ICA,10.8
+odontologia,1076,ICA,8.2
+odontologia,1077,ICA,11
+odontologia,1078,ICA,8.4
+odontologia,1079,ICA,10.6
+odontologia,1080,ICA,8.8
+odontologia,1081,ICA,12.6
+odontologia,1082,ICA,7.8
+odontologia,1083,ICA,9.2
+odontologia,1084,ICA,8.6
+odontologia,1085,ICA,8.8
+odontologia,1086,ICA,10
+odontologia,1087,ICA,15.2
+odontologia,1088,ICA,NA
+odontologia,1089,ICA,8.2
+odontologia,1090,ICA,10.4
+odontologia,1091,ICA,10.4
+odontologia,1092,ICA,13.2
+odontologia,1093,ICA,NA
+odontologia,1094,ICA,NA
+odontologia,1095,ICA,9.6
+odontologia,1096,ICA,8.6
+odontologia,1097,JUNIN,9.8
+odontologia,1098,JUNIN,10.6
+odontologia,1099,JUNIN,9.6
+odontologia,1100,JUNIN,8.6
+odontologia,1101,JUNIN,8.4
+odontologia,1102,JUNIN,10
+odontologia,1103,JUNIN,5.6
+odontologia,1104,JUNIN,9.6
+odontologia,1105,JUNIN,10
+odontologia,1106,JUNIN,8.2
+odontologia,1107,JUNIN,8.2
+odontologia,1108,JUNIN,10.6
+odontologia,1109,JUNIN,9.4
+odontologia,1110,JUNIN,7.8
+odontologia,1111,JUNIN,9.8
+odontologia,1112,JUNIN,6.8
+odontologia,1113,JUNIN,10.8
+odontologia,1114,JUNIN,12.4
+odontologia,1115,JUNIN,7.6
+odontologia,1116,JUNIN,NA
+odontologia,1117,JUNIN,12.8
+odontologia,1118,JUNIN,10.2
+odontologia,1119,JUNIN,8.2
+odontologia,1120,JUNIN,10.4
+odontologia,1121,JUNIN,NA
+odontologia,1122,JUNIN,10.4
+odontologia,1123,JUNIN,9.8
+odontologia,1124,JUNIN,11.8
+odontologia,1125,JUNIN,9.6
+odontologia,1126,JUNIN,9.2
+odontologia,1127,JUNIN,9.8
+odontologia,1128,JUNIN,11.2
+odontologia,1129,JUNIN,10.8
+odontologia,1130,JUNIN,9.6
+odontologia,1131,JUNIN,9.2
+odontologia,1132,JUNIN,7.8
+odontologia,1133,JUNIN,8.2
+odontologia,1134,JUNIN,8.4
+odontologia,1135,JUNIN,10.6
+odontologia,1136,JUNIN,8.4
+odontologia,1137,JUNIN,11
+odontologia,1138,JUNIN,9.4
+odontologia,1139,JUNIN,12.6
+odontologia,1140,JUNIN,NA
+odontologia,1141,JUNIN,12.2
+odontologia,1142,JUNIN,9.4
+odontologia,1143,JUNIN,10.8
+odontologia,1144,JUNIN,12.4
+odontologia,1145,JUNIN,9.2
+odontologia,1146,JUNIN,12
+odontologia,1147,JUNIN,10
+odontologia,1148,JUNIN,10.2
+odontologia,1149,JUNIN,9
+odontologia,1150,JUNIN,9.2
+odontologia,1151,JUNIN,7
+odontologia,1152,JUNIN,9.2
+odontologia,1153,JUNIN,11.2
+odontologia,1154,JUNIN,11.4
+odontologia,1155,JUNIN,10
+odontologia,1156,JUNIN,9.4
+odontologia,1157,JUNIN,12.6
+odontologia,1158,JUNIN,11.6
+odontologia,1159,JUNIN,9.8
+odontologia,1160,JUNIN,8.2
+odontologia,1161,JUNIN,NA
+odontologia,1162,JUNIN,7
+odontologia,1163,JUNIN,7.8
+odontologia,1164,JUNIN,10.4
+odontologia,1165,JUNIN,10.4
+odontologia,1166,JUNIN,9.6
+odontologia,1167,JUNIN,9.8
+odontologia,1168,JUNIN,10.4
+odontologia,1169,JUNIN,10.2
+odontologia,1170,JUNIN,10.8
+odontologia,1171,JUNIN,8
+odontologia,1172,JUNIN,12.4
+odontologia,1173,JUNIN,10.4
+odontologia,1174,JUNIN,12.4
+odontologia,1175,JUNIN,10
+odontologia,1176,JUNIN,8.8
+odontologia,1177,JUNIN,NA
+odontologia,1178,JUNIN,10.2
+odontologia,1179,JUNIN,8.6
+odontologia,1180,JUNIN,NA
+odontologia,1181,JUNIN,10
+odontologia,1182,JUNIN,NA
+odontologia,1183,JUNIN,11
+odontologia,1184,JUNIN,10
+odontologia,1185,JUNIN,10.2
+odontologia,1186,JUNIN,9
+odontologia,1187,JUNIN,9.4
+odontologia,1188,JUNIN,NA
+odontologia,1189,JUNIN,11
+odontologia,1190,JUNIN,8.4
+odontologia,1191,JUNIN,10.6
+odontologia,1192,JUNIN,10.6
+odontologia,1193,JUNIN,9.4
+odontologia,1194,JUNIN,NA
+odontologia,1195,JUNIN,8.6
+odontologia,1196,JUNIN,9.6
+odontologia,1197,JUNIN,NA
+odontologia,1198,JUNIN,10
+odontologia,1199,JUNIN,10.4
+odontologia,1200,JUNIN,10.6
+odontologia,1201,JUNIN,11.2
+odontologia,1202,JUNIN,12.6
+odontologia,1203,JUNIN,9.6
+odontologia,1204,JUNIN,10.2
+odontologia,1205,JUNIN,11.6
+odontologia,1206,JUNIN,NA
+odontologia,1207,JUNIN,11
+odontologia,1208,JUNIN,9.4
+odontologia,1209,JUNIN,11.4
+odontologia,1210,JUNIN,9.8
+odontologia,1211,JUNIN,7.6
+odontologia,1212,JUNIN,8.2
+odontologia,1213,JUNIN,10.4
+odontologia,1214,JUNIN,NA
+odontologia,1215,JUNIN,14.6
+odontologia,1216,JUNIN,8.8
+odontologia,1217,JUNIN,10
+odontologia,1218,JUNIN,8.8
+odontologia,1219,JUNIN,11.8
+odontologia,1220,JUNIN,10.8
+odontologia,1221,JUNIN,9.4
+odontologia,1222,JUNIN,9
+odontologia,1223,JUNIN,11
+odontologia,1224,JUNIN,6.6
+odontologia,1225,JUNIN,10.6
+odontologia,1226,JUNIN,11.6
+odontologia,1227,JUNIN,13
+odontologia,1228,JUNIN,9.6
+odontologia,1229,JUNIN,13.4
+odontologia,1230,JUNIN,10.4
+odontologia,1231,JUNIN,9.8
+odontologia,1232,JUNIN,8.2
+odontologia,1233,JUNIN,12.2
+odontologia,1234,JUNIN,12.4
+odontologia,1235,JUNIN,9.4
+odontologia,1236,JUNIN,11.2
+odontologia,1237,JUNIN,8.8
+odontologia,1238,JUNIN,9.8
+odontologia,1239,JUNIN,10.2
+odontologia,1240,JUNIN,10.8
+odontologia,1241,JUNIN,10.2
+odontologia,1242,JUNIN,NA
+odontologia,1243,JUNIN,NA
+odontologia,1244,JUNIN,10
+odontologia,1245,JUNIN,NA
+odontologia,1246,JUNIN,10.4
+odontologia,1247,JUNIN,12.8
+odontologia,1248,JUNIN,11.6
+odontologia,1249,JUNIN,NA
+odontologia,1250,JUNIN,8.8
+odontologia,1251,JUNIN,NA
+odontologia,1252,JUNIN,10.2
+odontologia,1253,JUNIN,9
+odontologia,1254,JUNIN,9.6
+odontologia,1255,JUNIN,7.4
+odontologia,1256,JUNIN,10.8
+odontologia,1257,JUNIN,10.6
+odontologia,1258,JUNIN,NA
+odontologia,1259,JUNIN,9
+odontologia,1260,JUNIN,10
+odontologia,1261,JUNIN,10
+odontologia,1262,JUNIN,9.4
+odontologia,1263,JUNIN,8
+odontologia,1264,JUNIN,8.4
+odontologia,1265,JUNIN,13.2
+odontologia,1266,LA LIBERTAD,NA
+odontologia,1267,LA LIBERTAD,10
+odontologia,1268,LA LIBERTAD,9.2
+odontologia,1269,LA LIBERTAD,9
+odontologia,1270,LA LIBERTAD,10.6
+odontologia,1271,LA LIBERTAD,8.4
+odontologia,1272,LA LIBERTAD,9.6
+odontologia,1273,LA LIBERTAD,NA
+odontologia,1274,LA LIBERTAD,NA
+odontologia,1275,LA LIBERTAD,9.2
+odontologia,1276,LA LIBERTAD,12
+odontologia,1277,LA LIBERTAD,10.6
+odontologia,1278,LA LIBERTAD,8
+odontologia,1279,LA LIBERTAD,9.4
+odontologia,1280,LA LIBERTAD,8.4
+odontologia,1281,LA LIBERTAD,9.4
+odontologia,1282,LA LIBERTAD,13.8
+odontologia,1283,LA LIBERTAD,9.2
+odontologia,1284,LA LIBERTAD,8.4
+odontologia,1285,LA LIBERTAD,8.8
+odontologia,1286,LA LIBERTAD,14.2
+odontologia,1287,LA LIBERTAD,12.2
+odontologia,1288,LA LIBERTAD,6.8
+odontologia,1289,LA LIBERTAD,9.6
+odontologia,1290,LA LIBERTAD,7.6
+odontologia,1291,LA LIBERTAD,9.6
+odontologia,1292,LA LIBERTAD,10.6
+odontologia,1293,LA LIBERTAD,8.2
+odontologia,1294,LA LIBERTAD,10.4
+odontologia,1295,LA LIBERTAD,NA
+odontologia,1296,LA LIBERTAD,NA
+odontologia,1297,LA LIBERTAD,NA
+odontologia,1298,LA LIBERTAD,11.4
+odontologia,1299,LA LIBERTAD,12.2
+odontologia,1300,LA LIBERTAD,8
+odontologia,1301,LA LIBERTAD,8.8
+odontologia,1302,LA LIBERTAD,10
+odontologia,1303,LA LIBERTAD,8.8
+odontologia,1304,LA LIBERTAD,12
+odontologia,1305,LA LIBERTAD,11.4
+odontologia,1306,LA LIBERTAD,11.4
+odontologia,1307,LA LIBERTAD,7.4
+odontologia,1308,LA LIBERTAD,8.6
+odontologia,1309,LA LIBERTAD,NA
+odontologia,1310,LA LIBERTAD,8.6
+odontologia,1311,LA LIBERTAD,NA
+odontologia,1312,LA LIBERTAD,10
+odontologia,1313,LA LIBERTAD,10.2
+odontologia,1314,LA LIBERTAD,NA
+odontologia,1315,LA LIBERTAD,12.6
+odontologia,1316,LA LIBERTAD,12
+odontologia,1317,LA LIBERTAD,8.2
+odontologia,1318,LA LIBERTAD,8
+odontologia,1319,LA LIBERTAD,10.6
+odontologia,1320,LA LIBERTAD,9
+odontologia,1321,LA LIBERTAD,8.6
+odontologia,1322,LA LIBERTAD,7.6
+odontologia,1323,LA LIBERTAD,7.6
+odontologia,1324,LA LIBERTAD,11.8
+odontologia,1325,LA LIBERTAD,11.6
+odontologia,1326,LA LIBERTAD,NA
+odontologia,1327,LA LIBERTAD,9.6
+odontologia,1328,LA LIBERTAD,NA
+odontologia,1329,LA LIBERTAD,8.2
+odontologia,1330,LA LIBERTAD,11.6
+odontologia,1331,LA LIBERTAD,10.2
+odontologia,1332,LA LIBERTAD,11.6
+odontologia,1333,LA LIBERTAD,9.8
+odontologia,1334,LA LIBERTAD,10
+odontologia,1335,LA LIBERTAD,8.4
+odontologia,1336,LA LIBERTAD,11
+odontologia,1337,LA LIBERTAD,12.6
+odontologia,1338,LA LIBERTAD,10.2
+odontologia,1339,LA LIBERTAD,11
+odontologia,1340,LA LIBERTAD,9.2
+odontologia,1341,LA LIBERTAD,10
+odontologia,1342,LA LIBERTAD,10.2
+odontologia,1343,LA LIBERTAD,NA
+odontologia,1344,LA LIBERTAD,9.2
+odontologia,1345,LA LIBERTAD,11.6
+odontologia,1346,LA LIBERTAD,11
+odontologia,1347,LA LIBERTAD,9.4
+odontologia,1348,LA LIBERTAD,9.4
+odontologia,1349,LA LIBERTAD,10.6
+odontologia,1350,LA LIBERTAD,7.4
+odontologia,1351,LA LIBERTAD,NA
+odontologia,1352,LA LIBERTAD,8.8
+odontologia,1353,LA LIBERTAD,10.4
+odontologia,1354,LA LIBERTAD,6.6
+odontologia,1355,LA LIBERTAD,9.2
+odontologia,1356,LA LIBERTAD,12
+odontologia,1357,LA LIBERTAD,NA
+odontologia,1358,LA LIBERTAD,7
+odontologia,1359,LA LIBERTAD,10.8
+odontologia,1360,LA LIBERTAD,11.4
+odontologia,1361,LA LIBERTAD,11
+odontologia,1362,LA LIBERTAD,12.6
+odontologia,1363,LA LIBERTAD,NA
+odontologia,1364,LA LIBERTAD,NA
+odontologia,1365,LA LIBERTAD,NA
+odontologia,1366,LA LIBERTAD,9.8
+odontologia,1367,LA LIBERTAD,11.2
+odontologia,1368,LA LIBERTAD,9.2
+odontologia,1369,LA LIBERTAD,10.4
+odontologia,1370,LA LIBERTAD,11.2
+odontologia,1371,LA LIBERTAD,NA
+odontologia,1372,LA LIBERTAD,NA
+odontologia,1373,LA LIBERTAD,10.6
+odontologia,1374,LA LIBERTAD,7.2
+odontologia,1375,LA LIBERTAD,10
+odontologia,1376,LA LIBERTAD,NA
+odontologia,1377,LA LIBERTAD,10.2
+odontologia,1378,LA LIBERTAD,5.6
+odontologia,1379,LA LIBERTAD,9.4
+odontologia,1380,LA LIBERTAD,12
+odontologia,1381,LA LIBERTAD,11
+odontologia,1382,LA LIBERTAD,9.2
+odontologia,1383,LA LIBERTAD,10.4
+odontologia,1384,LA LIBERTAD,NA
+odontologia,1385,LA LIBERTAD,9.8
+odontologia,1386,LA LIBERTAD,10.8
+odontologia,1387,LA LIBERTAD,7.8
+odontologia,1388,LA LIBERTAD,10.2
+odontologia,1389,LA LIBERTAD,9.2
+odontologia,1390,LA LIBERTAD,8.8
+odontologia,1391,LA LIBERTAD,8.2
+odontologia,1392,LA LIBERTAD,7
+odontologia,1393,LA LIBERTAD,13.4
+odontologia,1394,LA LIBERTAD,8.6
+odontologia,1395,LA LIBERTAD,9.2
+odontologia,1396,LA LIBERTAD,NA
+odontologia,1397,LA LIBERTAD,12
+odontologia,1398,LA LIBERTAD,9.6
+odontologia,1399,LA LIBERTAD,9.4
+odontologia,1400,LA LIBERTAD,9.8
+odontologia,1401,LA LIBERTAD,9
+odontologia,1402,LA LIBERTAD,8.2
+odontologia,1403,LA LIBERTAD,NA
+odontologia,1404,LA LIBERTAD,6.8
+odontologia,1405,LA LIBERTAD,7
+odontologia,1406,LA LIBERTAD,11.2
+odontologia,1407,LA LIBERTAD,5.6
+odontologia,1408,LA LIBERTAD,8.8
+odontologia,1409,LA LIBERTAD,10.6
+odontologia,1410,LA LIBERTAD,9.6
+odontologia,1411,LA LIBERTAD,NA
+odontologia,1412,LA LIBERTAD,12.4
+odontologia,1413,LA LIBERTAD,10
+odontologia,1414,LA LIBERTAD,10.8
+odontologia,1415,LA LIBERTAD,9
+odontologia,1416,LA LIBERTAD,10.2
+odontologia,1417,LA LIBERTAD,7.8
+odontologia,1418,LA LIBERTAD,9
+odontologia,1419,LA LIBERTAD,10
+odontologia,1420,LA LIBERTAD,9.8
+odontologia,1421,LA LIBERTAD,6
+odontologia,1422,LA LIBERTAD,11
+odontologia,1423,LA LIBERTAD,10.2
+odontologia,1424,LA LIBERTAD,14
+odontologia,1425,LA LIBERTAD,11
+odontologia,1426,LA LIBERTAD,9.4
+odontologia,1427,LA LIBERTAD,10.8
+odontologia,1428,LA LIBERTAD,8.6
+odontologia,1429,LA LIBERTAD,11.8
+odontologia,1430,LA LIBERTAD,8.4
+odontologia,1431,LA LIBERTAD,12.4
+odontologia,1432,LA LIBERTAD,9
+odontologia,1433,LA LIBERTAD,NA
+odontologia,1434,LA LIBERTAD,10.6
+odontologia,1435,LA LIBERTAD,9
+odontologia,1436,LA LIBERTAD,11.6
+odontologia,1437,LA LIBERTAD,NA
+odontologia,1438,LA LIBERTAD,11.6
+odontologia,1439,LA LIBERTAD,9.2
+odontologia,1440,LA LIBERTAD,NA
+odontologia,1441,LA LIBERTAD,9.2
+odontologia,1442,LA LIBERTAD,10.2
+odontologia,1443,LA LIBERTAD,9.2
+odontologia,1444,LA LIBERTAD,8.2
+odontologia,1445,LA LIBERTAD,11
+odontologia,1446,LA LIBERTAD,10.6
+odontologia,1447,LA LIBERTAD,11.2
+odontologia,1448,LA LIBERTAD,NA
+odontologia,1449,LA LIBERTAD,9.6
+odontologia,1450,LA LIBERTAD,9.8
+odontologia,1451,LA LIBERTAD,11
+odontologia,1452,LA LIBERTAD,NA
+odontologia,1453,LA LIBERTAD,12.4
+odontologia,1454,LA LIBERTAD,11
+odontologia,1455,LA LIBERTAD,9
+odontologia,1456,LA LIBERTAD,11.8
+odontologia,1457,LA LIBERTAD,9.6
+odontologia,1458,LA LIBERTAD,11.2
+odontologia,1459,LAMBAYEQUE,11.2
+odontologia,1460,LAMBAYEQUE,8.6
+odontologia,1461,LAMBAYEQUE,7.2
+odontologia,1462,LAMBAYEQUE,9
+odontologia,1463,LAMBAYEQUE,9.8
+odontologia,1464,LAMBAYEQUE,9.8
+odontologia,1465,LAMBAYEQUE,8.8
+odontologia,1466,LAMBAYEQUE,8.8
+odontologia,1467,LAMBAYEQUE,9.2
+odontologia,1468,LAMBAYEQUE,11.4
+odontologia,1469,LAMBAYEQUE,10.8
+odontologia,1470,LAMBAYEQUE,11
+odontologia,1471,LAMBAYEQUE,9
+odontologia,1472,LAMBAYEQUE,10.4
+odontologia,1473,LAMBAYEQUE,8.8
+odontologia,1474,LAMBAYEQUE,8.4
+odontologia,1475,LAMBAYEQUE,9.6
+odontologia,1476,LAMBAYEQUE,7.4
+odontologia,1477,LAMBAYEQUE,11.2
+odontologia,1478,LAMBAYEQUE,NA
+odontologia,1479,LAMBAYEQUE,9.2
+odontologia,1480,LAMBAYEQUE,9.2
+odontologia,1481,LAMBAYEQUE,9.4
+odontologia,1482,LAMBAYEQUE,9.8
+odontologia,1483,LAMBAYEQUE,9.4
+odontologia,1484,LAMBAYEQUE,10.2
+odontologia,1485,LAMBAYEQUE,11
+odontologia,1486,LAMBAYEQUE,10
+odontologia,1487,LAMBAYEQUE,12.4
+odontologia,1488,LAMBAYEQUE,NA
+odontologia,1489,LAMBAYEQUE,12.2
+odontologia,1490,LAMBAYEQUE,11
+odontologia,1491,LAMBAYEQUE,10.2
+odontologia,1492,LAMBAYEQUE,7.8
+odontologia,1493,LAMBAYEQUE,8.8
+odontologia,1494,LAMBAYEQUE,10
+odontologia,1495,LAMBAYEQUE,7.4
+odontologia,1496,LAMBAYEQUE,6.8
+odontologia,1497,LAMBAYEQUE,11.2
+odontologia,1498,LAMBAYEQUE,9.8
+odontologia,1499,LAMBAYEQUE,9.8
+odontologia,1500,LAMBAYEQUE,10.6
+odontologia,1501,LAMBAYEQUE,9.4
+odontologia,1502,LAMBAYEQUE,8.6
+odontologia,1503,LAMBAYEQUE,9.4
+odontologia,1504,LAMBAYEQUE,9.2
+odontologia,1505,LAMBAYEQUE,11
+odontologia,1506,LAMBAYEQUE,11.6
+odontologia,1507,LAMBAYEQUE,12.2
+odontologia,1508,LAMBAYEQUE,NA
+odontologia,1509,LAMBAYEQUE,9
+odontologia,1510,LAMBAYEQUE,9.8
+odontologia,1511,LAMBAYEQUE,9
+odontologia,1512,LAMBAYEQUE,10.2
+odontologia,1513,LAMBAYEQUE,11.8
+odontologia,1514,LAMBAYEQUE,11
+odontologia,1515,LAMBAYEQUE,8.6
+odontologia,1516,LAMBAYEQUE,12.2
+odontologia,1517,LAMBAYEQUE,10.4
+odontologia,1518,LAMBAYEQUE,10
+odontologia,1519,LAMBAYEQUE,12
+odontologia,1520,LAMBAYEQUE,9.8
+odontologia,1521,LAMBAYEQUE,11
+odontologia,1522,LAMBAYEQUE,12
+odontologia,1523,LAMBAYEQUE,7.6
+odontologia,1524,LAMBAYEQUE,9.6
+odontologia,1525,LAMBAYEQUE,6
+odontologia,1526,LAMBAYEQUE,9.2
+odontologia,1527,LAMBAYEQUE,10.6
+odontologia,1528,LAMBAYEQUE,8.2
+odontologia,1529,LAMBAYEQUE,9
+odontologia,1530,LAMBAYEQUE,7.2
+odontologia,1531,LAMBAYEQUE,8.2
+odontologia,1532,LAMBAYEQUE,8.6
+odontologia,1533,LAMBAYEQUE,7.4
+odontologia,1534,LAMBAYEQUE,5.8
+odontologia,1535,LAMBAYEQUE,9.4
+odontologia,1536,LAMBAYEQUE,11
+odontologia,1537,LAMBAYEQUE,9.6
+odontologia,1538,LAMBAYEQUE,NA
+odontologia,1539,LAMBAYEQUE,8.2
+odontologia,1540,LAMBAYEQUE,12.8
+odontologia,1541,LAMBAYEQUE,12.8
+odontologia,1542,LAMBAYEQUE,8.6
+odontologia,1543,LAMBAYEQUE,10.8
+odontologia,1544,LAMBAYEQUE,9
+odontologia,1545,LAMBAYEQUE,NA
+odontologia,1546,LAMBAYEQUE,10.6
+odontologia,1547,LAMBAYEQUE,10
+odontologia,1548,LAMBAYEQUE,10.6
+odontologia,1549,LAMBAYEQUE,9.8
+odontologia,1550,LAMBAYEQUE,9.4
+odontologia,1551,LAMBAYEQUE,9.4
+odontologia,1552,LAMBAYEQUE,10.2
+odontologia,1553,LAMBAYEQUE,NA
+odontologia,1554,LAMBAYEQUE,8
+odontologia,1555,LAMBAYEQUE,12.8
+odontologia,1556,LAMBAYEQUE,NA
+odontologia,1557,LAMBAYEQUE,7.8
+odontologia,1558,LAMBAYEQUE,6.8
+odontologia,1559,LAMBAYEQUE,10.4
+odontologia,1560,LAMBAYEQUE,8.4
+odontologia,1561,LAMBAYEQUE,12.8
+odontologia,1562,LAMBAYEQUE,12.2
+odontologia,1563,LAMBAYEQUE,9.8
+odontologia,1564,LAMBAYEQUE,11.4
+odontologia,1565,LAMBAYEQUE,8.4
+odontologia,1566,LAMBAYEQUE,11.4
+odontologia,1567,LAMBAYEQUE,9.8
+odontologia,1568,LAMBAYEQUE,8.6
+odontologia,1569,LAMBAYEQUE,8.8
+odontologia,1570,LAMBAYEQUE,9
+odontologia,1571,LAMBAYEQUE,11
+odontologia,1572,LAMBAYEQUE,9.8
+odontologia,1573,LAMBAYEQUE,12.8
+odontologia,1574,LAMBAYEQUE,8.6
+odontologia,1575,LAMBAYEQUE,9.4
+odontologia,1576,LAMBAYEQUE,6.8
+odontologia,1577,LAMBAYEQUE,9.8
+odontologia,1578,LAMBAYEQUE,8.4
+odontologia,1579,LAMBAYEQUE,10.2
+odontologia,1580,LAMBAYEQUE,10.2
+odontologia,1581,LAMBAYEQUE,10.2
+odontologia,1582,LAMBAYEQUE,10.6
+odontologia,1583,LAMBAYEQUE,11.6
+odontologia,1584,LAMBAYEQUE,10.2
+odontologia,1585,LAMBAYEQUE,8.8
+odontologia,1586,LAMBAYEQUE,8
+odontologia,1587,LAMBAYEQUE,8.4
+odontologia,1588,LAMBAYEQUE,10.6
+odontologia,1589,LAMBAYEQUE,7.8
+odontologia,1590,LAMBAYEQUE,12.4
+odontologia,1591,LAMBAYEQUE,10.6
+odontologia,1592,LAMBAYEQUE,9.8
+odontologia,1593,LAMBAYEQUE,8.8
+odontologia,1594,LAMBAYEQUE,12
+odontologia,1595,LAMBAYEQUE,9.8
+odontologia,1596,LAMBAYEQUE,10.6
+odontologia,1597,LAMBAYEQUE,8.8
+odontologia,1598,LAMBAYEQUE,7.8
+odontologia,1599,LAMBAYEQUE,12.2
+odontologia,1600,LAMBAYEQUE,8.2
+odontologia,1601,LAMBAYEQUE,NA
+odontologia,1602,LAMBAYEQUE,8.6
+odontologia,1603,LIMA NORTE,NA
+odontologia,1604,LIMA NORTE,12
+odontologia,1605,LIMA NORTE,14
+odontologia,1606,LIMA NORTE,11.6
+odontologia,1607,LIMA NORTE,13.4
+odontologia,1608,LIMA NORTE,13.6
+odontologia,1609,LIMA NORTE,9.4
+odontologia,1610,LIMA NORTE,NA
+odontologia,1611,LIMA NORTE,9.4
+odontologia,1612,LIMA NORTE,11.4
+odontologia,1613,LIMA NORTE,10.2
+odontologia,1614,LIMA NORTE,12.8
+odontologia,1615,LIMA NORTE,9.8
+odontologia,1616,LIMA NORTE,9
+odontologia,1617,LIMA NORTE,11
+odontologia,1618,LIMA NORTE,8.4
+odontologia,1619,LIMA NORTE,12.8
+odontologia,1620,LIMA NORTE,10.2
+odontologia,1621,LIMA NORTE,NA
+odontologia,1622,LIMA NORTE,9.6
+odontologia,1623,LIMA NORTE,NA
+odontologia,1624,LIMA NORTE,6.2
+odontologia,1625,LIMA NORTE,NA
+odontologia,1626,LIMA NORTE,9.4
+odontologia,1627,LIMA NORTE,9.4
+odontologia,1628,LIMA NORTE,9.2
+odontologia,1629,LIMA NORTE,NA
+odontologia,1630,LIMA NORTE,10.2
+odontologia,1631,LIMA NORTE,8.8
+odontologia,1632,LIMA NORTE,NA
+odontologia,1633,LIMA NORTE,11.6
+odontologia,1634,LIMA NORTE,7.8
+odontologia,1635,LIMA NORTE,12.6
+odontologia,1636,LIMA NORTE,12.8
+odontologia,1637,LIMA NORTE,10.8
+odontologia,1638,LIMA NORTE,6.8
+odontologia,1639,LIMA NORTE,12.2
+odontologia,1640,LIMA NORTE,NA
+odontologia,1641,LIMA NORTE,NA
+odontologia,1642,LIMA NORTE,5.2
+odontologia,1643,LIMA NORTE,8.8
+odontologia,1644,LIMA NORTE,10.6
+odontologia,1645,LIMA NORTE,10.8
+odontologia,1646,LIMA NORTE,10.2
+odontologia,1647,LIMA NORTE,10
+odontologia,1648,LIMA NORTE,9.8
+odontologia,1649,LIMA NORTE,12.6
+odontologia,1650,LIMA NORTE,11
+odontologia,1651,LIMA NORTE,10
+odontologia,1652,LIMA NORTE,14
+odontologia,1653,LIMA NORTE,10.8
+odontologia,1654,LIMA NORTE,NA
+odontologia,1655,LIMA NORTE,9.6
+odontologia,1656,LIMA NORTE,9.6
+odontologia,1657,LIMA NORTE,11
+odontologia,1658,LIMA NORTE,7.6
+odontologia,1659,LIMA NORTE,9
+odontologia,1660,LIMA NORTE,11.6
+odontologia,1661,LIMA NORTE,10.2
+odontologia,1662,LIMA NORTE,NA
+odontologia,1663,LIMA NORTE,9.4
+odontologia,1664,LIMA NORTE,11.4
+odontologia,1665,LIMA NORTE,10.4
+odontologia,1666,LIMA NORTE,NA
+odontologia,1667,LIMA NORTE,NA
+odontologia,1668,LIMA NORTE,9.4
+odontologia,1669,LIMA NORTE,9.8
+odontologia,1670,LIMA NORTE,9
+odontologia,1671,LIMA NORTE,11.4
+odontologia,1672,LIMA NORTE,12.6
+odontologia,1673,LIMA NORTE,9
+odontologia,1674,LIMA NORTE,12.4
+odontologia,1675,LIMA NORTE,10.4
+odontologia,1676,LIMA NORTE,8
+odontologia,1677,LIMA NORTE,10
+odontologia,1678,LIMA NORTE,11.8
+odontologia,1679,LIMA NORTE,11.2
+odontologia,1680,LIMA NORTE,8
+odontologia,1681,LIMA NORTE,9.6
+odontologia,1682,LIMA NORTE,11.6
+odontologia,1683,LIMA NORTE,7.6
+odontologia,1684,LIMA NORTE,NA
+odontologia,1685,LIMA NORTE,9
+odontologia,1686,LIMA NORTE,9.6
+odontologia,1687,LIMA NORTE,6.6
+odontologia,1688,LIMA NORTE,11.2
+odontologia,1689,LIMA NORTE,NA
+odontologia,1690,LIMA NORTE,NA
+odontologia,1691,LIMA NORTE,8.6
+odontologia,1692,LIMA NORTE,11.2
+odontologia,1693,LIMA NORTE,7.8
+odontologia,1694,LIMA NORTE,11.4
+odontologia,1695,LIMA NORTE,12.8
+odontologia,1696,LIMA NORTE,12.2
+odontologia,1697,LIMA NORTE,5.8
+odontologia,1698,LIMA NORTE,9.4
+odontologia,1699,LIMA NORTE,7
+odontologia,1700,LIMA NORTE,5
+odontologia,1701,LIMA NORTE,9.4
+odontologia,1702,LIMA NORTE,9
+odontologia,1703,LIMA NORTE,6.4
+odontologia,1704,LIMA NORTE,11.2
+odontologia,1705,LIMA NORTE,6.4
+odontologia,1706,LIMA NORTE,10.2
+odontologia,1707,LIMA NORTE,7.2
+odontologia,1708,LIMA NORTE,10.8
+odontologia,1709,LIMA NORTE,12.2
+odontologia,1710,LIMA NORTE,NA
+odontologia,1711,LIMA NORTE,10.2
+odontologia,1712,LIMA NORTE,10.8
+odontologia,1713,LIMA NORTE,NA
+odontologia,1714,LIMA NORTE,10.4
+odontologia,1715,LIMA NORTE,8.2
+odontologia,1716,LIMA NORTE,9.4
+odontologia,1717,LIMA NORTE,12
+odontologia,1718,LIMA NORTE,10
+odontologia,1719,LIMA NORTE,8.6
+odontologia,1720,LIMA NORTE,NA
+odontologia,1721,LIMA NORTE,NA
+odontologia,1722,LIMA NORTE,12.8
+odontologia,1723,LIMA NORTE,8.6
+odontologia,1724,LIMA NORTE,NA
+odontologia,1725,LIMA NORTE,9.8
+odontologia,1726,LIMA NORTE,12.6
+odontologia,1727,LIMA NORTE,12
+odontologia,1728,LIMA NORTE,9.8
+odontologia,1729,LIMA NORTE,11.4
+odontologia,1730,LIMA NORTE,8.4
+odontologia,1731,LIMA NORTE,10.6
+odontologia,1732,LIMA NORTE,NA
+odontologia,1733,LIMA NORTE,7.4
+odontologia,1734,LIMA NORTE,11.4
+odontologia,1735,LIMA NORTE,10.4
+odontologia,1736,LIMA NORTE,13.4
+odontologia,1737,LIMA NORTE,9.2
+odontologia,1738,LIMA NORTE,8.2
+odontologia,1739,LIMA NORTE,11.2
+odontologia,1740,LIMA NORTE,8.6
+odontologia,1741,LIMA NORTE,8
+odontologia,1742,LIMA NORTE,10.6
+odontologia,1743,LIMA NORTE,NA
+odontologia,1744,LIMA NORTE,9.8
+odontologia,1745,LIMA NORTE,9.2
+odontologia,1746,LIMA NORTE,13.6
+odontologia,1747,LIMA NORTE,NA
+odontologia,1748,LIMA NORTE,9.8
+odontologia,1749,LIMA NORTE,9
+odontologia,1750,LIMA NORTE,NA
+odontologia,1751,LIMA NORTE,11.4
+odontologia,1752,LIMA NORTE,8.4
+odontologia,1753,LIMA NORTE,8.8
+odontologia,1754,LIMA NORTE,10.4
+odontologia,1755,LIMA NORTE,NA
+odontologia,1756,LIMA NORTE,11.4
+odontologia,1757,LIMA NORTE,10.8
+odontologia,1758,LIMA NORTE,NA
+odontologia,1759,LIMA NORTE,NA
+odontologia,1760,LIMA NORTE,8.6
+odontologia,1761,LIMA NORTE,9
+odontologia,1762,LIMA NORTE,9.2
+odontologia,1763,LIMA NORTE,12.4
+odontologia,1764,LIMA NORTE,9.2
+odontologia,1765,LIMA NORTE,12.2
+odontologia,1766,LIMA NORTE,10
+odontologia,1767,LIMA NORTE,9.2
+odontologia,1768,LIMA NORTE,9.6
+odontologia,1769,LIMA NORTE,10.2
+odontologia,1770,LIMA NORTE,12.4
+odontologia,1771,LIMA NORTE,NA
+odontologia,1772,LIMA NORTE,8.2
+odontologia,1773,LIMA NORTE,NA
+odontologia,1774,LIMA NORTE,8.6
+odontologia,1775,LIMA NORTE,11.8
+odontologia,1776,LIMA NORTE,13.2
+odontologia,1777,LIMA NORTE,8.2
+odontologia,1778,LIMA NORTE,6.8
+odontologia,1779,LIMA NORTE,11.6
+odontologia,1780,LIMA NORTE,8.6
+odontologia,1781,LIMA NORTE,12.6
+odontologia,1782,LIMA NORTE,14.2
+odontologia,1783,LIMA NORTE,9.6
+odontologia,1784,LIMA NORTE,8.6
+odontologia,1785,LIMA NORTE,8.4
+odontologia,1786,LIMA NORTE,9.2
+odontologia,1787,LIMA NORTE,10.6
+odontologia,1788,LIMA NORTE,12.2
+odontologia,1789,LIMA NORTE,10.6
+odontologia,1790,LIMA NORTE,8.6
+odontologia,1791,LIMA NORTE,6.8
+odontologia,1792,LIMA NORTE,10.4
+odontologia,1793,LIMA NORTE,9.2
+odontologia,1794,LIMA NORTE,7.6
+odontologia,1795,LIMA NORTE,11
+odontologia,1796,LIMA NORTE,10
+odontologia,1797,LIMA NORTE,9.2
+odontologia,1798,LIMA NORTE,11.2
+odontologia,1799,LIMA NORTE,7.6
+odontologia,1800,LIMA NORTE,NA
+odontologia,1801,LIMA NORTE,11.2
+odontologia,1802,LIMA NORTE,7.4
+odontologia,1803,LIMA NORTE,9
+odontologia,1804,LIMA NORTE,8.2
+odontologia,1805,LIMA NORTE,8
+odontologia,1806,LIMA NORTE,11.6
+odontologia,1807,LIMA NORTE,12
+odontologia,1808,LIMA REGION,10.2
+odontologia,1809,LIMA REGION,14
+odontologia,1810,LIMA REGION,7.8
+odontologia,1811,LIMA REGION,10
+odontologia,1812,LIMA REGION,5.6
+odontologia,1813,LIMA REGION,NA
+odontologia,1814,LIMA REGION,NA
+odontologia,1815,LIMA REGION,11
+odontologia,1816,LIMA REGION,10.6
+odontologia,1817,LIMA REGION,10.8
+odontologia,1818,LIMA REGION,NA
+odontologia,1819,LIMA REGION,11.4
+odontologia,1820,LIMA REGION,8.8
+odontologia,1821,LIMA REGION,11.4
+odontologia,1822,LIMA REGION,11.2
+odontologia,1823,LIMA REGION,6.4
+odontologia,1824,LIMA REGION,10.6
+odontologia,1825,LIMA REGION,11.8
+odontologia,1826,LIMA REGION,12.4
+odontologia,1827,LIMA REGION,8.6
+odontologia,1828,LIMA REGION,NA
+odontologia,1829,LIMA REGION,10.8
+odontologia,1830,LIMA REGION,NA
+odontologia,1831,LIMA REGION,NA
+odontologia,1832,LIMA REGION,NA
+odontologia,1833,LIMA REGION,NA
+odontologia,1834,LIMA REGION,11.2
+odontologia,1835,LIMA REGION,10.4
+odontologia,1836,LIMA REGION,8.8
+odontologia,1837,LIMA REGION,12.4
+odontologia,1838,LIMA REGION,11.2
+odontologia,1839,LIMA REGION,NA
+odontologia,1840,LIMA REGION,NA
+odontologia,1841,LIMA REGION,10.8
+odontologia,1842,LIMA REGION,11
+odontologia,1843,LIMA REGION,10.4
+odontologia,1844,LIMA REGION,9.2
+odontologia,1845,LIMA REGION,9.4
+odontologia,1846,LIMA REGION,11
+odontologia,1847,LIMA REGION,10.4
+odontologia,1848,LIMA REGION,10
+odontologia,1849,LIMA REGION,8.6
+odontologia,1850,LIMA REGION,10.6
+odontologia,1851,LIMA REGION,NA
+odontologia,1852,LIMA REGION,10.6
+odontologia,1853,LIMA REGION,NA
+odontologia,1854,LIMA REGION,10.6
+odontologia,1855,LIMA REGION,9.8
+odontologia,1856,LIMA REGION,9.8
+odontologia,1857,LIMA REGION,10.4
+odontologia,1858,LIMA REGION,NA
+odontologia,1859,LIMA REGION,10
+odontologia,1860,LIMA REGION,NA
+odontologia,1861,LIMA REGION,NA
+odontologia,1862,LIMA REGION,10.4
+odontologia,1863,LIMA REGION,11.2
+odontologia,1864,LIMA REGION,NA
+odontologia,1865,LIMA REGION,10
+odontologia,1866,LIMA REGION,NA
+odontologia,1867,LIMA REGION,NA
+odontologia,1868,LIMA REGION,NA
+odontologia,1869,LIMA REGION,NA
+odontologia,1870,LIMA REGION,8.2
+odontologia,1871,LIMA REGION,12.4
+odontologia,1872,LIMA REGION,12.4
+odontologia,1873,LIMA REGION,NA
+odontologia,1874,LIMA REGION,9
+odontologia,1875,LIMA REGION,NA
+odontologia,1876,LIMA REGION,10.2
+odontologia,1877,LIMA REGION,11.8
+odontologia,1878,LIMA REGION,7.8
+odontologia,1879,LIMA REGION,10.8
+odontologia,1880,LIMA REGION,11.2
+odontologia,1881,LIMA REGION,NA
+odontologia,1882,LIMA REGION,8.8
+odontologia,1883,LIMA REGION,9.8
+odontologia,1884,LIMA REGION,NA
+odontologia,1885,LIMA REGION,8.4
+odontologia,1886,LIMA REGION,8.6
+odontologia,1887,LIMA REGION,10.2
+odontologia,1888,LIMA REGION,8
+odontologia,1889,LIMA REGION,6.8
+odontologia,1890,LIMA REGION,11.4
+odontologia,1891,LIMA REGION,8.8
+odontologia,1892,LIMA REGION,11.2
+odontologia,1893,LIMA REGION,NA
+odontologia,1894,LIMA REGION,9.6
+odontologia,1895,LIMA REGION,10.6
+odontologia,1896,LIMA REGION,NA
+odontologia,1897,LIMA REGION,NA
+odontologia,1898,LIMA REGION,NA
+odontologia,1899,LIMA REGION,NA
+odontologia,1900,LIMA REGION,8.2
+odontologia,1901,LIMA REGION,NA
+odontologia,1902,LIMA REGION,NA
+odontologia,1903,LIMA REGION,9.8
+odontologia,1904,LIMA REGION,8.6
+odontologia,1905,LIMA REGION,NA
+odontologia,1906,LIMA REGION,11.6
+odontologia,1907,LIMA REGION,9.6
+odontologia,1908,LIMA REGION,8.4
+odontologia,1909,LIMA REGION,NA
+odontologia,1910,LIMA REGION,11.6
+odontologia,1911,LIMA REGION,10.8
+odontologia,1912,LIMA REGION,NA
+odontologia,1913,LIMA REGION,NA
+odontologia,1914,LIMA REGION,9.6
+odontologia,1915,LIMA REGION,NA
+odontologia,1916,LIMA REGION,9.2
+odontologia,1917,LIMA REGION,11.8
+odontologia,1918,LIMA REGION,NA
+odontologia,1919,LIMA REGION,8.2
+odontologia,1920,LIMA REGION,NA
+odontologia,1921,LIMA REGION,10.2
+odontologia,1922,LIMA REGION,9.8
+odontologia,1923,LIMA REGION,7.6
+odontologia,1924,LIMA REGION,12
+odontologia,1925,LIMA REGION,8.2
+odontologia,1926,LIMA REGION,10.2
+odontologia,1927,LIMA REGION,15
+odontologia,1928,LIMA REGION,NA
+odontologia,1929,LIMA REGION,10.4
+odontologia,1930,LIMA REGION,12.4
+odontologia,1931,LIMA REGION,NA
+odontologia,1932,LIMA REGION,10.2
+odontologia,1933,LIMA REGION,10.2
+odontologia,1934,LIMA REGION,8.8
+odontologia,1935,LIMA REGION,NA
+odontologia,1936,LIMA REGION,NA
+odontologia,1937,LIMA REGION,NA
+odontologia,1938,LIMA REGION,9.8
+odontologia,1939,LIMA REGION,NA
+odontologia,1940,LIMA REGION,NA
+odontologia,1941,LIMA REGION,NA
+odontologia,1942,LIMA REGION,11.4
+odontologia,1943,LIMA REGION,7.2
+odontologia,1944,LIMA REGION,10.8
+odontologia,1945,LIMA REGION,10.6
+odontologia,1946,LIMA REGION,NA
+odontologia,1947,LIMA REGION,NA
+odontologia,1948,LIMA REGION,9.4
+odontologia,1949,LIMA REGION,6.8
+odontologia,1950,LIMA REGION,12.8
+odontologia,1951,LIMA REGION,NA
+odontologia,1952,LIMA REGION,10.2
+odontologia,1953,LIMA REGION,9
+odontologia,1954,LIMA REGION,10.4
+odontologia,1955,LIMA REGION,9.8
+odontologia,1956,LIMA REGION,10.4
+odontologia,1957,LIMA REGION,10.8
+odontologia,1958,LIMA REGION,9.2
+odontologia,1959,LIMA REGION,9.6
+odontologia,1960,LIMA REGION,8.4
+odontologia,1961,LIMA REGION,9.8
+odontologia,1962,LIMA REGION,10
+odontologia,1963,LIMA REGION,NA
+odontologia,1964,LIMA REGION,NA
+odontologia,1965,LIMA REGION,NA
+odontologia,1966,LIMA REGION,10
+odontologia,1967,LIMA REGION,5.8
+odontologia,1968,LIMA REGION,10.2
+odontologia,1969,LIMA REGION,9.4
+odontologia,1970,LIMA REGION,10.8
+odontologia,1971,LIMA REGION,NA
+odontologia,1972,LIMA REGION,11.8
+odontologia,1973,LIMA REGION,13
+odontologia,1974,LIMA REGION,NA
+odontologia,1975,LIMA REGION,7.8
+odontologia,1976,LIMA REGION,10.4
+odontologia,1977,LIMA REGION,14
+odontologia,1978,LIMA REGION,10.8
+odontologia,1979,LIMA REGION,NA
+odontologia,1980,LIMA REGION,7.4
+odontologia,1981,LIMA REGION,NA
+odontologia,1982,LIMA REGION,12
+odontologia,1983,LIMA REGION,9.4
+odontologia,1984,LIMA REGION,NA
+odontologia,1985,LIMA REGION,9.2
+odontologia,1986,LIMA REGION,12.4
+odontologia,1987,LIMA REGION,10
+odontologia,1988,LIMA REGION,9.6
+odontologia,1989,LIMA REGION,NA
+odontologia,1990,LIMA REGION,9.2
+odontologia,1991,LIMA REGION,11
+odontologia,1992,LIMA REGION,9.6
+odontologia,1993,LIMA REGION,10.2
+odontologia,1994,LIMA SUR,9.2
+odontologia,1995,LIMA SUR,11
+odontologia,1996,LIMA SUR,NA
+odontologia,1997,LIMA SUR,13.6
+odontologia,1998,LIMA SUR,6
+odontologia,1999,LIMA SUR,11.4
+odontologia,2000,LIMA SUR,12.4
+odontologia,2001,LIMA SUR,NA
+odontologia,2002,LIMA SUR,8.8
+odontologia,2003,LIMA SUR,9.6
+odontologia,2004,LIMA SUR,10.4
+odontologia,2005,LIMA SUR,NA
+odontologia,2006,LIMA SUR,13.6
+odontologia,2007,LIMA SUR,NA
+odontologia,2008,LIMA SUR,9.6
+odontologia,2009,LIMA SUR,NA
+odontologia,2010,LIMA SUR,11.2
+odontologia,2011,LIMA SUR,12.2
+odontologia,2012,LIMA SUR,9.8
+odontologia,2013,LIMA SUR,11.8
+odontologia,2014,LIMA SUR,NA
+odontologia,2015,LIMA SUR,NA
+odontologia,2016,LIMA SUR,NA
+odontologia,2017,LIMA SUR,11.4
+odontologia,2018,LIMA SUR,8.8
+odontologia,2019,LIMA SUR,10.6
+odontologia,2020,LIMA SUR,10.6
+odontologia,2021,LIMA SUR,9.4
+odontologia,2022,LIMA SUR,10.6
+odontologia,2023,LIMA SUR,9.2
+odontologia,2024,LIMA SUR,6.8
+odontologia,2025,LIMA SUR,8.6
+odontologia,2026,LIMA SUR,8
+odontologia,2027,LIMA SUR,7.8
+odontologia,2028,LIMA SUR,NA
+odontologia,2029,LIMA SUR,11.8
+odontologia,2030,LIMA SUR,11
+odontologia,2031,LIMA SUR,11
+odontologia,2032,LIMA SUR,9.4
+odontologia,2033,LIMA SUR,7.6
+odontologia,2034,LIMA SUR,11
+odontologia,2035,LIMA SUR,9.8
+odontologia,2036,LIMA SUR,8.6
+odontologia,2037,LIMA SUR,NA
+odontologia,2038,LIMA SUR,10.2
+odontologia,2039,LIMA SUR,8.4
+odontologia,2040,LIMA SUR,NA
+odontologia,2041,LIMA SUR,8.2
+odontologia,2042,LIMA SUR,NA
+odontologia,2043,LIMA SUR,11.4
+odontologia,2044,LIMA SUR,10.4
+odontologia,2045,LIMA SUR,11.2
+odontologia,2046,LIMA SUR,11.4
+odontologia,2047,LIMA SUR,11.8
+odontologia,2048,LIMA SUR,11.2
+odontologia,2049,LIMA SUR,NA
+odontologia,2050,LIMA SUR,9
+odontologia,2051,LIMA SUR,11.8
+odontologia,2052,LIMA SUR,8.4
+odontologia,2053,LIMA SUR,NA
+odontologia,2054,LIMA SUR,NA
+odontologia,2055,LIMA SUR,10
+odontologia,2056,LIMA SUR,NA
+odontologia,2057,LIMA SUR,10.8
+odontologia,2058,LIMA SUR,NA
+odontologia,2059,LIMA SUR,9.6
+odontologia,2060,LIMA SUR,12.6
+odontologia,2061,LIMA SUR,11.4
+odontologia,2062,LIMA SUR,9.4
+odontologia,2063,LIMA SUR,10.8
+odontologia,2064,LIMA SUR,10.4
+odontologia,2065,LIMA SUR,NA
+odontologia,2066,LIMA SUR,6.8
+odontologia,2067,LIMA SUR,9.2
+odontologia,2068,LIMA SUR,9.6
+odontologia,2069,LIMA SUR,11.6
+odontologia,2070,LIMA SUR,10
+odontologia,2071,LIMA SUR,11.6
+odontologia,2072,LIMA SUR,11.6
+odontologia,2073,LIMA SUR,8.4
+odontologia,2074,LIMA SUR,10.8
+odontologia,2075,LIMA SUR,10.6
+odontologia,2076,LIMA SUR,9.4
+odontologia,2077,LIMA SUR,10.2
+odontologia,2078,LIMA SUR,10.8
+odontologia,2079,LIMA SUR,NA
+odontologia,2080,LIMA SUR,12
+odontologia,2081,LIMA SUR,10
+odontologia,2082,LIMA SUR,8.2
+odontologia,2083,LIMA SUR,9
+odontologia,2084,LIMA SUR,8.2
+odontologia,2085,LIMA SUR,10.4
+odontologia,2086,LIMA SUR,12.2
+odontologia,2087,LIMA SUR,11
+odontologia,2088,LIMA SUR,9.4
+odontologia,2089,LIMA SUR,9.6
+odontologia,2090,LIMA SUR,10.6
+odontologia,2091,LIMA SUR,12
+odontologia,2092,LIMA SUR,11
+odontologia,2093,LIMA SUR,12.4
+odontologia,2094,LIMA SUR,7.6
+odontologia,2095,LIMA SUR,NA
+odontologia,2096,LIMA SUR,9.4
+odontologia,2097,LIMA SUR,6.6
+odontologia,2098,LIMA SUR,11.2
+odontologia,2099,LIMA SUR,12
+odontologia,2100,LIMA SUR,9.2
+odontologia,2101,LIMA SUR,NA
+odontologia,NA,NA,NA
+odontologia,2102,NA,NA
+odontologia,NA,LIMA SUR,7.6
+odontologia,2103,LIMA SUR,6.4
+odontologia,2104,LIMA SUR,7.4
+odontologia,2105,LIMA SUR,9.4
+odontologia,2106,LIMA SUR,12
+odontologia,2107,LIMA SUR,8.6
+odontologia,2108,LIMA SUR,12.2
+odontologia,2109,LIMA SUR,10.4
+odontologia,2110,LIMA SUR,6
+odontologia,2111,LIMA SUR,9.2
+odontologia,2112,LIMA SUR,11.2
+odontologia,2113,LIMA SUR,11.2
+odontologia,2114,LIMA SUR,11.2
+odontologia,2115,LIMA SUR,12.6
+odontologia,2116,LIMA SUR,11.6
+odontologia,2117,LIMA SUR,NA
+odontologia,2118,LIMA SUR,11.4
+odontologia,2119,LIMA SUR,8.6
+odontologia,2120,LIMA SUR,9.4
+odontologia,2121,LIMA SUR,12.2
+odontologia,2122,LIMA SUR,7
+odontologia,2123,LIMA SUR,9.6
+odontologia,2124,LIMA SUR,6
+odontologia,2125,LIMA SUR,11.4
+odontologia,2126,LIMA SUR,7.8
+odontologia,2127,LIMA SUR,11.4
+odontologia,2128,LIMA SUR,9.8
+odontologia,2129,LIMA SUR,10
+odontologia,2130,LIMA SUR,9.4
+odontologia,2131,LIMA SUR,11.4
+odontologia,2132,LIMA SUR,12.6
+odontologia,2133,LIMA SUR,NA
+odontologia,2134,LIMA SUR,9.8
+odontologia,2135,LIMA SUR,9.8
+odontologia,2136,LIMA SUR,9.8
+odontologia,2137,LIMA SUR,10.2
+odontologia,2138,LIMA SUR,12
+odontologia,2139,LIMA SUR,10.2
+odontologia,2140,LIMA SUR,NA
+odontologia,2141,LIMA SUR,11
+odontologia,2142,LIMA SUR,11
+odontologia,2143,LIMA SUR,8.8
+odontologia,2144,LIMA SUR,8.4
+odontologia,2145,LIMA SUR,11
+odontologia,2146,LIMA SUR,8
+odontologia,2147,LIMA SUR,10.6
+odontologia,2148,LIMA SUR,10.2
+odontologia,2149,LIMA SUR,7.2
+odontologia,2150,LIMA SUR,7
+odontologia,2151,LIMA SUR,8.8
+odontologia,2152,LIMA SUR,9.4
+odontologia,2153,LIMA SUR,9.6
+odontologia,2154,LIMA SUR,NA
+odontologia,2155,LIMA SUR,12
+odontologia,2156,LIMA SUR,12.4
+odontologia,2157,LIMA SUR,11
+odontologia,2158,LIMA SUR,9.4
+odontologia,2159,LIMA SUR,13
+odontologia,2160,LIMA SUR,NA
+odontologia,2161,LIMA SUR,11
+odontologia,2162,LIMA SUR,9.2
+odontologia,2163,LIMA SUR,8.8
+odontologia,2164,LIMA SUR,NA
+odontologia,2165,LIMA SUR,NA
+odontologia,2166,LIMA SUR,9.2
+odontologia,2167,LIMA SUR,10.8
+odontologia,2168,LIMA SUR,9.8
+odontologia,2169,LIMA SUR,7.6
+odontologia,2170,LIMA SUR,NA
+odontologia,2171,LIMA SUR,9
+odontologia,2172,LIMA SUR,11.8
+odontologia,2173,LIMA SUR,12.2
+odontologia,2174,LIMA SUR,NA
+odontologia,2175,LIMA SUR,11.2
+odontologia,2176,LIMA SUR,11.8
+odontologia,2177,LIMA SUR,8
+odontologia,2178,LIMA SUR,9.6
+odontologia,2179,LIMA SUR,10.6
+odontologia,2180,LIMA SUR,9.2
+odontologia,2181,LIMA SUR,12.8
+odontologia,2182,LIMA SUR,12.2
+odontologia,2183,LIMA SUR,10.6
+odontologia,2184,LIMA SUR,NA
+odontologia,2185,LIMA SUR,12
+odontologia,2186,LIMA SUR,11.4
+odontologia,2187,LIMA SUR,9
+odontologia,2188,LIMA SUR,10.2
+odontologia,2189,LIMA SUR,9.2
+odontologia,2190,LIMA SUR,11.6
+odontologia,2191,LIMA SUR,9.8
+odontologia,2192,LIMA SUR,9.8
+odontologia,2193,LIMA SUR,10.2
+odontologia,2194,LIMA SUR,13
+odontologia,2195,LIMA SUR,9.8
+odontologia,2196,LIMA SUR,NA
+odontologia,2197,LIMA SUR,12
+odontologia,2198,LIMA SUR,NA
+odontologia,2199,LIMA SUR,10.4
+odontologia,2200,LIMA SUR,9.6
+odontologia,2201,LIMA SUR,10.2
+odontologia,2202,LIMA SUR,9.4
+odontologia,2203,LIMA SUR,12.8
+odontologia,2204,LIMA SUR,NA
+odontologia,2205,LIMA SUR,9.2
+odontologia,2206,LIMA SUR,10
+odontologia,2207,LIMA SUR,9.8
+odontologia,2208,LIMA SUR,9.8
+odontologia,2209,LIMA SUR,NA
+odontologia,2210,LIMA SUR,NA
+odontologia,2211,LIMA SUR,11
+odontologia,2212,LIMA SUR,8.4
+odontologia,2213,LIMA SUR,11
+odontologia,2214,LIMA SUR,8.2
+odontologia,2215,LIMA SUR,NA
+odontologia,2216,LIMA SUR,9.8
+odontologia,2217,LIMA SUR,9
+odontologia,2218,LIMA SUR,12.6
+odontologia,2219,LIMA SUR,12.2
+odontologia,2220,LIMA SUR,10.6
+odontologia,2221,LIMA SUR,12.2
+odontologia,2222,LIMA SUR,9.2
+odontologia,2223,LIMA SUR,7
+odontologia,2224,LIMA SUR,10.6
+odontologia,2225,LIMA SUR,12
+odontologia,2226,LIMA SUR,9.2
+odontologia,2227,LIMA SUR,NA
+odontologia,2228,LIMA SUR,NA
+odontologia,2229,LIMA SUR,10.6
+odontologia,2230,LIMA SUR,7.8
+odontologia,2231,LIMA SUR,NA
+odontologia,2232,LIMA SUR,9.8
+odontologia,2233,LIMA SUR,6
+odontologia,2234,LIMA SUR,9.6
+odontologia,2235,LIMA SUR,8.6
+odontologia,2236,LIMA SUR,10
+odontologia,2237,LORETO,10
+odontologia,2238,LORETO,12.4
+odontologia,2239,LORETO,9.6
+odontologia,2240,LORETO,11
+odontologia,2241,LORETO,7.2
+odontologia,2242,LORETO,13
+odontologia,2243,LORETO,10
+odontologia,2244,LORETO,9.4
+odontologia,2245,LORETO,13.4
+odontologia,2246,LORETO,6.8
+odontologia,2247,LORETO,9
+odontologia,2248,LORETO,10.8
+odontologia,2249,LORETO,7
+odontologia,2250,LORETO,9.8
+odontologia,2251,LORETO,12.2
+odontologia,2252,LORETO,9.8
+odontologia,2253,LORETO,11.2
+odontologia,2254,LORETO,11.6
+odontologia,2255,LORETO,8
+odontologia,2256,LORETO,10.4
+odontologia,2257,LORETO,9
+odontologia,2258,LORETO,9.8
+odontologia,2259,LORETO,10.8
+odontologia,2260,LORETO,9.8
+odontologia,2261,LORETO,10
+odontologia,2262,LORETO,NA
+odontologia,2263,LORETO,11.8
+odontologia,2264,LORETO,10
+odontologia,2265,LORETO,10.2
+odontologia,2266,LORETO,10.4
+odontologia,2267,LORETO,8.8
+odontologia,2268,LORETO,10
+odontologia,2269,LORETO,7.4
+odontologia,2270,LORETO,9.6
+odontologia,2271,LORETO,10.2
+odontologia,2272,LORETO,8.6
+odontologia,2273,LORETO,13.8
+odontologia,2274,LORETO,9.4
+odontologia,2275,LORETO,10.4
+odontologia,2276,LORETO,8.4
+odontologia,2277,LORETO,8.8
+odontologia,2278,LORETO,9.8
+odontologia,2279,MADRE DE DIOS,9.8
+odontologia,2280,MADRE DE DIOS,9.8
+odontologia,2281,MADRE DE DIOS,NA
+odontologia,2282,MADRE DE DIOS,10.2
+odontologia,2283,MADRE DE DIOS,8.8
+odontologia,2284,MADRE DE DIOS,NA
+odontologia,2285,MADRE DE DIOS,10
+odontologia,2286,MADRE DE DIOS,10.4
+odontologia,2287,MOQUEGUA,NA
+odontologia,2288,MOQUEGUA,10.2
+odontologia,2289,MOQUEGUA,2.6
+odontologia,2290,MOQUEGUA,13.2
+odontologia,2291,MOQUEGUA,13.6
+odontologia,2292,MOQUEGUA,12.4
+odontologia,2293,MOQUEGUA,9.6
+odontologia,2294,MOQUEGUA,9.6
+odontologia,2295,MOQUEGUA,NA
+odontologia,2296,MOQUEGUA,11.8
+odontologia,2297,MOQUEGUA,NA
+odontologia,2298,MOQUEGUA,11.4
+odontologia,2299,MOQUEGUA,9
+odontologia,2300,MOQUEGUA,10.6
+odontologia,2301,MOQUEGUA,NA
+odontologia,2302,MOQUEGUA,9.8
+odontologia,2303,MOQUEGUA,13.4
+odontologia,2304,MOQUEGUA,11.6
+odontologia,2305,MOQUEGUA,12.6
+odontologia,2306,MOQUEGUA,10
+odontologia,2307,MOQUEGUA,10.2
+odontologia,2308,MOQUEGUA,NA
+odontologia,2309,MOQUEGUA,14.4
+odontologia,2310,MOQUEGUA,11.6
+odontologia,2311,MOQUEGUA,8.6
+odontologia,2312,MOQUEGUA,11.4
+odontologia,2313,MOQUEGUA,9.6
+odontologia,2314,MOQUEGUA,5.2
+odontologia,2315,MOQUEGUA,9.8
+odontologia,2316,MOQUEGUA,9.2
+odontologia,2317,MOQUEGUA,9.6
+odontologia,2318,MOQUEGUA,10.2
+odontologia,2319,PASCO,8.4
+odontologia,2320,PASCO,8.2
+odontologia,2321,PASCO,10.2
+odontologia,2322,PASCO,10
+odontologia,2323,PASCO,8.4
+odontologia,2324,PASCO,13.2
+odontologia,2325,PASCO,11
+odontologia,2326,PASCO,NA
+odontologia,2327,PASCO,5.6
+odontologia,2328,PASCO,10.4
+odontologia,2329,PASCO,6.4
+odontologia,2330,PASCO,10.4
+odontologia,2331,PASCO,10.8
+odontologia,2332,PASCO,11
+odontologia,2333,PASCO,10.2
+odontologia,2334,PASCO,9.2
+odontologia,2335,PASCO,8.6
+odontologia,2336,PASCO,10
+odontologia,2337,PASCO,8
+odontologia,2338,PASCO,10
+odontologia,2339,PASCO,8
+odontologia,2340,PASCO,9
+odontologia,2341,PASCO,9.4
+odontologia,2342,PASCO,8.6
+odontologia,2343,PASCO,11
+odontologia,2344,PASCO,11.4
+odontologia,2345,PASCO,9
+odontologia,2346,PASCO,8.2
+odontologia,2347,PASCO,11.4
+odontologia,2348,PASCO,10.4
+odontologia,2349,PASCO,10.6
+odontologia,2350,PASCO,11.6
+odontologia,2351,PASCO,8.8
+odontologia,2352,PIURA,11.4
+odontologia,2353,PIURA,9.4
+odontologia,2354,PIURA,7.6
+odontologia,2355,PIURA,12.4
+odontologia,2356,PIURA,6.2
+odontologia,2357,PIURA,10.8
+odontologia,2358,PIURA,11.2
+odontologia,2359,PIURA,8.8
+odontologia,2360,PIURA,10.2
+odontologia,2361,PIURA,9.6
+odontologia,2362,PIURA,NA
+odontologia,2363,PIURA,11.8
+odontologia,2364,PIURA,NA
+odontologia,2365,PIURA,9.6
+odontologia,2366,PIURA,10.2
+odontologia,2367,PIURA,9.4
+odontologia,2368,PIURA,NA
+odontologia,2369,PIURA,10.4
+odontologia,2370,PIURA,9.6
+odontologia,2371,PIURA,10.8
+odontologia,2372,PIURA,9.6
+odontologia,2373,PIURA,7.8
+odontologia,2374,PIURA,10.8
+odontologia,2375,PIURA,11.4
+odontologia,2376,PIURA,10.8
+odontologia,2377,PIURA,8.8
+odontologia,2378,PIURA,8.6
+odontologia,2379,PIURA,9.8
+odontologia,2380,PIURA,11.4
+odontologia,2381,PIURA,9.2
+odontologia,2382,PIURA,8
+odontologia,2383,PIURA,9.6
+odontologia,2384,PIURA,12.2
+odontologia,2385,PIURA,10.6
+odontologia,2386,PIURA,10.2
+odontologia,2387,PIURA,8.8
+odontologia,2388,PIURA,9.6
+odontologia,2389,PIURA,9.2
+odontologia,2390,PIURA,10.2
+odontologia,2391,PIURA,11.8
+odontologia,2392,PIURA,10.2
+odontologia,2393,PIURA,8.6
+odontologia,2394,PIURA,9.8
+odontologia,2395,PIURA,10.2
+odontologia,2396,PIURA,8
+odontologia,2397,PIURA,7
+odontologia,2398,PIURA,8.2
+odontologia,2399,PIURA,8.2
+odontologia,2400,PIURA,11.2
+odontologia,2401,PIURA,9.8
+odontologia,2402,PIURA,10.2
+odontologia,2403,PIURA,8.4
+odontologia,2404,PIURA,10.2
+odontologia,2405,PIURA,9.2
+odontologia,2406,PIURA,9.2
+odontologia,2407,PIURA,NA
+odontologia,2408,PIURA,7.6
+odontologia,2409,PIURA,11.6
+odontologia,2410,PIURA,10
+odontologia,2411,PIURA,10
+odontologia,2412,PIURA,8.6
+odontologia,2413,PIURA,11
+odontologia,2414,PIURA,8.4
+odontologia,2415,PIURA,7
+odontologia,2416,PIURA,10.8
+odontologia,2417,PIURA,9
+odontologia,2418,PIURA,9.2
+odontologia,2419,PIURA,11
+odontologia,2420,PIURA,11.8
+odontologia,2421,PIURA,9
+odontologia,2422,PIURA,8.6
+odontologia,2423,PIURA,7.4
+odontologia,2424,PIURA,10.2
+odontologia,2425,PIURA,13.4
+odontologia,2426,PIURA,12.2
+odontologia,2427,PIURA,12.2
+odontologia,2428,PIURA,9.2
+odontologia,2429,PIURA,NA
+odontologia,2430,PIURA,8.2
+odontologia,2431,PIURA,11
+odontologia,2432,PIURA,8.6
+odontologia,2433,PIURA,7.8
+odontologia,2434,PIURA,8.8
+odontologia,2435,PIURA,10.4
+odontologia,2436,PIURA,8.4
+odontologia,2437,PIURA,9.4
+odontologia,2438,PIURA,8.4
+odontologia,2439,PIURA,11.2
+odontologia,2440,PIURA,9.2
+odontologia,2441,PIURA,NA
+odontologia,2442,PIURA,11.6
+odontologia,2443,PIURA,9.8
+odontologia,2444,PIURA,9.2
+odontologia,2445,PIURA,10.6
+odontologia,2446,PIURA,8.6
+odontologia,2447,PIURA,7.2
+odontologia,2448,PIURA,10.2
+odontologia,2449,PIURA,9
+odontologia,2450,PIURA,7.4
+odontologia,2451,PIURA,10.2
+odontologia,2452,PIURA,12.6
+odontologia,2453,PIURA,11.6
+odontologia,2454,PIURA,9.4
+odontologia,2455,PIURA,6.2
+odontologia,2456,PIURA,10.2
+odontologia,2457,PIURA,11.6
+odontologia,2458,PIURA,10.4
+odontologia,2459,PIURA,10.6
+odontologia,2460,PIURA,7.2
+odontologia,2461,PIURA,8.8
+odontologia,2462,PIURA,11.2
+odontologia,2463,PIURA,10.6
+odontologia,2464,PIURA,10.2
+odontologia,2465,PIURA,7.8
+odontologia,2466,PIURA,10.4
+odontologia,2467,PIURA,8
+odontologia,2468,PIURA,7
+odontologia,2469,PIURA,7.2
+odontologia,2470,PIURA,11.2
+odontologia,2471,PIURA,8.4
+odontologia,2472,PIURA,8
+odontologia,2473,PIURA,11
+odontologia,2474,PIURA,4.4
+odontologia,2475,PIURA,8.6
+odontologia,2476,PIURA,9.8
+odontologia,2477,PIURA,7.8
+odontologia,2478,PIURA,7.8
+odontologia,2479,PIURA,10.2
+odontologia,2480,PIURA,11
+odontologia,2481,PIURA,8.2
+odontologia,2482,PIURA,10.6
+odontologia,2483,PIURA,10.4
+odontologia,2484,PIURA,8.4
+odontologia,2485,PIURA,11
+odontologia,2486,PIURA,11
+odontologia,2487,PIURA,8.4
+odontologia,2488,PIURA,11
+odontologia,2489,PIURA,11.6
+odontologia,2490,PIURA,14.2
+odontologia,2491,PIURA,8.4
+odontologia,2492,PIURA,7.8
+odontologia,2493,PIURA,11.6
+odontologia,2494,PIURA,8.2
+odontologia,2495,PIURA,NA
+odontologia,2496,PIURA,10.2
+odontologia,2497,PIURA,9
+odontologia,2498,PIURA,11.2
+odontologia,2499,PIURA,10.6
+odontologia,2500,PIURA,7.6
+odontologia,2501,PIURA,8.6
+odontologia,2502,PIURA,10.2
+odontologia,2503,PIURA,10.4
+odontologia,2504,PIURA,8.2
+odontologia,2505,PIURA,NA
+odontologia,2506,PUNO,9
+odontologia,2507,PUNO,NA
+odontologia,2508,PUNO,6.2
+odontologia,2509,PUNO,8.8
+odontologia,2510,PUNO,11
+odontologia,2511,PUNO,11.8
+odontologia,2512,PUNO,9
+odontologia,2513,PUNO,8.6
+odontologia,2514,PUNO,13
+odontologia,2515,PUNO,10.6
+odontologia,2516,PUNO,11.8
+odontologia,2517,PUNO,6.6
+odontologia,2518,PUNO,8
+odontologia,2519,PUNO,8.8
+odontologia,2520,PUNO,10
+odontologia,2521,PUNO,10.6
+odontologia,2522,PUNO,9.4
+odontologia,2523,PUNO,8.2
+odontologia,2524,PUNO,8.8
+odontologia,2525,PUNO,9.8
+odontologia,2526,PUNO,11
+odontologia,2527,PUNO,7.8
+odontologia,2528,PUNO,9.4
+odontologia,2529,PUNO,10
+odontologia,2530,PUNO,7
+odontologia,2531,PUNO,9.6
+odontologia,2532,PUNO,9.6
+odontologia,2533,PUNO,10.2
+odontologia,2534,PUNO,11
+odontologia,2535,PUNO,11
+odontologia,2536,PUNO,11
+odontologia,2537,PUNO,NA
+odontologia,2538,PUNO,10.2
+odontologia,2539,PUNO,11.4
+odontologia,2540,PUNO,10
+odontologia,2541,PUNO,NA
+odontologia,2542,PUNO,NA
+odontologia,2543,PUNO,8.6
+odontologia,2544,PUNO,9.6
+odontologia,2545,PUNO,10.4
+odontologia,2546,PUNO,8.6
+odontologia,2547,PUNO,7.8
+odontologia,2548,PUNO,NA
+odontologia,2549,PUNO,9.8
+odontologia,2550,PUNO,NA
+odontologia,2551,PUNO,6.8
+odontologia,2552,PUNO,11.6
+odontologia,2553,PUNO,9.2
+odontologia,2554,PUNO,8.2
+odontologia,2555,PUNO,8.4
+odontologia,2556,PUNO,9.6
+odontologia,2557,PUNO,10.8
+odontologia,2558,PUNO,10.4
+odontologia,2559,PUNO,9.6
+odontologia,2560,PUNO,7
+odontologia,2561,PUNO,NA
+odontologia,2562,PUNO,9.2
+odontologia,2563,PUNO,9
+odontologia,2564,PUNO,7.6
+odontologia,2565,PUNO,10.8
+odontologia,2566,PUNO,8
+odontologia,2567,PUNO,8.6
+odontologia,2568,PUNO,10.6
+odontologia,2569,PUNO,10.4
+odontologia,2570,PUNO,8.6
+odontologia,2571,PUNO,7.4
+odontologia,2572,PUNO,6
+odontologia,2573,PUNO,9.6
+odontologia,2574,PUNO,7.4
+odontologia,2575,PUNO,7.4
+odontologia,2576,PUNO,12.2
+odontologia,2577,PUNO,9
+odontologia,2578,PUNO,8.4
+odontologia,2579,PUNO,7.8
+odontologia,2580,PUNO,10.6
+odontologia,2581,PUNO,8.4
+odontologia,2582,PUNO,10.6
+odontologia,2583,PUNO,8
+odontologia,2584,PUNO,9.2
+odontologia,2585,PUNO,7.8
+odontologia,2586,PUNO,11.8
+odontologia,2587,PUNO,9.4
+odontologia,2588,PUNO,8.8
+odontologia,2589,PUNO,NA
+odontologia,2590,PUNO,8.6
+odontologia,2591,PUNO,8.8
+odontologia,2592,PUNO,9.6
+odontologia,2593,PUNO,NA
+odontologia,2594,PUNO,11.6
+odontologia,2595,PUNO,6.4
+odontologia,2596,PUNO,8.2
+odontologia,2597,PUNO,7.2
+odontologia,2598,PUNO,NA
+odontologia,2599,PUNO,7.8
+odontologia,2600,PUNO,NA
+odontologia,2601,PUNO,NA
+odontologia,2602,PUNO,9.6
+odontologia,2603,PUNO,8.8
+odontologia,2604,PUNO,13.4
+odontologia,2605,PUNO,10.4
+odontologia,2606,PUNO,12.6
+odontologia,2607,PUNO,NA
+odontologia,2608,PUNO,9
+odontologia,2609,PUNO,10.2
+odontologia,2610,PUNO,9.6
+odontologia,2611,PUNO,5.8
+odontologia,2612,PUNO,8.4
+odontologia,2613,PUNO,10
+odontologia,2614,PUNO,NA
+odontologia,2615,PUNO,11.2
+odontologia,2616,PUNO,9
+odontologia,2617,PUNO,11
+odontologia,2618,PUNO,8.8
+odontologia,2619,PUNO,10.2
+odontologia,2620,PUNO,NA
+odontologia,2621,PUNO,NA
+odontologia,2622,PUNO,8.6
+odontologia,2623,PUNO,11.4
+odontologia,2624,PUNO,10
+odontologia,2625,PUNO,10.6
+odontologia,2626,PUNO,7.4
+odontologia,2627,PUNO,8.6
+odontologia,2628,PUNO,9.2
+odontologia,2629,PUNO,10
+odontologia,2630,PUNO,NA
+odontologia,2631,PUNO,10.6
+odontologia,2632,PUNO,6.8
+odontologia,2633,PUNO,NA
+odontologia,2634,PUNO,11
+odontologia,2635,PUNO,9.4
+odontologia,2636,PUNO,10.8
+odontologia,2637,PUNO,7.4
+odontologia,2638,PUNO,8.8
+odontologia,2639,PUNO,10
+odontologia,2640,PUNO,8.2
+odontologia,2641,PUNO,9.6
+odontologia,2642,PUNO,9.8
+odontologia,2643,PUNO,7
+odontologia,2644,PUNO,12.6
+odontologia,2645,PUNO,11
+odontologia,2646,PUNO,7.2
+odontologia,2647,PUNO,8.2
+odontologia,2648,PUNO,11.2
+odontologia,2649,PUNO,8.4
+odontologia,2650,PUNO,7.4
+odontologia,2651,PUNO,8.4
+odontologia,2652,PUNO,11
+odontologia,2653,PUNO,8.8
+odontologia,2654,PUNO,8.4
+odontologia,2655,PUNO,11.6
+odontologia,2656,PUNO,9.8
+odontologia,2657,PUNO,8
+odontologia,2658,PUNO,7.2
+odontologia,2659,PUNO,10.4
+odontologia,2660,PUNO,8
+odontologia,2661,PUNO,9.2
+odontologia,2662,PUNO,10.8
+odontologia,2663,PUNO,9.4
+odontologia,2664,PUNO,10.4
+odontologia,2665,PUNO,8.4
+odontologia,2666,PUNO,NA
+odontologia,2667,PUNO,NA
+odontologia,2668,PUNO,8.6
+odontologia,2669,PUNO,8.4
+odontologia,2670,PUNO,NA
+odontologia,2671,PUNO,10.2
+odontologia,2672,PUNO,8.2
+odontologia,2673,PUNO,NA
+odontologia,2674,PUNO,8.8
+odontologia,2675,PUNO,NA
+odontologia,2676,PUNO,10.2
+odontologia,2677,PUNO,8
+odontologia,2678,PUNO,NA
+odontologia,2679,PUNO,11.2
+odontologia,2680,PUNO,9
+odontologia,2681,PUNO,11.2
+odontologia,2682,PUNO,6.4
+odontologia,2683,PUNO,8.6
+odontologia,2684,PUNO,12
+odontologia,2685,PUNO,10.2
+odontologia,2686,PUNO,NA
+odontologia,2687,PUNO,8
+odontologia,2688,PUNO,6
+odontologia,2689,PUNO,10
+odontologia,2690,PUNO,11.4
+odontologia,2691,PUNO,8.8
+odontologia,2692,PUNO,9.4
+odontologia,2693,PUNO,8.2
+odontologia,2694,PUNO,9.4
+odontologia,2695,PUNO,8
+odontologia,2696,PUNO,12.2
+odontologia,2697,PUNO,8
+odontologia,2698,PUNO,8.2
+odontologia,2699,PUNO,8.4
+odontologia,2700,PUNO,11
+odontologia,2701,PUNO,NA
+odontologia,2702,PUNO,NA
+odontologia,2703,PUNO,7
+odontologia,2704,PUNO,8.8
+odontologia,2705,PUNO,9.2
+odontologia,2706,PUNO,9.6
+odontologia,2707,PUNO,9.6
+odontologia,2708,PUNO,NA
+odontologia,2709,PUNO,9.6
+odontologia,2710,PUNO,8.4
+odontologia,2711,PUNO,9.4
+odontologia,2712,PUNO,9
+odontologia,2713,PUNO,6
+odontologia,2714,PUNO,NA
+odontologia,2715,PUNO,10.2
+odontologia,2716,PUNO,11.6
+odontologia,2717,PUNO,11.6
+odontologia,2718,PUNO,10.8
+odontologia,2719,PUNO,10.2
+odontologia,2720,PUNO,7.6
+odontologia,2721,PUNO,4.4
+odontologia,2722,PUNO,NA
+odontologia,2723,PUNO,10.2
+odontologia,2724,PUNO,9
+odontologia,2725,PUNO,6.2
+odontologia,2726,PUNO,11
+odontologia,2727,PUNO,11
+odontologia,2728,PUNO,6.4
+odontologia,2729,PUNO,12.8
+odontologia,2730,PUNO,12.4
+odontologia,2731,PUNO,8.4
+odontologia,2732,PUNO,NA
+odontologia,2733,PUNO,10.2
+odontologia,2734,PUNO,10.8
+odontologia,2735,PUNO,9.6
+odontologia,2736,PUNO,11
+odontologia,2737,PUNO,8.2
+odontologia,2738,PUNO,8.6
+odontologia,2739,PUNO,10.6
+odontologia,2740,PUNO,10
+odontologia,2741,PUNO,8.4
+odontologia,2742,PUNO,11.2
+odontologia,2743,PUNO,10.2
+odontologia,2744,PUNO,10.2
+odontologia,2745,PUNO,8.4
+odontologia,2746,PUNO,8.8
+odontologia,2747,PUNO,11
+odontologia,2748,PUNO,10
+odontologia,2749,PUNO,8.4
+odontologia,2750,PUNO,8.8
+odontologia,2751,PUNO,6.4
+odontologia,2752,PUNO,9.8
+odontologia,2753,PUNO,11.4
+odontologia,2754,PUNO,8.6
+odontologia,2755,PUNO,10
+odontologia,2756,PUNO,10.2
+odontologia,2757,PUNO,8.6
+odontologia,2758,PUNO,8
+odontologia,2759,PUNO,NA
+odontologia,2760,PUNO,13.6
+odontologia,2761,PUNO,NA
+odontologia,2762,PUNO,9.8
+odontologia,2763,PUNO,11.6
+odontologia,2764,PUNO,7.4
+odontologia,2765,PUNO,7.6
+odontologia,2766,PUNO,6.2
+odontologia,2767,PUNO,10.2
+odontologia,2768,PUNO,11.2
+odontologia,2769,PUNO,11.8
+odontologia,2770,PUNO,6.4
+odontologia,2771,PUNO,7.6
+odontologia,2772,PUNO,10
+odontologia,2773,PUNO,10
+odontologia,2774,PUNO,9.2
+odontologia,2775,PUNO,8.8
+odontologia,2776,PUNO,NA
+odontologia,2777,PUNO,NA
+odontologia,2778,PUNO,9
+odontologia,2779,PUNO,8.8
+odontologia,2780,PUNO,9.4
+odontologia,2781,PUNO,9.8
+odontologia,2782,PUNO,10.6
+odontologia,2783,PUNO,9.2
+odontologia,2784,PUNO,11.6
+odontologia,2785,PUNO,5.4
+odontologia,2786,PUNO,8.8
+odontologia,2787,PUNO,8
+odontologia,2788,PUNO,11.2
+odontologia,2789,PUNO,10
+odontologia,2790,SAN MARTIN,11.8
+odontologia,2791,SAN MARTIN,8.8
+odontologia,2792,SAN MARTIN,8.6
+odontologia,2793,SAN MARTIN,9.2
+odontologia,2794,SAN MARTIN,10.2
+odontologia,2795,SAN MARTIN,10.6
+odontologia,2796,SAN MARTIN,NA
+odontologia,2797,SAN MARTIN,NA
+odontologia,2798,SAN MARTIN,NA
+odontologia,2799,SAN MARTIN,12.8
+odontologia,2800,SAN MARTIN,9.6
+odontologia,2801,SAN MARTIN,10
+odontologia,2802,SAN MARTIN,11
+odontologia,2803,SAN MARTIN,9.4
+odontologia,2804,SAN MARTIN,11
+odontologia,2805,SAN MARTIN,9.6
+odontologia,2806,SAN MARTIN,9.8
+odontologia,2807,SAN MARTIN,11.2
+odontologia,2808,SAN MARTIN,7.6
+odontologia,2809,SAN MARTIN,11.4
+odontologia,2810,SAN MARTIN,9.2
+odontologia,2811,SAN MARTIN,9.8
+odontologia,2812,SAN MARTIN,9.8
+odontologia,2813,SAN MARTIN,10.4
+odontologia,2814,SAN MARTIN,10.4
+odontologia,2815,SAN MARTIN,11.4
+odontologia,2816,SAN MARTIN,9.6
+odontologia,2817,SAN MARTIN,8.2
+odontologia,2818,SAN MARTIN,7.8
+odontologia,2819,SAN MARTIN,11.2
+odontologia,2820,SAN MARTIN,10
+odontologia,2821,SAN MARTIN,9.4
+odontologia,2822,SAN MARTIN,12.2
+odontologia,2823,SAN MARTIN,7.2
+odontologia,2824,SAN MARTIN,11.4
+odontologia,2825,SAN MARTIN,7.2
+odontologia,2826,SAN MARTIN,13.6
+odontologia,2827,SAN MARTIN,10.6
+odontologia,2828,SAN MARTIN,10.8
+odontologia,2829,SAN MARTIN,9.2
+odontologia,2830,SAN MARTIN,9.8
+odontologia,2831,SAN MARTIN,10.8
+odontologia,2832,SAN MARTIN,9.8
+odontologia,2833,SAN MARTIN,8.6
+odontologia,2834,SAN MARTIN,4.8
+odontologia,2835,SAN MARTIN,11
+odontologia,2836,SAN MARTIN,8
+odontologia,2837,SAN MARTIN,10.2
+odontologia,2838,SAN MARTIN,10
+odontologia,2839,SAN MARTIN,6.2
+odontologia,2840,SAN MARTIN,11.6
+odontologia,2841,SAN MARTIN,8.8
+odontologia,2842,SAN MARTIN,11.6
+odontologia,2843,SAN MARTIN,8.6
+odontologia,2844,SAN MARTIN,11.2
+odontologia,2845,SAN MARTIN,4.2
+odontologia,2846,TACNA,NA
+odontologia,2847,TACNA,NA
+odontologia,2848,TACNA,8.2
+odontologia,2849,TACNA,6.6
+odontologia,2850,TACNA,9.4
+odontologia,2851,TACNA,13
+odontologia,2852,TACNA,11
+odontologia,2853,TACNA,10.6
+odontologia,2854,TACNA,8.2
+odontologia,2855,TACNA,11.2
+odontologia,2856,TACNA,9.8
+odontologia,2857,TACNA,10
+odontologia,2858,TACNA,10.6
+odontologia,2859,TACNA,8.4
+odontologia,2860,TACNA,8.4
+odontologia,2861,TACNA,10.4
+odontologia,2862,TACNA,7
+odontologia,2863,TACNA,NA
+odontologia,2864,TACNA,9.4
+odontologia,2865,TACNA,10.4
+odontologia,2866,TACNA,6.8
+odontologia,2867,TACNA,10.4
+odontologia,2868,TACNA,9.2
+odontologia,2869,TACNA,8.8
+odontologia,2870,TACNA,10.2
+odontologia,2871,TACNA,12.2
+odontologia,2872,TACNA,11.8
+odontologia,2873,TACNA,9.2
+odontologia,2874,TACNA,9.8
+odontologia,2875,TACNA,NA
+odontologia,2876,TACNA,NA
+odontologia,2877,TACNA,13.4
+odontologia,2878,TACNA,9.6
+odontologia,2879,TACNA,11.2
+odontologia,2880,TACNA,9.4
+odontologia,2881,TACNA,9.4
+odontologia,2882,TACNA,10.8
+odontologia,2883,TACNA,11.2
+odontologia,2884,TACNA,9.4
+odontologia,2885,TACNA,7.2
+odontologia,2886,TACNA,11.4
+odontologia,2887,TACNA,10.4
+odontologia,2888,TACNA,11.6
+odontologia,2889,TACNA,9.8
+odontologia,2890,TACNA,8.6
+odontologia,2891,TACNA,11.4
+odontologia,2892,TACNA,10
+odontologia,2893,TACNA,11.4
+odontologia,2894,TACNA,NA
+odontologia,2895,TACNA,10
+odontologia,2896,TACNA,12.6
+odontologia,2897,TACNA,8.8
+odontologia,2898,TACNA,10
+odontologia,2899,TACNA,6.2
+odontologia,2900,TACNA,12
+odontologia,2901,TACNA,7.4
+odontologia,2902,TACNA,9
+odontologia,2903,TACNA,10.2
+odontologia,2904,TACNA,7.6
+odontologia,2905,TACNA,10.8
+odontologia,2906,TACNA,NA
+odontologia,2907,TACNA,10.8
+odontologia,2908,TACNA,11.2
+odontologia,2909,TACNA,10
+odontologia,2910,TACNA,9.4
+odontologia,2911,TACNA,5.6
+odontologia,2912,TACNA,9.4
+odontologia,2913,TACNA,10.4
+odontologia,2914,TACNA,9
+odontologia,2915,TACNA,11.4
+odontologia,2916,TACNA,10.8
+odontologia,2917,TACNA,10.2
+odontologia,2918,TACNA,9.2
+odontologia,2919,TACNA,7
+odontologia,2920,TACNA,7.2
+odontologia,2921,TACNA,8.6
+odontologia,2922,TACNA,11
+odontologia,2923,TACNA,9
+odontologia,2924,TACNA,11.8
+odontologia,2925,TACNA,7.6
+odontologia,2926,TUMBES,8.8
+odontologia,2927,TUMBES,10
+odontologia,2928,TUMBES,9.6
+odontologia,2929,TUMBES,10.6
+odontologia,2930,TUMBES,8.8
+odontologia,2931,TUMBES,11.2
+odontologia,2932,TUMBES,10.2
+odontologia,2933,TUMBES,NA
+odontologia,2934,TUMBES,7.4
+odontologia,2935,TUMBES,10.8
+odontologia,2936,TUMBES,12.6
+odontologia,2937,TUMBES,7
+odontologia,2938,UCAYALI,13
+odontologia,2939,UCAYALI,13
+odontologia,2940,UCAYALI,10
+odontologia,2941,UCAYALI,11.2
+odontologia,2942,UCAYALI,NA
+odontologia,2943,UCAYALI,9.8
+odontologia,2944,UCAYALI,10.2
+odontologia,2945,UCAYALI,10.4
+odontologia,2946,UCAYALI,11.2
+odontologia,2947,UCAYALI,9.8
+odontologia,2948,UCAYALI,10.2
+odontologia,2949,UCAYALI,5.8
+odontologia,2950,UCAYALI,7.8
+odontologia,2951,UCAYALI,8.4
+odontologia,2952,UCAYALI,8.2
+odontologia,2953,UCAYALI,11
+odontologia,2954,UCAYALI,10.4
+odontologia,2955,UCAYALI,8.6
+odontologia,2956,UCAYALI,7.4
+odontologia,2957,UCAYALI,4.4
+odontologia,2958,UCAYALI,8.6
+odontologia,2959,UCAYALI,8

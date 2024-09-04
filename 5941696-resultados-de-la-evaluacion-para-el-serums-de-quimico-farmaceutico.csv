@@ -1,0 +1,2821 @@
+carrera,n,region_de_evaluacion,nota
+quimico-farmaceutico,1,AMAZONAS,10
+quimico-farmaceutico,2,AMAZONAS,8
+quimico-farmaceutico,3,AMAZONAS,NA
+quimico-farmaceutico,4,AMAZONAS,9
+quimico-farmaceutico,5,AMAZONAS,12
+quimico-farmaceutico,6,AMAZONAS,9.8
+quimico-farmaceutico,7,AMAZONAS,10.6
+quimico-farmaceutico,8,AMAZONAS,9.6
+quimico-farmaceutico,9,ANCASH,8.8
+quimico-farmaceutico,10,ANCASH,10
+quimico-farmaceutico,11,ANCASH,9.6
+quimico-farmaceutico,12,ANCASH,9
+quimico-farmaceutico,13,ANCASH,10
+quimico-farmaceutico,14,ANCASH,10.4
+quimico-farmaceutico,15,ANCASH,9.6
+quimico-farmaceutico,16,ANCASH,10
+quimico-farmaceutico,17,ANCASH,11.8
+quimico-farmaceutico,18,ANCASH,12.6
+quimico-farmaceutico,19,ANCASH,11.4
+quimico-farmaceutico,20,ANCASH,7.6
+quimico-farmaceutico,21,ANCASH,NA
+quimico-farmaceutico,22,ANCASH,NA
+quimico-farmaceutico,23,ANCASH,NA
+quimico-farmaceutico,24,ANCASH,10.4
+quimico-farmaceutico,25,ANCASH,4.8
+quimico-farmaceutico,26,ANCASH,10.4
+quimico-farmaceutico,27,ANCASH,NA
+quimico-farmaceutico,28,ANCASH,NA
+quimico-farmaceutico,29,ANCASH,5
+quimico-farmaceutico,30,ANCASH,NA
+quimico-farmaceutico,31,ANCASH,9.8
+quimico-farmaceutico,32,ANCASH,6.8
+quimico-farmaceutico,33,ANCASH,10
+quimico-farmaceutico,34,ANCASH,11.6
+quimico-farmaceutico,35,ANCASH,10
+quimico-farmaceutico,36,ANCASH,9.4
+quimico-farmaceutico,37,ANCASH,9.8
+quimico-farmaceutico,38,ANCASH,NA
+quimico-farmaceutico,39,ANCASH,11.2
+quimico-farmaceutico,40,ANCASH,8.4
+quimico-farmaceutico,41,ANCASH,NA
+quimico-farmaceutico,42,ANCASH,NA
+quimico-farmaceutico,43,ANCASH,8
+quimico-farmaceutico,44,ANCASH,NA
+quimico-farmaceutico,45,ANCASH,11.8
+quimico-farmaceutico,46,ANCASH,6.8
+quimico-farmaceutico,47,ANCASH,9.4
+quimico-farmaceutico,48,ANCASH,8.6
+quimico-farmaceutico,49,ANCASH,10.8
+quimico-farmaceutico,50,ANCASH,NA
+quimico-farmaceutico,51,ANCASH,8.2
+quimico-farmaceutico,52,ANCASH,9.2
+quimico-farmaceutico,53,ANCASH,8.4
+quimico-farmaceutico,54,ANCASH,8.4
+quimico-farmaceutico,55,ANCASH,8.8
+quimico-farmaceutico,56,ANCASH,8.6
+quimico-farmaceutico,57,ANCASH,7
+quimico-farmaceutico,58,ANCASH,8.8
+quimico-farmaceutico,59,ANCASH,12.2
+quimico-farmaceutico,60,ANCASH,8.2
+quimico-farmaceutico,61,ANCASH,6.8
+quimico-farmaceutico,62,ANCASH,NA
+quimico-farmaceutico,63,ANCASH,9.4
+quimico-farmaceutico,64,ANCASH,10.4
+quimico-farmaceutico,65,ANCASH,8.4
+quimico-farmaceutico,66,ANCASH,9.6
+quimico-farmaceutico,67,ANCASH,8.8
+quimico-farmaceutico,68,ANCASH,10.8
+quimico-farmaceutico,69,ANCASH,9.6
+quimico-farmaceutico,70,ANCASH,10.6
+quimico-farmaceutico,71,ANCASH,9.2
+quimico-farmaceutico,72,ANCASH,8.6
+quimico-farmaceutico,73,ANCASH,5
+quimico-farmaceutico,74,ANCASH,9.6
+quimico-farmaceutico,75,ANCASH,4.8
+quimico-farmaceutico,76,ANCASH,NA
+quimico-farmaceutico,77,ANCASH,9.4
+quimico-farmaceutico,78,ANCASH,8
+quimico-farmaceutico,79,ANCASH,8
+quimico-farmaceutico,80,ANCASH,11.2
+quimico-farmaceutico,81,ANCASH,10.6
+quimico-farmaceutico,82,ANCASH,5.4
+quimico-farmaceutico,83,ANCASH,NA
+quimico-farmaceutico,84,ANCASH,10.8
+quimico-farmaceutico,85,ANCASH,8.2
+quimico-farmaceutico,86,ANCASH,10.8
+quimico-farmaceutico,87,ANCASH,NA
+quimico-farmaceutico,88,ANCASH,11.6
+quimico-farmaceutico,89,ANCASH,NA
+quimico-farmaceutico,90,ANCASH,12.2
+quimico-farmaceutico,91,ANCASH,NA
+quimico-farmaceutico,92,ANCASH,11
+quimico-farmaceutico,93,ANCASH,10
+quimico-farmaceutico,94,ANCASH,9
+quimico-farmaceutico,95,ANCASH,9
+quimico-farmaceutico,96,ANCASH,9.2
+quimico-farmaceutico,97,ANCASH,9
+quimico-farmaceutico,98,ANCASH,9.4
+quimico-farmaceutico,99,ANCASH,10
+quimico-farmaceutico,100,ANCASH,10
+quimico-farmaceutico,101,ANCASH,NA
+quimico-farmaceutico,102,ANCASH,NA
+quimico-farmaceutico,103,ANCASH,10.8
+quimico-farmaceutico,104,ANCASH,NA
+quimico-farmaceutico,105,ANCASH,7.6
+quimico-farmaceutico,106,APURIMAC,11.2
+quimico-farmaceutico,107,APURIMAC,9.8
+quimico-farmaceutico,108,APURIMAC,9.6
+quimico-farmaceutico,109,APURIMAC,7.8
+quimico-farmaceutico,110,APURIMAC,NA
+quimico-farmaceutico,111,APURIMAC,11.2
+quimico-farmaceutico,112,APURIMAC,12
+quimico-farmaceutico,113,APURIMAC,9.4
+quimico-farmaceutico,114,APURIMAC,9.4
+quimico-farmaceutico,115,APURIMAC,NA
+quimico-farmaceutico,116,APURIMAC,10.4
+quimico-farmaceutico,117,APURIMAC,8.4
+quimico-farmaceutico,118,APURIMAC,8
+quimico-farmaceutico,119,APURIMAC,9.4
+quimico-farmaceutico,120,APURIMAC,NA
+quimico-farmaceutico,121,APURIMAC,10.4
+quimico-farmaceutico,122,APURIMAC,9
+quimico-farmaceutico,123,AREQUIPA,9.4
+quimico-farmaceutico,124,AREQUIPA,10
+quimico-farmaceutico,125,AREQUIPA,12.4
+quimico-farmaceutico,126,AREQUIPA,9.2
+quimico-farmaceutico,127,AREQUIPA,9.6
+quimico-farmaceutico,128,AREQUIPA,NA
+quimico-farmaceutico,129,AREQUIPA,11.4
+quimico-farmaceutico,130,AREQUIPA,6.8
+quimico-farmaceutico,131,AREQUIPA,NA
+quimico-farmaceutico,132,AREQUIPA,11.4
+quimico-farmaceutico,133,AREQUIPA,8.8
+quimico-farmaceutico,134,AREQUIPA,NA
+quimico-farmaceutico,135,AREQUIPA,7.8
+quimico-farmaceutico,136,AREQUIPA,NA
+quimico-farmaceutico,137,AREQUIPA,10
+quimico-farmaceutico,138,AREQUIPA,NA
+quimico-farmaceutico,139,AREQUIPA,11.4
+quimico-farmaceutico,140,AREQUIPA,8
+quimico-farmaceutico,141,AREQUIPA,9.4
+quimico-farmaceutico,142,AREQUIPA,9.6
+quimico-farmaceutico,143,AREQUIPA,NA
+quimico-farmaceutico,144,AREQUIPA,9.8
+quimico-farmaceutico,145,AREQUIPA,8.6
+quimico-farmaceutico,146,AREQUIPA,10
+quimico-farmaceutico,147,AREQUIPA,9.2
+quimico-farmaceutico,148,AREQUIPA,9.2
+quimico-farmaceutico,149,AREQUIPA,8.8
+quimico-farmaceutico,150,AREQUIPA,10
+quimico-farmaceutico,151,AREQUIPA,10.2
+quimico-farmaceutico,152,AREQUIPA,10.8
+quimico-farmaceutico,153,AREQUIPA,10.4
+quimico-farmaceutico,154,AREQUIPA,13
+quimico-farmaceutico,155,AREQUIPA,11.4
+quimico-farmaceutico,156,AREQUIPA,NA
+quimico-farmaceutico,157,AREQUIPA,9.2
+quimico-farmaceutico,158,AREQUIPA,10.2
+quimico-farmaceutico,159,AREQUIPA,NA
+quimico-farmaceutico,160,AREQUIPA,9.8
+quimico-farmaceutico,161,AREQUIPA,10.2
+quimico-farmaceutico,162,AREQUIPA,8.4
+quimico-farmaceutico,163,AREQUIPA,NA
+quimico-farmaceutico,164,AREQUIPA,8
+quimico-farmaceutico,165,AREQUIPA,10.2
+quimico-farmaceutico,166,AREQUIPA,10
+quimico-farmaceutico,167,AREQUIPA,NA
+quimico-farmaceutico,168,AREQUIPA,10
+quimico-farmaceutico,169,AREQUIPA,10
+quimico-farmaceutico,170,AREQUIPA,9.2
+quimico-farmaceutico,171,AREQUIPA,8.8
+quimico-farmaceutico,172,AREQUIPA,8.4
+quimico-farmaceutico,173,AREQUIPA,9.2
+quimico-farmaceutico,174,AREQUIPA,10.6
+quimico-farmaceutico,175,AREQUIPA,9
+quimico-farmaceutico,176,AREQUIPA,9.2
+quimico-farmaceutico,177,AREQUIPA,11.4
+quimico-farmaceutico,178,AREQUIPA,7.2
+quimico-farmaceutico,179,AREQUIPA,7.2
+quimico-farmaceutico,180,AREQUIPA,8.6
+quimico-farmaceutico,181,AREQUIPA,9.4
+quimico-farmaceutico,182,AREQUIPA,12.4
+quimico-farmaceutico,183,AREQUIPA,7.2
+quimico-farmaceutico,184,AREQUIPA,NA
+quimico-farmaceutico,185,AREQUIPA,9
+quimico-farmaceutico,186,AREQUIPA,11.2
+quimico-farmaceutico,187,AREQUIPA,10.6
+quimico-farmaceutico,188,AREQUIPA,8.2
+quimico-farmaceutico,189,AREQUIPA,9.2
+quimico-farmaceutico,190,AREQUIPA,8.6
+quimico-farmaceutico,191,AREQUIPA,9.2
+quimico-farmaceutico,192,AREQUIPA,11
+quimico-farmaceutico,193,AREQUIPA,9.8
+quimico-farmaceutico,194,AREQUIPA,9.8
+quimico-farmaceutico,195,AREQUIPA,NA
+quimico-farmaceutico,196,AREQUIPA,9.8
+quimico-farmaceutico,197,AREQUIPA,6
+quimico-farmaceutico,198,AREQUIPA,9.2
+quimico-farmaceutico,199,AREQUIPA,8.2
+quimico-farmaceutico,200,AREQUIPA,8
+quimico-farmaceutico,201,AREQUIPA,10.2
+quimico-farmaceutico,202,AREQUIPA,NA
+quimico-farmaceutico,203,AREQUIPA,8
+quimico-farmaceutico,204,AREQUIPA,8.8
+quimico-farmaceutico,205,AREQUIPA,8.2
+quimico-farmaceutico,206,AREQUIPA,8.4
+quimico-farmaceutico,207,AREQUIPA,NA
+quimico-farmaceutico,208,AREQUIPA,8.6
+quimico-farmaceutico,209,AREQUIPA,12.4
+quimico-farmaceutico,210,AREQUIPA,7.2
+quimico-farmaceutico,211,AREQUIPA,10.4
+quimico-farmaceutico,212,AREQUIPA,9.2
+quimico-farmaceutico,213,AREQUIPA,12.2
+quimico-farmaceutico,214,AREQUIPA,8.4
+quimico-farmaceutico,215,AREQUIPA,9
+quimico-farmaceutico,216,AREQUIPA,9.4
+quimico-farmaceutico,217,AREQUIPA,8
+quimico-farmaceutico,218,AREQUIPA,9.2
+quimico-farmaceutico,219,AREQUIPA,5.8
+quimico-farmaceutico,220,AREQUIPA,10.6
+quimico-farmaceutico,221,AREQUIPA,11
+quimico-farmaceutico,222,AREQUIPA,9
+quimico-farmaceutico,223,AREQUIPA,8.6
+quimico-farmaceutico,224,AREQUIPA,10.2
+quimico-farmaceutico,225,AREQUIPA,NA
+quimico-farmaceutico,226,AREQUIPA,9.8
+quimico-farmaceutico,227,AREQUIPA,9
+quimico-farmaceutico,228,AREQUIPA,NA
+quimico-farmaceutico,229,AREQUIPA,7.2
+quimico-farmaceutico,230,AREQUIPA,9.2
+quimico-farmaceutico,231,AREQUIPA,9.8
+quimico-farmaceutico,232,AREQUIPA,8
+quimico-farmaceutico,233,AREQUIPA,7.6
+quimico-farmaceutico,234,AREQUIPA,NA
+quimico-farmaceutico,235,AREQUIPA,11.2
+quimico-farmaceutico,236,AREQUIPA,9.6
+quimico-farmaceutico,237,AREQUIPA,7.8
+quimico-farmaceutico,238,AREQUIPA,11.2
+quimico-farmaceutico,239,AREQUIPA,8.4
+quimico-farmaceutico,240,AREQUIPA,8.4
+quimico-farmaceutico,241,AREQUIPA,7.8
+quimico-farmaceutico,242,AREQUIPA,7.6
+quimico-farmaceutico,243,AREQUIPA,8.8
+quimico-farmaceutico,244,AREQUIPA,8.8
+quimico-farmaceutico,245,AREQUIPA,7.6
+quimico-farmaceutico,246,AREQUIPA,12.4
+quimico-farmaceutico,247,AREQUIPA,8
+quimico-farmaceutico,248,AREQUIPA,10.2
+quimico-farmaceutico,249,AREQUIPA,10.6
+quimico-farmaceutico,250,AREQUIPA,9.4
+quimico-farmaceutico,251,AREQUIPA,9.6
+quimico-farmaceutico,252,AREQUIPA,9.2
+quimico-farmaceutico,253,AREQUIPA,10.4
+quimico-farmaceutico,254,AREQUIPA,7.4
+quimico-farmaceutico,255,AREQUIPA,10.6
+quimico-farmaceutico,256,AREQUIPA,8.8
+quimico-farmaceutico,257,AREQUIPA,NA
+quimico-farmaceutico,258,AREQUIPA,11
+quimico-farmaceutico,259,AREQUIPA,9
+quimico-farmaceutico,260,AREQUIPA,9.4
+quimico-farmaceutico,261,AREQUIPA,10.6
+quimico-farmaceutico,262,AREQUIPA,9
+quimico-farmaceutico,263,AREQUIPA,8.8
+quimico-farmaceutico,264,AREQUIPA,12.8
+quimico-farmaceutico,265,AREQUIPA,10.2
+quimico-farmaceutico,266,AREQUIPA,10.2
+quimico-farmaceutico,267,AREQUIPA,10.8
+quimico-farmaceutico,268,AREQUIPA,11.4
+quimico-farmaceutico,269,AREQUIPA,10
+quimico-farmaceutico,270,AREQUIPA,13.6
+quimico-farmaceutico,271,AREQUIPA,9.4
+quimico-farmaceutico,272,AREQUIPA,10.8
+quimico-farmaceutico,273,AREQUIPA,7.6
+quimico-farmaceutico,274,AREQUIPA,9.8
+quimico-farmaceutico,275,AREQUIPA,11.6
+quimico-farmaceutico,276,AREQUIPA,10.6
+quimico-farmaceutico,277,AREQUIPA,8.4
+quimico-farmaceutico,278,AREQUIPA,9.6
+quimico-farmaceutico,279,AREQUIPA,11
+quimico-farmaceutico,280,AREQUIPA,6.8
+quimico-farmaceutico,281,AREQUIPA,7.4
+quimico-farmaceutico,282,AREQUIPA,8.8
+quimico-farmaceutico,283,AREQUIPA,8.8
+quimico-farmaceutico,284,AREQUIPA,12.2
+quimico-farmaceutico,285,AREQUIPA,10.2
+quimico-farmaceutico,286,AREQUIPA,8.6
+quimico-farmaceutico,287,AREQUIPA,9.6
+quimico-farmaceutico,288,AREQUIPA,9.8
+quimico-farmaceutico,289,AREQUIPA,8.4
+quimico-farmaceutico,290,AREQUIPA,9.8
+quimico-farmaceutico,291,AREQUIPA,NA
+quimico-farmaceutico,292,AREQUIPA,NA
+quimico-farmaceutico,293,AREQUIPA,10.2
+quimico-farmaceutico,294,AREQUIPA,10.8
+quimico-farmaceutico,295,AREQUIPA,9.2
+quimico-farmaceutico,296,AREQUIPA,8.2
+quimico-farmaceutico,297,AYACUCHO,10.6
+quimico-farmaceutico,298,AYACUCHO,9.2
+quimico-farmaceutico,299,AYACUCHO,10.4
+quimico-farmaceutico,300,AYACUCHO,10.2
+quimico-farmaceutico,301,AYACUCHO,11.8
+quimico-farmaceutico,302,AYACUCHO,10
+quimico-farmaceutico,303,AYACUCHO,14.8
+quimico-farmaceutico,304,AYACUCHO,10
+quimico-farmaceutico,305,AYACUCHO,NA
+quimico-farmaceutico,306,AYACUCHO,8.6
+quimico-farmaceutico,307,AYACUCHO,10.8
+quimico-farmaceutico,308,AYACUCHO,9.2
+quimico-farmaceutico,309,AYACUCHO,NA
+quimico-farmaceutico,310,AYACUCHO,9.8
+quimico-farmaceutico,311,AYACUCHO,NA
+quimico-farmaceutico,312,AYACUCHO,11.2
+quimico-farmaceutico,313,AYACUCHO,10.2
+quimico-farmaceutico,314,AYACUCHO,10.8
+quimico-farmaceutico,315,AYACUCHO,13.2
+quimico-farmaceutico,316,AYACUCHO,6.4
+quimico-farmaceutico,317,AYACUCHO,13.2
+quimico-farmaceutico,318,AYACUCHO,11.6
+quimico-farmaceutico,319,AYACUCHO,11.6
+quimico-farmaceutico,320,AYACUCHO,11.4
+quimico-farmaceutico,321,AYACUCHO,10
+quimico-farmaceutico,322,AYACUCHO,8.8
+quimico-farmaceutico,323,AYACUCHO,9.6
+quimico-farmaceutico,324,AYACUCHO,9.8
+quimico-farmaceutico,325,AYACUCHO,9.4
+quimico-farmaceutico,326,AYACUCHO,9.2
+quimico-farmaceutico,327,AYACUCHO,NA
+quimico-farmaceutico,328,AYACUCHO,9.8
+quimico-farmaceutico,329,AYACUCHO,10
+quimico-farmaceutico,330,AYACUCHO,9.8
+quimico-farmaceutico,331,AYACUCHO,10.4
+quimico-farmaceutico,332,AYACUCHO,9.6
+quimico-farmaceutico,333,AYACUCHO,9
+quimico-farmaceutico,334,AYACUCHO,8.6
+quimico-farmaceutico,335,AYACUCHO,10.6
+quimico-farmaceutico,336,AYACUCHO,8.6
+quimico-farmaceutico,337,AYACUCHO,7.2
+quimico-farmaceutico,338,AYACUCHO,11.2
+quimico-farmaceutico,339,AYACUCHO,10.2
+quimico-farmaceutico,340,AYACUCHO,11.2
+quimico-farmaceutico,341,AYACUCHO,12.6
+quimico-farmaceutico,342,AYACUCHO,9.4
+quimico-farmaceutico,343,AYACUCHO,10.8
+quimico-farmaceutico,344,AYACUCHO,11.2
+quimico-farmaceutico,345,AYACUCHO,7
+quimico-farmaceutico,346,AYACUCHO,6.6
+quimico-farmaceutico,347,AYACUCHO,9.6
+quimico-farmaceutico,348,AYACUCHO,11.6
+quimico-farmaceutico,349,CAJAMARCA,8.4
+quimico-farmaceutico,350,CAJAMARCA,NA
+quimico-farmaceutico,351,CAJAMARCA,6
+quimico-farmaceutico,352,CAJAMARCA,10.2
+quimico-farmaceutico,353,CAJAMARCA,8.4
+quimico-farmaceutico,354,CAJAMARCA,8.6
+quimico-farmaceutico,355,CAJAMARCA,9.8
+quimico-farmaceutico,356,CAJAMARCA,10.8
+quimico-farmaceutico,357,CAJAMARCA,6.4
+quimico-farmaceutico,358,CAJAMARCA,9.4
+quimico-farmaceutico,359,CAJAMARCA,9.4
+quimico-farmaceutico,360,CAJAMARCA,8
+quimico-farmaceutico,361,CAJAMARCA,6.8
+quimico-farmaceutico,362,CAJAMARCA,12.6
+quimico-farmaceutico,363,CAJAMARCA,10.8
+quimico-farmaceutico,364,CAJAMARCA,7
+quimico-farmaceutico,365,CAJAMARCA,7.4
+quimico-farmaceutico,366,CAJAMARCA,10.2
+quimico-farmaceutico,367,CAJAMARCA,12.2
+quimico-farmaceutico,368,CAJAMARCA,9
+quimico-farmaceutico,369,CAJAMARCA,9.4
+quimico-farmaceutico,370,CAJAMARCA,9
+quimico-farmaceutico,371,CAJAMARCA,8.4
+quimico-farmaceutico,372,CAJAMARCA,11
+quimico-farmaceutico,373,CAJAMARCA,10.8
+quimico-farmaceutico,374,CAJAMARCA,8
+quimico-farmaceutico,375,CAJAMARCA,6.8
+quimico-farmaceutico,376,CAJAMARCA,9
+quimico-farmaceutico,377,CAJAMARCA,10
+quimico-farmaceutico,378,CAJAMARCA,9.4
+quimico-farmaceutico,379,CAJAMARCA,8.4
+quimico-farmaceutico,380,CAJAMARCA,6
+quimico-farmaceutico,381,CAJAMARCA,9.4
+quimico-farmaceutico,382,CAJAMARCA,11.2
+quimico-farmaceutico,383,CAJAMARCA,NA
+quimico-farmaceutico,384,CAJAMARCA,10.2
+quimico-farmaceutico,385,CAJAMARCA,10.8
+quimico-farmaceutico,386,CAJAMARCA,10.6
+quimico-farmaceutico,387,CAJAMARCA,9.8
+quimico-farmaceutico,388,CAJAMARCA,7.2
+quimico-farmaceutico,389,CAJAMARCA,11.6
+quimico-farmaceutico,390,CAJAMARCA,7.8
+quimico-farmaceutico,391,CAJAMARCA,7.8
+quimico-farmaceutico,392,CAJAMARCA,NA
+quimico-farmaceutico,393,CAJAMARCA,NA
+quimico-farmaceutico,394,CAJAMARCA,6.4
+quimico-farmaceutico,395,CAJAMARCA,8.8
+quimico-farmaceutico,396,CAJAMARCA,8.6
+quimico-farmaceutico,397,CAJAMARCA,NA
+quimico-farmaceutico,398,CAJAMARCA,11
+quimico-farmaceutico,399,CAJAMARCA,9.2
+quimico-farmaceutico,400,CAJAMARCA,11.2
+quimico-farmaceutico,401,CAJAMARCA,6.4
+quimico-farmaceutico,402,CAJAMARCA,8.6
+quimico-farmaceutico,403,CAJAMARCA,6
+quimico-farmaceutico,404,CAJAMARCA,8.2
+quimico-farmaceutico,405,CAJAMARCA,9
+quimico-farmaceutico,406,CAJAMARCA,8.4
+quimico-farmaceutico,407,CAJAMARCA,NA
+quimico-farmaceutico,408,CAJAMARCA,10.8
+quimico-farmaceutico,409,CAJAMARCA,7.6
+quimico-farmaceutico,410,CAJAMARCA,10
+quimico-farmaceutico,411,CAJAMARCA,8.4
+quimico-farmaceutico,412,CAJAMARCA,NA
+quimico-farmaceutico,413,CAJAMARCA,NA
+quimico-farmaceutico,414,CAJAMARCA,10.4
+quimico-farmaceutico,415,CAJAMARCA,9.8
+quimico-farmaceutico,416,CAJAMARCA,NA
+quimico-farmaceutico,417,CAJAMARCA,9.2
+quimico-farmaceutico,418,CAJAMARCA,9
+quimico-farmaceutico,419,CAJAMARCA,10.2
+quimico-farmaceutico,420,CAJAMARCA,10.4
+quimico-farmaceutico,421,CAJAMARCA,11.4
+quimico-farmaceutico,422,CAJAMARCA,8.2
+quimico-farmaceutico,423,CAJAMARCA,8.4
+quimico-farmaceutico,424,CAJAMARCA,6.2
+quimico-farmaceutico,425,CAJAMARCA,10.4
+quimico-farmaceutico,426,CAJAMARCA,9
+quimico-farmaceutico,427,CAJAMARCA,8.4
+quimico-farmaceutico,428,CAJAMARCA,13.8
+quimico-farmaceutico,429,CAJAMARCA,10.6
+quimico-farmaceutico,430,CAJAMARCA,12.2
+quimico-farmaceutico,431,CAJAMARCA,9.4
+quimico-farmaceutico,432,CAJAMARCA,10.6
+quimico-farmaceutico,433,CAJAMARCA,9.6
+quimico-farmaceutico,434,CAJAMARCA,6.4
+quimico-farmaceutico,435,CAJAMARCA,7.2
+quimico-farmaceutico,436,CAJAMARCA,9.6
+quimico-farmaceutico,437,CAJAMARCA,9.2
+quimico-farmaceutico,438,CAJAMARCA,9.2
+quimico-farmaceutico,439,CAJAMARCA,10.4
+quimico-farmaceutico,440,CAJAMARCA,10
+quimico-farmaceutico,441,CAJAMARCA,NA
+quimico-farmaceutico,442,CAJAMARCA,8.8
+quimico-farmaceutico,443,CAJAMARCA,8.4
+quimico-farmaceutico,444,CAJAMARCA,7.2
+quimico-farmaceutico,445,CAJAMARCA,9
+quimico-farmaceutico,446,CAJAMARCA,9.2
+quimico-farmaceutico,447,CAJAMARCA,7.2
+quimico-farmaceutico,448,CAJAMARCA,NA
+quimico-farmaceutico,449,CAJAMARCA,9.2
+quimico-farmaceutico,450,CAJAMARCA,9.2
+quimico-farmaceutico,451,CAJAMARCA,7.4
+quimico-farmaceutico,452,CAJAMARCA,9
+quimico-farmaceutico,453,CAJAMARCA,9.4
+quimico-farmaceutico,454,CAJAMARCA,10.4
+quimico-farmaceutico,455,CAJAMARCA,8.4
+quimico-farmaceutico,456,CAJAMARCA,8.2
+quimico-farmaceutico,457,CAJAMARCA,9.8
+quimico-farmaceutico,458,CAJAMARCA,7
+quimico-farmaceutico,459,CAJAMARCA,7.4
+quimico-farmaceutico,460,CAJAMARCA,9.6
+quimico-farmaceutico,461,CAJAMARCA,7.2
+quimico-farmaceutico,462,CAJAMARCA,10.2
+quimico-farmaceutico,463,CAJAMARCA,7.4
+quimico-farmaceutico,464,CAJAMARCA,9.2
+quimico-farmaceutico,465,CAJAMARCA,6.2
+quimico-farmaceutico,466,CAJAMARCA,9
+quimico-farmaceutico,467,CAJAMARCA,12.4
+quimico-farmaceutico,468,CAJAMARCA,10.4
+quimico-farmaceutico,469,CAJAMARCA,10.8
+quimico-farmaceutico,470,CAJAMARCA,11.4
+quimico-farmaceutico,471,CAJAMARCA,7.8
+quimico-farmaceutico,472,CAJAMARCA,9.4
+quimico-farmaceutico,473,CAJAMARCA,6.8
+quimico-farmaceutico,474,CAJAMARCA,7.6
+quimico-farmaceutico,475,CAJAMARCA,10.2
+quimico-farmaceutico,476,CAJAMARCA,10.2
+quimico-farmaceutico,477,CAJAMARCA,6.4
+quimico-farmaceutico,478,CAJAMARCA,6.4
+quimico-farmaceutico,479,CAJAMARCA,7.6
+quimico-farmaceutico,480,CAJAMARCA,11.4
+quimico-farmaceutico,481,CAJAMARCA,10.4
+quimico-farmaceutico,482,CAJAMARCA,8.2
+quimico-farmaceutico,483,CAJAMARCA,9
+quimico-farmaceutico,484,CAJAMARCA,8.2
+quimico-farmaceutico,485,CAJAMARCA,10.8
+quimico-farmaceutico,486,CAJAMARCA,6.8
+quimico-farmaceutico,487,CAJAMARCA,NA
+quimico-farmaceutico,488,CAJAMARCA,8.2
+quimico-farmaceutico,489,CAJAMARCA,9.2
+quimico-farmaceutico,490,CAJAMARCA,9.2
+quimico-farmaceutico,491,CAJAMARCA,11.2
+quimico-farmaceutico,492,CAJAMARCA,10
+quimico-farmaceutico,493,CAJAMARCA,9.4
+quimico-farmaceutico,494,CAJAMARCA,8.2
+quimico-farmaceutico,495,CAJAMARCA,11.8
+quimico-farmaceutico,496,CAJAMARCA,10.4
+quimico-farmaceutico,497,CAJAMARCA,NA
+quimico-farmaceutico,498,CAJAMARCA,NA
+quimico-farmaceutico,499,CAJAMARCA,7
+quimico-farmaceutico,500,CAJAMARCA,8.6
+quimico-farmaceutico,501,CAJAMARCA,7.6
+quimico-farmaceutico,502,CAJAMARCA,11
+quimico-farmaceutico,503,CAJAMARCA,10
+quimico-farmaceutico,504,CAJAMARCA,7.6
+quimico-farmaceutico,505,CAJAMARCA,10.6
+quimico-farmaceutico,506,CALLAO,9.6
+quimico-farmaceutico,507,CALLAO,6.6
+quimico-farmaceutico,508,CALLAO,10
+quimico-farmaceutico,509,CALLAO,9
+quimico-farmaceutico,510,CALLAO,11.2
+quimico-farmaceutico,511,CALLAO,7.8
+quimico-farmaceutico,512,CALLAO,NA
+quimico-farmaceutico,513,CALLAO,9.4
+quimico-farmaceutico,514,CALLAO,10
+quimico-farmaceutico,515,CALLAO,9.8
+quimico-farmaceutico,516,CALLAO,12.6
+quimico-farmaceutico,517,CALLAO,10.6
+quimico-farmaceutico,518,CALLAO,7.8
+quimico-farmaceutico,519,CALLAO,11.4
+quimico-farmaceutico,520,CALLAO,10.6
+quimico-farmaceutico,521,CALLAO,10.8
+quimico-farmaceutico,522,CALLAO,7.4
+quimico-farmaceutico,523,CALLAO,7.4
+quimico-farmaceutico,524,CALLAO,9.8
+quimico-farmaceutico,525,CALLAO,9
+quimico-farmaceutico,526,CALLAO,7.6
+quimico-farmaceutico,527,CALLAO,10.4
+quimico-farmaceutico,528,CALLAO,11.8
+quimico-farmaceutico,529,CALLAO,9.4
+quimico-farmaceutico,530,CALLAO,10.8
+quimico-farmaceutico,531,CALLAO,12.8
+quimico-farmaceutico,532,CALLAO,10
+quimico-farmaceutico,533,CALLAO,10.2
+quimico-farmaceutico,534,CALLAO,NA
+quimico-farmaceutico,535,CALLAO,7.4
+quimico-farmaceutico,536,CALLAO,8
+quimico-farmaceutico,537,CALLAO,10.6
+quimico-farmaceutico,538,CALLAO,NA
+quimico-farmaceutico,539,CALLAO,9.2
+quimico-farmaceutico,540,CALLAO,10
+quimico-farmaceutico,541,CALLAO,NA
+quimico-farmaceutico,542,CALLAO,10.8
+quimico-farmaceutico,543,CALLAO,11.8
+quimico-farmaceutico,544,CALLAO,9
+quimico-farmaceutico,545,CALLAO,10.2
+quimico-farmaceutico,546,CALLAO,8.8
+quimico-farmaceutico,547,CALLAO,10.8
+quimico-farmaceutico,548,CALLAO,8.2
+quimico-farmaceutico,549,CUSCO,9.8
+quimico-farmaceutico,550,CUSCO,10.2
+quimico-farmaceutico,551,CUSCO,11.4
+quimico-farmaceutico,552,CUSCO,8.6
+quimico-farmaceutico,553,CUSCO,13
+quimico-farmaceutico,554,CUSCO,10.6
+quimico-farmaceutico,555,CUSCO,10.6
+quimico-farmaceutico,556,CUSCO,12.2
+quimico-farmaceutico,557,CUSCO,12
+quimico-farmaceutico,558,CUSCO,10.4
+quimico-farmaceutico,559,CUSCO,10.4
+quimico-farmaceutico,560,CUSCO,10.8
+quimico-farmaceutico,561,CUSCO,12.4
+quimico-farmaceutico,562,CUSCO,11.2
+quimico-farmaceutico,563,CUSCO,10
+quimico-farmaceutico,564,CUSCO,10.8
+quimico-farmaceutico,565,CUSCO,12
+quimico-farmaceutico,566,CUSCO,9.6
+quimico-farmaceutico,567,CUSCO,9.4
+quimico-farmaceutico,568,CUSCO,10.6
+quimico-farmaceutico,569,CUSCO,11.6
+quimico-farmaceutico,570,CUSCO,11.8
+quimico-farmaceutico,571,CUSCO,NA
+quimico-farmaceutico,572,CUSCO,13.8
+quimico-farmaceutico,573,CUSCO,10.8
+quimico-farmaceutico,574,CUSCO,9.4
+quimico-farmaceutico,575,CUSCO,8.4
+quimico-farmaceutico,576,CUSCO,10.8
+quimico-farmaceutico,577,CUSCO,9.2
+quimico-farmaceutico,578,CUSCO,11.8
+quimico-farmaceutico,579,CUSCO,11.6
+quimico-farmaceutico,580,CUSCO,10
+quimico-farmaceutico,581,CUSCO,13
+quimico-farmaceutico,582,CUSCO,12.2
+quimico-farmaceutico,583,CUSCO,10.4
+quimico-farmaceutico,584,CUSCO,9.6
+quimico-farmaceutico,585,CUSCO,12.2
+quimico-farmaceutico,586,CUSCO,8.6
+quimico-farmaceutico,587,CUSCO,11.8
+quimico-farmaceutico,588,CUSCO,NA
+quimico-farmaceutico,589,CUSCO,NA
+quimico-farmaceutico,590,CUSCO,NA
+quimico-farmaceutico,591,CUSCO,8.6
+quimico-farmaceutico,592,CUSCO,11.2
+quimico-farmaceutico,593,CUSCO,NA
+quimico-farmaceutico,594,CUSCO,10.4
+quimico-farmaceutico,595,CUSCO,11.4
+quimico-farmaceutico,596,CUSCO,9.6
+quimico-farmaceutico,597,CUSCO,11.4
+quimico-farmaceutico,598,CUSCO,9.8
+quimico-farmaceutico,599,CUSCO,11.8
+quimico-farmaceutico,600,CUSCO,10.2
+quimico-farmaceutico,601,CUSCO,11.8
+quimico-farmaceutico,602,CUSCO,NA
+quimico-farmaceutico,603,CUSCO,7
+quimico-farmaceutico,604,CUSCO,10.4
+quimico-farmaceutico,605,CUSCO,11
+quimico-farmaceutico,606,CUSCO,9.8
+quimico-farmaceutico,607,CUSCO,10.6
+quimico-farmaceutico,608,HUANCAVELICA,8
+quimico-farmaceutico,609,HUANCAVELICA,7.8
+quimico-farmaceutico,610,HUANCAVELICA,10.6
+quimico-farmaceutico,611,HUANCAVELICA,8.4
+quimico-farmaceutico,612,HUANCAVELICA,NA
+quimico-farmaceutico,613,HUANCAVELICA,8.2
+quimico-farmaceutico,614,HUANCAVELICA,8.8
+quimico-farmaceutico,615,HUANCAVELICA,10.8
+quimico-farmaceutico,616,HUANCAVELICA,9.4
+quimico-farmaceutico,617,HUANCAVELICA,8
+quimico-farmaceutico,618,HUANUCO,8.4
+quimico-farmaceutico,619,HUANUCO,9.8
+quimico-farmaceutico,620,HUANUCO,12
+quimico-farmaceutico,621,HUANUCO,9.6
+quimico-farmaceutico,622,HUANUCO,10.2
+quimico-farmaceutico,623,HUANUCO,9.6
+quimico-farmaceutico,624,HUANUCO,9.4
+quimico-farmaceutico,625,HUANUCO,9.4
+quimico-farmaceutico,626,HUANUCO,10.2
+quimico-farmaceutico,627,HUANUCO,7.8
+quimico-farmaceutico,628,HUANUCO,NA
+quimico-farmaceutico,629,HUANUCO,8
+quimico-farmaceutico,630,HUANUCO,9.2
+quimico-farmaceutico,631,HUANUCO,8.4
+quimico-farmaceutico,632,HUANUCO,9.6
+quimico-farmaceutico,633,HUANUCO,10.6
+quimico-farmaceutico,634,HUANUCO,11.4
+quimico-farmaceutico,635,HUANUCO,9.4
+quimico-farmaceutico,636,HUANUCO,10.6
+quimico-farmaceutico,637,ICA,NA
+quimico-farmaceutico,638,ICA,12.2
+quimico-farmaceutico,639,ICA,10
+quimico-farmaceutico,640,ICA,9.6
+quimico-farmaceutico,641,ICA,NA
+quimico-farmaceutico,642,ICA,9.8
+quimico-farmaceutico,643,ICA,9
+quimico-farmaceutico,644,ICA,10.6
+quimico-farmaceutico,645,ICA,9.2
+quimico-farmaceutico,646,ICA,NA
+quimico-farmaceutico,647,ICA,10.4
+quimico-farmaceutico,648,ICA,8
+quimico-farmaceutico,649,ICA,8.6
+quimico-farmaceutico,650,ICA,8.8
+quimico-farmaceutico,651,ICA,8.6
+quimico-farmaceutico,652,ICA,9.6
+quimico-farmaceutico,653,ICA,9
+quimico-farmaceutico,654,ICA,8.2
+quimico-farmaceutico,655,ICA,NA
+quimico-farmaceutico,656,ICA,6.6
+quimico-farmaceutico,657,ICA,8.8
+quimico-farmaceutico,658,ICA,7.2
+quimico-farmaceutico,659,ICA,6.8
+quimico-farmaceutico,660,ICA,9.6
+quimico-farmaceutico,661,ICA,4.6
+quimico-farmaceutico,662,ICA,NA
+quimico-farmaceutico,663,ICA,12.2
+quimico-farmaceutico,664,ICA,7
+quimico-farmaceutico,665,ICA,10.6
+quimico-farmaceutico,666,ICA,8.8
+quimico-farmaceutico,667,ICA,11.2
+quimico-farmaceutico,668,ICA,9.4
+quimico-farmaceutico,669,ICA,NA
+quimico-farmaceutico,670,ICA,NA
+quimico-farmaceutico,671,ICA,6.6
+quimico-farmaceutico,672,ICA,10.8
+quimico-farmaceutico,673,ICA,10
+quimico-farmaceutico,674,ICA,10
+quimico-farmaceutico,675,ICA,11.2
+quimico-farmaceutico,676,ICA,NA
+quimico-farmaceutico,677,ICA,8.6
+quimico-farmaceutico,678,ICA,9.6
+quimico-farmaceutico,679,ICA,8.6
+quimico-farmaceutico,680,ICA,9
+quimico-farmaceutico,681,ICA,NA
+quimico-farmaceutico,682,ICA,7.6
+quimico-farmaceutico,683,ICA,10.4
+quimico-farmaceutico,684,ICA,11
+quimico-farmaceutico,685,ICA,9.4
+quimico-farmaceutico,686,ICA,6.8
+quimico-farmaceutico,687,ICA,8.4
+quimico-farmaceutico,688,ICA,NA
+quimico-farmaceutico,689,ICA,9.2
+quimico-farmaceutico,690,ICA,10.6
+quimico-farmaceutico,691,ICA,8.4
+quimico-farmaceutico,692,ICA,8
+quimico-farmaceutico,693,ICA,10.4
+quimico-farmaceutico,694,ICA,11.6
+quimico-farmaceutico,695,ICA,8.6
+quimico-farmaceutico,696,ICA,9.4
+quimico-farmaceutico,697,ICA,7.6
+quimico-farmaceutico,698,ICA,7.8
+quimico-farmaceutico,699,ICA,10.4
+quimico-farmaceutico,700,ICA,12.8
+quimico-farmaceutico,701,ICA,11.2
+quimico-farmaceutico,702,ICA,8.6
+quimico-farmaceutico,703,ICA,10.6
+quimico-farmaceutico,704,ICA,12.8
+quimico-farmaceutico,705,ICA,8.6
+quimico-farmaceutico,706,ICA,9.8
+quimico-farmaceutico,707,ICA,10.2
+quimico-farmaceutico,708,ICA,9.2
+quimico-farmaceutico,709,ICA,NA
+quimico-farmaceutico,710,ICA,11.8
+quimico-farmaceutico,711,ICA,10.2
+quimico-farmaceutico,712,ICA,NA
+quimico-farmaceutico,713,ICA,10.8
+quimico-farmaceutico,714,ICA,9.2
+quimico-farmaceutico,715,ICA,10.6
+quimico-farmaceutico,716,ICA,11.2
+quimico-farmaceutico,717,ICA,10.2
+quimico-farmaceutico,718,ICA,11.2
+quimico-farmaceutico,719,ICA,9.2
+quimico-farmaceutico,720,ICA,8
+quimico-farmaceutico,721,ICA,10
+quimico-farmaceutico,722,ICA,9
+quimico-farmaceutico,723,ICA,11
+quimico-farmaceutico,724,ICA,10.2
+quimico-farmaceutico,725,ICA,8.2
+quimico-farmaceutico,726,ICA,10.4
+quimico-farmaceutico,727,ICA,11.4
+quimico-farmaceutico,728,ICA,12.4
+quimico-farmaceutico,729,ICA,12.8
+quimico-farmaceutico,730,ICA,NA
+quimico-farmaceutico,731,ICA,9
+quimico-farmaceutico,732,ICA,12
+quimico-farmaceutico,733,ICA,10.4
+quimico-farmaceutico,734,ICA,8.2
+quimico-farmaceutico,735,ICA,12
+quimico-farmaceutico,736,ICA,9.4
+quimico-farmaceutico,737,ICA,11
+quimico-farmaceutico,738,ICA,8.6
+quimico-farmaceutico,739,ICA,10
+quimico-farmaceutico,740,ICA,6.6
+quimico-farmaceutico,741,ICA,7.8
+quimico-farmaceutico,742,ICA,9.2
+quimico-farmaceutico,743,ICA,7.8
+quimico-farmaceutico,744,ICA,9.4
+quimico-farmaceutico,745,ICA,11.8
+quimico-farmaceutico,746,ICA,7.2
+quimico-farmaceutico,747,ICA,NA
+quimico-farmaceutico,748,ICA,10
+quimico-farmaceutico,749,ICA,9.6
+quimico-farmaceutico,750,ICA,7.2
+quimico-farmaceutico,751,ICA,8.6
+quimico-farmaceutico,752,ICA,7.2
+quimico-farmaceutico,753,ICA,10
+quimico-farmaceutico,754,ICA,5.4
+quimico-farmaceutico,755,ICA,9
+quimico-farmaceutico,756,ICA,12.2
+quimico-farmaceutico,757,ICA,9.6
+quimico-farmaceutico,758,ICA,10.2
+quimico-farmaceutico,759,ICA,12.6
+quimico-farmaceutico,760,ICA,10.4
+quimico-farmaceutico,761,ICA,5.6
+quimico-farmaceutico,762,ICA,7.2
+quimico-farmaceutico,763,ICA,11.4
+quimico-farmaceutico,764,ICA,8.6
+quimico-farmaceutico,765,ICA,10.6
+quimico-farmaceutico,766,ICA,9.2
+quimico-farmaceutico,767,ICA,NA
+quimico-farmaceutico,768,ICA,9.6
+quimico-farmaceutico,769,ICA,8.8
+quimico-farmaceutico,770,ICA,8
+quimico-farmaceutico,771,ICA,6.6
+quimico-farmaceutico,772,ICA,9.8
+quimico-farmaceutico,773,ICA,10.6
+quimico-farmaceutico,774,ICA,7.2
+quimico-farmaceutico,775,ICA,9.8
+quimico-farmaceutico,776,ICA,11.8
+quimico-farmaceutico,777,ICA,10.6
+quimico-farmaceutico,778,ICA,NA
+quimico-farmaceutico,779,ICA,7.8
+quimico-farmaceutico,780,ICA,12
+quimico-farmaceutico,781,ICA,7
+quimico-farmaceutico,782,ICA,8
+quimico-farmaceutico,783,ICA,9.4
+quimico-farmaceutico,784,ICA,8.8
+quimico-farmaceutico,785,ICA,NA
+quimico-farmaceutico,786,ICA,3.4
+quimico-farmaceutico,787,ICA,11
+quimico-farmaceutico,788,ICA,7
+quimico-farmaceutico,789,ICA,9.4
+quimico-farmaceutico,790,ICA,7.8
+quimico-farmaceutico,791,ICA,9.2
+quimico-farmaceutico,792,ICA,9.8
+quimico-farmaceutico,793,ICA,10.2
+quimico-farmaceutico,794,ICA,9.2
+quimico-farmaceutico,795,ICA,11.8
+quimico-farmaceutico,796,ICA,10
+quimico-farmaceutico,797,ICA,4.8
+quimico-farmaceutico,798,JUNIN,NA
+quimico-farmaceutico,799,JUNIN,10
+quimico-farmaceutico,800,JUNIN,8
+quimico-farmaceutico,801,JUNIN,9.2
+quimico-farmaceutico,802,JUNIN,9
+quimico-farmaceutico,803,JUNIN,10.6
+quimico-farmaceutico,804,JUNIN,9.2
+quimico-farmaceutico,805,JUNIN,7.2
+quimico-farmaceutico,806,JUNIN,10
+quimico-farmaceutico,807,JUNIN,9.4
+quimico-farmaceutico,808,JUNIN,9.6
+quimico-farmaceutico,809,JUNIN,8.4
+quimico-farmaceutico,810,JUNIN,11.4
+quimico-farmaceutico,811,JUNIN,9.6
+quimico-farmaceutico,812,JUNIN,7.6
+quimico-farmaceutico,813,JUNIN,10
+quimico-farmaceutico,814,JUNIN,11.8
+quimico-farmaceutico,815,JUNIN,9.6
+quimico-farmaceutico,816,JUNIN,6.8
+quimico-farmaceutico,817,JUNIN,6.2
+quimico-farmaceutico,818,JUNIN,9.2
+quimico-farmaceutico,819,JUNIN,10.2
+quimico-farmaceutico,820,JUNIN,10
+quimico-farmaceutico,821,JUNIN,11.4
+quimico-farmaceutico,822,JUNIN,10.2
+quimico-farmaceutico,823,JUNIN,10.8
+quimico-farmaceutico,824,JUNIN,9.2
+quimico-farmaceutico,825,JUNIN,9.8
+quimico-farmaceutico,826,JUNIN,8.4
+quimico-farmaceutico,827,JUNIN,9.8
+quimico-farmaceutico,828,JUNIN,9.2
+quimico-farmaceutico,829,JUNIN,11
+quimico-farmaceutico,830,JUNIN,NA
+quimico-farmaceutico,831,JUNIN,9.2
+quimico-farmaceutico,832,JUNIN,10.6
+quimico-farmaceutico,833,JUNIN,7.6
+quimico-farmaceutico,834,JUNIN,10.2
+quimico-farmaceutico,835,JUNIN,9
+quimico-farmaceutico,836,JUNIN,10
+quimico-farmaceutico,837,JUNIN,8
+quimico-farmaceutico,838,JUNIN,10.2
+quimico-farmaceutico,839,JUNIN,9
+quimico-farmaceutico,840,JUNIN,11.8
+quimico-farmaceutico,841,JUNIN,10.8
+quimico-farmaceutico,842,JUNIN,5.6
+quimico-farmaceutico,843,JUNIN,8.4
+quimico-farmaceutico,844,JUNIN,7.2
+quimico-farmaceutico,845,JUNIN,13.4
+quimico-farmaceutico,846,JUNIN,11
+quimico-farmaceutico,847,JUNIN,9
+quimico-farmaceutico,848,JUNIN,10.2
+quimico-farmaceutico,849,JUNIN,7.8
+quimico-farmaceutico,850,JUNIN,10.4
+quimico-farmaceutico,851,JUNIN,11.6
+quimico-farmaceutico,852,JUNIN,11.2
+quimico-farmaceutico,853,JUNIN,9.4
+quimico-farmaceutico,854,JUNIN,11.4
+quimico-farmaceutico,855,JUNIN,7.8
+quimico-farmaceutico,856,JUNIN,6.4
+quimico-farmaceutico,857,JUNIN,9.2
+quimico-farmaceutico,858,JUNIN,7.4
+quimico-farmaceutico,859,JUNIN,11.6
+quimico-farmaceutico,860,JUNIN,9.8
+quimico-farmaceutico,861,JUNIN,10.8
+quimico-farmaceutico,862,JUNIN,7
+quimico-farmaceutico,863,JUNIN,8.8
+quimico-farmaceutico,864,JUNIN,NA
+quimico-farmaceutico,865,JUNIN,9.6
+quimico-farmaceutico,866,JUNIN,NA
+quimico-farmaceutico,867,JUNIN,10.6
+quimico-farmaceutico,868,JUNIN,10.4
+quimico-farmaceutico,869,JUNIN,10
+quimico-farmaceutico,870,JUNIN,9.4
+quimico-farmaceutico,871,JUNIN,11.2
+quimico-farmaceutico,872,JUNIN,6.6
+quimico-farmaceutico,873,JUNIN,12.4
+quimico-farmaceutico,874,JUNIN,NA
+quimico-farmaceutico,875,JUNIN,10
+quimico-farmaceutico,876,JUNIN,8.8
+quimico-farmaceutico,877,JUNIN,11.4
+quimico-farmaceutico,878,JUNIN,NA
+quimico-farmaceutico,879,JUNIN,NA
+quimico-farmaceutico,880,JUNIN,11
+quimico-farmaceutico,881,JUNIN,6.4
+quimico-farmaceutico,882,JUNIN,8.4
+quimico-farmaceutico,883,JUNIN,9.8
+quimico-farmaceutico,884,JUNIN,NA
+quimico-farmaceutico,885,JUNIN,NA
+quimico-farmaceutico,886,JUNIN,7.4
+quimico-farmaceutico,887,JUNIN,11.2
+quimico-farmaceutico,888,JUNIN,9.2
+quimico-farmaceutico,889,JUNIN,NA
+quimico-farmaceutico,890,JUNIN,8
+quimico-farmaceutico,891,JUNIN,9.4
+quimico-farmaceutico,892,JUNIN,11.6
+quimico-farmaceutico,893,JUNIN,11.6
+quimico-farmaceutico,894,JUNIN,11.8
+quimico-farmaceutico,895,JUNIN,NA
+quimico-farmaceutico,896,JUNIN,11.8
+quimico-farmaceutico,897,JUNIN,8.6
+quimico-farmaceutico,898,JUNIN,9
+quimico-farmaceutico,899,JUNIN,8.8
+quimico-farmaceutico,900,JUNIN,10.8
+quimico-farmaceutico,901,JUNIN,12.2
+quimico-farmaceutico,902,JUNIN,8.4
+quimico-farmaceutico,903,JUNIN,10
+quimico-farmaceutico,904,JUNIN,9
+quimico-farmaceutico,905,JUNIN,NA
+quimico-farmaceutico,906,JUNIN,9.6
+quimico-farmaceutico,907,JUNIN,10.4
+quimico-farmaceutico,908,JUNIN,9.2
+quimico-farmaceutico,909,JUNIN,12
+quimico-farmaceutico,910,JUNIN,10.6
+quimico-farmaceutico,911,JUNIN,9.4
+quimico-farmaceutico,912,JUNIN,7.8
+quimico-farmaceutico,913,JUNIN,9.2
+quimico-farmaceutico,914,JUNIN,9.6
+quimico-farmaceutico,915,JUNIN,9
+quimico-farmaceutico,916,JUNIN,10.4
+quimico-farmaceutico,917,JUNIN,5.8
+quimico-farmaceutico,918,JUNIN,9.2
+quimico-farmaceutico,919,JUNIN,NA
+quimico-farmaceutico,920,JUNIN,10.8
+quimico-farmaceutico,921,JUNIN,11.4
+quimico-farmaceutico,922,JUNIN,NA
+quimico-farmaceutico,923,JUNIN,7.6
+quimico-farmaceutico,924,JUNIN,11.4
+quimico-farmaceutico,925,JUNIN,11.8
+quimico-farmaceutico,926,JUNIN,8.6
+quimico-farmaceutico,927,JUNIN,NA
+quimico-farmaceutico,928,JUNIN,10.8
+quimico-farmaceutico,929,JUNIN,9.2
+quimico-farmaceutico,930,JUNIN,9
+quimico-farmaceutico,931,JUNIN,8.6
+quimico-farmaceutico,932,JUNIN,8
+quimico-farmaceutico,933,JUNIN,10.4
+quimico-farmaceutico,934,JUNIN,9.2
+quimico-farmaceutico,935,JUNIN,9.8
+quimico-farmaceutico,936,JUNIN,8.6
+quimico-farmaceutico,937,JUNIN,9.4
+quimico-farmaceutico,938,JUNIN,5
+quimico-farmaceutico,939,JUNIN,10
+quimico-farmaceutico,940,JUNIN,7.2
+quimico-farmaceutico,941,JUNIN,8.8
+quimico-farmaceutico,942,JUNIN,10.8
+quimico-farmaceutico,943,JUNIN,11
+quimico-farmaceutico,944,JUNIN,6.2
+quimico-farmaceutico,945,JUNIN,11.8
+quimico-farmaceutico,946,JUNIN,8.8
+quimico-farmaceutico,947,JUNIN,6
+quimico-farmaceutico,948,JUNIN,9.6
+quimico-farmaceutico,949,JUNIN,8.4
+quimico-farmaceutico,950,JUNIN,NA
+quimico-farmaceutico,951,JUNIN,9.6
+quimico-farmaceutico,952,JUNIN,9.6
+quimico-farmaceutico,953,JUNIN,NA
+quimico-farmaceutico,954,JUNIN,10.8
+quimico-farmaceutico,955,JUNIN,NA
+quimico-farmaceutico,956,JUNIN,10.4
+quimico-farmaceutico,957,JUNIN,9.6
+quimico-farmaceutico,958,JUNIN,10.8
+quimico-farmaceutico,959,JUNIN,8.2
+quimico-farmaceutico,960,JUNIN,9.2
+quimico-farmaceutico,961,JUNIN,12.2
+quimico-farmaceutico,962,JUNIN,NA
+quimico-farmaceutico,963,JUNIN,NA
+quimico-farmaceutico,964,JUNIN,12.4
+quimico-farmaceutico,965,JUNIN,8.6
+quimico-farmaceutico,966,JUNIN,8.8
+quimico-farmaceutico,967,JUNIN,7.6
+quimico-farmaceutico,968,JUNIN,NA
+quimico-farmaceutico,969,JUNIN,10.2
+quimico-farmaceutico,970,JUNIN,10.4
+quimico-farmaceutico,971,JUNIN,7.8
+quimico-farmaceutico,972,JUNIN,10.4
+quimico-farmaceutico,973,JUNIN,10.8
+quimico-farmaceutico,974,JUNIN,8.8
+quimico-farmaceutico,975,JUNIN,10.2
+quimico-farmaceutico,976,JUNIN,10.4
+quimico-farmaceutico,977,JUNIN,9
+quimico-farmaceutico,978,JUNIN,9.4
+quimico-farmaceutico,979,JUNIN,7.8
+quimico-farmaceutico,980,JUNIN,6.8
+quimico-farmaceutico,981,JUNIN,8
+quimico-farmaceutico,982,JUNIN,9.2
+quimico-farmaceutico,983,JUNIN,9.8
+quimico-farmaceutico,984,JUNIN,9.6
+quimico-farmaceutico,985,JUNIN,10.2
+quimico-farmaceutico,986,JUNIN,10
+quimico-farmaceutico,987,JUNIN,NA
+quimico-farmaceutico,988,JUNIN,NA
+quimico-farmaceutico,989,JUNIN,10.8
+quimico-farmaceutico,990,JUNIN,8.6
+quimico-farmaceutico,991,JUNIN,8.6
+quimico-farmaceutico,992,JUNIN,NA
+quimico-farmaceutico,993,JUNIN,10.4
+quimico-farmaceutico,994,JUNIN,9.6
+quimico-farmaceutico,995,JUNIN,7.2
+quimico-farmaceutico,996,JUNIN,7.8
+quimico-farmaceutico,997,JUNIN,8.4
+quimico-farmaceutico,998,JUNIN,NA
+quimico-farmaceutico,999,JUNIN,11.2
+quimico-farmaceutico,1000,JUNIN,NA
+quimico-farmaceutico,1001,JUNIN,9
+quimico-farmaceutico,1002,JUNIN,NA
+quimico-farmaceutico,1003,JUNIN,10.2
+quimico-farmaceutico,1004,JUNIN,7.6
+quimico-farmaceutico,1005,JUNIN,NA
+quimico-farmaceutico,1006,JUNIN,NA
+quimico-farmaceutico,1007,JUNIN,11.2
+quimico-farmaceutico,1008,JUNIN,7.6
+quimico-farmaceutico,1009,JUNIN,9.2
+quimico-farmaceutico,1010,JUNIN,11
+quimico-farmaceutico,1011,JUNIN,9.8
+quimico-farmaceutico,1012,JUNIN,9
+quimico-farmaceutico,1013,JUNIN,9.2
+quimico-farmaceutico,1014,JUNIN,8.6
+quimico-farmaceutico,1015,JUNIN,NA
+quimico-farmaceutico,1016,JUNIN,11.2
+quimico-farmaceutico,1017,JUNIN,12.2
+quimico-farmaceutico,1018,JUNIN,11.2
+quimico-farmaceutico,1019,JUNIN,NA
+quimico-farmaceutico,1020,JUNIN,8.4
+quimico-farmaceutico,1021,JUNIN,9.6
+quimico-farmaceutico,1022,JUNIN,NA
+quimico-farmaceutico,1023,JUNIN,NA
+quimico-farmaceutico,1024,JUNIN,10.8
+quimico-farmaceutico,1025,JUNIN,6.6
+quimico-farmaceutico,1026,JUNIN,9.8
+quimico-farmaceutico,1027,JUNIN,9.2
+quimico-farmaceutico,1028,JUNIN,9.4
+quimico-farmaceutico,1029,JUNIN,NA
+quimico-farmaceutico,1030,JUNIN,11.4
+quimico-farmaceutico,1031,JUNIN,10.6
+quimico-farmaceutico,1032,JUNIN,10.6
+quimico-farmaceutico,1033,JUNIN,9
+quimico-farmaceutico,1034,JUNIN,10.2
+quimico-farmaceutico,1035,JUNIN,10
+quimico-farmaceutico,1036,JUNIN,7.4
+quimico-farmaceutico,1037,JUNIN,11
+quimico-farmaceutico,1038,JUNIN,9.8
+quimico-farmaceutico,1039,JUNIN,10.8
+quimico-farmaceutico,1040,JUNIN,8.8
+quimico-farmaceutico,1041,JUNIN,11.4
+quimico-farmaceutico,1042,JUNIN,9.8
+quimico-farmaceutico,1043,JUNIN,10.6
+quimico-farmaceutico,1044,JUNIN,9.8
+quimico-farmaceutico,1045,JUNIN,NA
+quimico-farmaceutico,1046,JUNIN,9
+quimico-farmaceutico,1047,JUNIN,9
+quimico-farmaceutico,1048,LA LIBERTAD,9.2
+quimico-farmaceutico,1049,LA LIBERTAD,13.4
+quimico-farmaceutico,1050,LA LIBERTAD,9.6
+quimico-farmaceutico,1051,LA LIBERTAD,6.6
+quimico-farmaceutico,1052,LA LIBERTAD,12.6
+quimico-farmaceutico,1053,LA LIBERTAD,NA
+quimico-farmaceutico,1054,LA LIBERTAD,11.6
+quimico-farmaceutico,1055,LA LIBERTAD,7.6
+quimico-farmaceutico,1056,LA LIBERTAD,10
+quimico-farmaceutico,1057,LA LIBERTAD,11
+quimico-farmaceutico,1058,LA LIBERTAD,11.4
+quimico-farmaceutico,1059,LA LIBERTAD,6.6
+quimico-farmaceutico,1060,LA LIBERTAD,9.8
+quimico-farmaceutico,1061,LA LIBERTAD,10.8
+quimico-farmaceutico,1062,LA LIBERTAD,8.6
+quimico-farmaceutico,1063,LA LIBERTAD,8
+quimico-farmaceutico,1064,LA LIBERTAD,8
+quimico-farmaceutico,1065,LA LIBERTAD,11.6
+quimico-farmaceutico,1066,LA LIBERTAD,11.6
+quimico-farmaceutico,1067,LA LIBERTAD,9.6
+quimico-farmaceutico,1068,LA LIBERTAD,10.8
+quimico-farmaceutico,1069,LA LIBERTAD,11
+quimico-farmaceutico,1070,LA LIBERTAD,NA
+quimico-farmaceutico,1071,LA LIBERTAD,8.6
+quimico-farmaceutico,1072,LA LIBERTAD,11.6
+quimico-farmaceutico,1073,LA LIBERTAD,8.2
+quimico-farmaceutico,1074,LA LIBERTAD,12
+quimico-farmaceutico,1075,LA LIBERTAD,NA
+quimico-farmaceutico,1076,LA LIBERTAD,9.2
+quimico-farmaceutico,1077,LA LIBERTAD,8.6
+quimico-farmaceutico,1078,LA LIBERTAD,9.6
+quimico-farmaceutico,1079,LA LIBERTAD,7.8
+quimico-farmaceutico,1080,LA LIBERTAD,9.8
+quimico-farmaceutico,1081,LA LIBERTAD,10.4
+quimico-farmaceutico,1082,LA LIBERTAD,10.4
+quimico-farmaceutico,1083,LA LIBERTAD,10.6
+quimico-farmaceutico,1084,LA LIBERTAD,13
+quimico-farmaceutico,1085,LA LIBERTAD,10.4
+quimico-farmaceutico,1086,LA LIBERTAD,NA
+quimico-farmaceutico,1087,LA LIBERTAD,7.4
+quimico-farmaceutico,1088,LA LIBERTAD,11.2
+quimico-farmaceutico,1089,LA LIBERTAD,6.2
+quimico-farmaceutico,1090,LA LIBERTAD,5.6
+quimico-farmaceutico,1091,LA LIBERTAD,8.8
+quimico-farmaceutico,1092,LA LIBERTAD,6.6
+quimico-farmaceutico,1093,LA LIBERTAD,11
+quimico-farmaceutico,1094,LA LIBERTAD,8
+quimico-farmaceutico,1095,LA LIBERTAD,9.8
+quimico-farmaceutico,1096,LA LIBERTAD,8.2
+quimico-farmaceutico,1097,LA LIBERTAD,NA
+quimico-farmaceutico,1098,LA LIBERTAD,NA
+quimico-farmaceutico,1099,LA LIBERTAD,9
+quimico-farmaceutico,1100,LA LIBERTAD,10.4
+quimico-farmaceutico,1101,LA LIBERTAD,6
+quimico-farmaceutico,1102,LA LIBERTAD,8.6
+quimico-farmaceutico,1103,LA LIBERTAD,9.8
+quimico-farmaceutico,1104,LA LIBERTAD,NA
+quimico-farmaceutico,1105,LA LIBERTAD,7.8
+quimico-farmaceutico,1106,LA LIBERTAD,11.4
+quimico-farmaceutico,1107,LA LIBERTAD,10.4
+quimico-farmaceutico,1108,LA LIBERTAD,NA
+quimico-farmaceutico,1109,LA LIBERTAD,10.4
+quimico-farmaceutico,1110,LA LIBERTAD,11.4
+quimico-farmaceutico,1111,LA LIBERTAD,11
+quimico-farmaceutico,1112,LA LIBERTAD,9.6
+quimico-farmaceutico,1113,LA LIBERTAD,9.6
+quimico-farmaceutico,1114,LA LIBERTAD,12
+quimico-farmaceutico,1115,LA LIBERTAD,8.4
+quimico-farmaceutico,1116,LA LIBERTAD,7.6
+quimico-farmaceutico,1117,LA LIBERTAD,8
+quimico-farmaceutico,1118,LA LIBERTAD,11.8
+quimico-farmaceutico,1119,LA LIBERTAD,NA
+quimico-farmaceutico,1120,LA LIBERTAD,10.4
+quimico-farmaceutico,1121,LA LIBERTAD,9
+quimico-farmaceutico,1122,LA LIBERTAD,NA
+quimico-farmaceutico,1123,LA LIBERTAD,8.2
+quimico-farmaceutico,1124,LA LIBERTAD,9.2
+quimico-farmaceutico,1125,LA LIBERTAD,8.2
+quimico-farmaceutico,1126,LA LIBERTAD,11.2
+quimico-farmaceutico,1127,LA LIBERTAD,10.6
+quimico-farmaceutico,1128,LA LIBERTAD,7.6
+quimico-farmaceutico,1129,LA LIBERTAD,12.6
+quimico-farmaceutico,1130,LA LIBERTAD,9
+quimico-farmaceutico,1131,LA LIBERTAD,10.2
+quimico-farmaceutico,1132,LA LIBERTAD,10.4
+quimico-farmaceutico,1133,LA LIBERTAD,9.6
+quimico-farmaceutico,1134,LA LIBERTAD,NA
+quimico-farmaceutico,1135,LA LIBERTAD,10.4
+quimico-farmaceutico,1136,LA LIBERTAD,7.8
+quimico-farmaceutico,1137,LA LIBERTAD,10.4
+quimico-farmaceutico,1138,LA LIBERTAD,9.4
+quimico-farmaceutico,1139,LA LIBERTAD,10.8
+quimico-farmaceutico,1140,LA LIBERTAD,NA
+quimico-farmaceutico,1141,LA LIBERTAD,6.4
+quimico-farmaceutico,1142,LA LIBERTAD,9
+quimico-farmaceutico,1143,LA LIBERTAD,12.6
+quimico-farmaceutico,1144,LA LIBERTAD,9.4
+quimico-farmaceutico,1145,LA LIBERTAD,7.6
+quimico-farmaceutico,1146,LA LIBERTAD,10
+quimico-farmaceutico,1147,LA LIBERTAD,12.2
+quimico-farmaceutico,1148,LA LIBERTAD,10.8
+quimico-farmaceutico,1149,LA LIBERTAD,9.8
+quimico-farmaceutico,1150,LA LIBERTAD,9.4
+quimico-farmaceutico,1151,LA LIBERTAD,7.8
+quimico-farmaceutico,1152,LA LIBERTAD,NA
+quimico-farmaceutico,1153,LA LIBERTAD,12
+quimico-farmaceutico,1154,LA LIBERTAD,10.8
+quimico-farmaceutico,1155,LA LIBERTAD,9.2
+quimico-farmaceutico,1156,LA LIBERTAD,9.8
+quimico-farmaceutico,1157,LA LIBERTAD,NA
+quimico-farmaceutico,1158,LA LIBERTAD,8.8
+quimico-farmaceutico,1159,LA LIBERTAD,9.4
+quimico-farmaceutico,1160,LA LIBERTAD,13.4
+quimico-farmaceutico,1161,LA LIBERTAD,10.2
+quimico-farmaceutico,1162,LA LIBERTAD,10.6
+quimico-farmaceutico,1163,LA LIBERTAD,8.6
+quimico-farmaceutico,1164,LA LIBERTAD,8.8
+quimico-farmaceutico,1165,LA LIBERTAD,11
+quimico-farmaceutico,1166,LA LIBERTAD,10
+quimico-farmaceutico,1167,LA LIBERTAD,11.6
+quimico-farmaceutico,1168,LA LIBERTAD,7.6
+quimico-farmaceutico,1169,LA LIBERTAD,10.2
+quimico-farmaceutico,1170,LA LIBERTAD,9.6
+quimico-farmaceutico,1171,LA LIBERTAD,7
+quimico-farmaceutico,1172,LA LIBERTAD,11.4
+quimico-farmaceutico,1173,LA LIBERTAD,9.6
+quimico-farmaceutico,1174,LA LIBERTAD,9.2
+quimico-farmaceutico,1175,LA LIBERTAD,11.4
+quimico-farmaceutico,1176,LA LIBERTAD,9.4
+quimico-farmaceutico,1177,LA LIBERTAD,14.8
+quimico-farmaceutico,1178,LA LIBERTAD,7.4
+quimico-farmaceutico,1179,LA LIBERTAD,10.2
+quimico-farmaceutico,1180,LA LIBERTAD,11.8
+quimico-farmaceutico,1181,LA LIBERTAD,7.4
+quimico-farmaceutico,1182,LA LIBERTAD,9.6
+quimico-farmaceutico,1183,LA LIBERTAD,9.6
+quimico-farmaceutico,1184,LA LIBERTAD,8
+quimico-farmaceutico,1185,LA LIBERTAD,9.6
+quimico-farmaceutico,1186,LA LIBERTAD,NA
+quimico-farmaceutico,1187,LA LIBERTAD,10.4
+quimico-farmaceutico,1188,LA LIBERTAD,8.6
+quimico-farmaceutico,1189,LA LIBERTAD,11.6
+quimico-farmaceutico,1190,LA LIBERTAD,10.6
+quimico-farmaceutico,1191,LA LIBERTAD,10.2
+quimico-farmaceutico,1192,LA LIBERTAD,9.8
+quimico-farmaceutico,1193,LA LIBERTAD,9
+quimico-farmaceutico,1194,LA LIBERTAD,8
+quimico-farmaceutico,1195,LA LIBERTAD,9.2
+quimico-farmaceutico,1196,LA LIBERTAD,9.6
+quimico-farmaceutico,1197,LA LIBERTAD,7.8
+quimico-farmaceutico,1198,LA LIBERTAD,8.6
+quimico-farmaceutico,1199,LA LIBERTAD,9.4
+quimico-farmaceutico,1200,LA LIBERTAD,12.8
+quimico-farmaceutico,1201,LA LIBERTAD,12.4
+quimico-farmaceutico,1202,LA LIBERTAD,8.4
+quimico-farmaceutico,1203,LA LIBERTAD,5.8
+quimico-farmaceutico,1204,LA LIBERTAD,7.8
+quimico-farmaceutico,1205,LA LIBERTAD,12
+quimico-farmaceutico,1206,LA LIBERTAD,10
+quimico-farmaceutico,1207,LA LIBERTAD,7
+quimico-farmaceutico,1208,LA LIBERTAD,6.4
+quimico-farmaceutico,1209,LA LIBERTAD,10.8
+quimico-farmaceutico,1210,LA LIBERTAD,13.6
+quimico-farmaceutico,1211,LA LIBERTAD,9.4
+quimico-farmaceutico,1212,LA LIBERTAD,7.8
+quimico-farmaceutico,1213,LA LIBERTAD,9.4
+quimico-farmaceutico,1214,LA LIBERTAD,NA
+quimico-farmaceutico,1215,LA LIBERTAD,NA
+quimico-farmaceutico,1216,LA LIBERTAD,8.6
+quimico-farmaceutico,1217,LA LIBERTAD,8.6
+quimico-farmaceutico,1218,LA LIBERTAD,11.2
+quimico-farmaceutico,1219,LA LIBERTAD,NA
+quimico-farmaceutico,1220,LA LIBERTAD,11
+quimico-farmaceutico,1221,LA LIBERTAD,9.8
+quimico-farmaceutico,1222,LA LIBERTAD,7.2
+quimico-farmaceutico,1223,LA LIBERTAD,11.4
+quimico-farmaceutico,1224,LA LIBERTAD,9.2
+quimico-farmaceutico,1225,LA LIBERTAD,NA
+quimico-farmaceutico,1226,LA LIBERTAD,NA
+quimico-farmaceutico,1227,LA LIBERTAD,11
+quimico-farmaceutico,1228,LA LIBERTAD,10.8
+quimico-farmaceutico,1229,LA LIBERTAD,10.6
+quimico-farmaceutico,1230,LA LIBERTAD,11.4
+quimico-farmaceutico,1231,LA LIBERTAD,9.6
+quimico-farmaceutico,1232,LA LIBERTAD,9.4
+quimico-farmaceutico,1233,LA LIBERTAD,11.2
+quimico-farmaceutico,1234,LA LIBERTAD,7.8
+quimico-farmaceutico,1235,LA LIBERTAD,8.8
+quimico-farmaceutico,1236,LA LIBERTAD,NA
+quimico-farmaceutico,1237,LA LIBERTAD,7.8
+quimico-farmaceutico,1238,LA LIBERTAD,6.8
+quimico-farmaceutico,1239,LA LIBERTAD,NA
+quimico-farmaceutico,1240,LA LIBERTAD,12
+quimico-farmaceutico,1241,LA LIBERTAD,NA
+quimico-farmaceutico,1242,LA LIBERTAD,9
+quimico-farmaceutico,1243,LA LIBERTAD,10
+quimico-farmaceutico,1244,LA LIBERTAD,7.8
+quimico-farmaceutico,1245,LA LIBERTAD,8.4
+quimico-farmaceutico,1246,LA LIBERTAD,15
+quimico-farmaceutico,1247,LA LIBERTAD,11
+quimico-farmaceutico,1248,LA LIBERTAD,6.2
+quimico-farmaceutico,1249,LA LIBERTAD,5.8
+quimico-farmaceutico,1250,LA LIBERTAD,9.4
+quimico-farmaceutico,1251,LA LIBERTAD,NA
+quimico-farmaceutico,1252,LA LIBERTAD,8
+quimico-farmaceutico,1253,LA LIBERTAD,NA
+quimico-farmaceutico,1254,LA LIBERTAD,11.6
+quimico-farmaceutico,1255,LA LIBERTAD,9.8
+quimico-farmaceutico,1256,LA LIBERTAD,11.2
+quimico-farmaceutico,1257,LA LIBERTAD,9
+quimico-farmaceutico,1258,LA LIBERTAD,9.4
+quimico-farmaceutico,1259,LA LIBERTAD,10.4
+quimico-farmaceutico,1260,LA LIBERTAD,9
+quimico-farmaceutico,1261,LA LIBERTAD,8.6
+quimico-farmaceutico,1262,LA LIBERTAD,5.8
+quimico-farmaceutico,1263,LA LIBERTAD,9.6
+quimico-farmaceutico,1264,LA LIBERTAD,7
+quimico-farmaceutico,1265,LA LIBERTAD,9.4
+quimico-farmaceutico,1266,LA LIBERTAD,11.4
+quimico-farmaceutico,1267,LA LIBERTAD,10.2
+quimico-farmaceutico,1268,LA LIBERTAD,7
+quimico-farmaceutico,1269,LA LIBERTAD,9
+quimico-farmaceutico,1270,LA LIBERTAD,8.8
+quimico-farmaceutico,1271,LA LIBERTAD,9
+quimico-farmaceutico,1272,LA LIBERTAD,9
+quimico-farmaceutico,1273,LA LIBERTAD,6.6
+quimico-farmaceutico,1274,LA LIBERTAD,9.6
+quimico-farmaceutico,1275,LA LIBERTAD,9.8
+quimico-farmaceutico,1276,LA LIBERTAD,5.6
+quimico-farmaceutico,1277,LA LIBERTAD,6.6
+quimico-farmaceutico,1278,LA LIBERTAD,10.6
+quimico-farmaceutico,1279,LA LIBERTAD,9.4
+quimico-farmaceutico,1280,LA LIBERTAD,8.4
+quimico-farmaceutico,1281,LA LIBERTAD,8.8
+quimico-farmaceutico,1282,LA LIBERTAD,NA
+quimico-farmaceutico,1283,LA LIBERTAD,8.4
+quimico-farmaceutico,1284,LA LIBERTAD,8
+quimico-farmaceutico,1285,LA LIBERTAD,6.6
+quimico-farmaceutico,1286,LA LIBERTAD,11
+quimico-farmaceutico,1287,LA LIBERTAD,7.6
+quimico-farmaceutico,1288,LA LIBERTAD,9.6
+quimico-farmaceutico,1289,LA LIBERTAD,9.2
+quimico-farmaceutico,1290,LA LIBERTAD,10
+quimico-farmaceutico,1291,LA LIBERTAD,11.6
+quimico-farmaceutico,1292,LA LIBERTAD,9
+quimico-farmaceutico,1293,LA LIBERTAD,9
+quimico-farmaceutico,1294,LA LIBERTAD,9.2
+quimico-farmaceutico,1295,LA LIBERTAD,9
+quimico-farmaceutico,1296,LA LIBERTAD,10.4
+quimico-farmaceutico,1297,LA LIBERTAD,8.6
+quimico-farmaceutico,1298,LA LIBERTAD,9.2
+quimico-farmaceutico,1299,LA LIBERTAD,7.8
+quimico-farmaceutico,1300,LA LIBERTAD,12
+quimico-farmaceutico,1301,LA LIBERTAD,NA
+quimico-farmaceutico,1302,LA LIBERTAD,10.4
+quimico-farmaceutico,1303,LA LIBERTAD,6.8
+quimico-farmaceutico,1304,LA LIBERTAD,9.2
+quimico-farmaceutico,1305,LA LIBERTAD,9.8
+quimico-farmaceutico,1306,LA LIBERTAD,6.4
+quimico-farmaceutico,1307,LA LIBERTAD,12.4
+quimico-farmaceutico,1308,LA LIBERTAD,10.4
+quimico-farmaceutico,1309,LA LIBERTAD,10
+quimico-farmaceutico,1310,LAMBAYEQUE,8.8
+quimico-farmaceutico,1311,LAMBAYEQUE,6.8
+quimico-farmaceutico,1312,LAMBAYEQUE,9.6
+quimico-farmaceutico,1313,LAMBAYEQUE,8.2
+quimico-farmaceutico,1314,LAMBAYEQUE,NA
+quimico-farmaceutico,1315,LAMBAYEQUE,8.8
+quimico-farmaceutico,1316,LAMBAYEQUE,9
+quimico-farmaceutico,1317,LAMBAYEQUE,10.8
+quimico-farmaceutico,1318,LAMBAYEQUE,10.4
+quimico-farmaceutico,1319,LAMBAYEQUE,7.6
+quimico-farmaceutico,1320,LAMBAYEQUE,9.6
+quimico-farmaceutico,1321,LAMBAYEQUE,10.6
+quimico-farmaceutico,1322,LAMBAYEQUE,10.4
+quimico-farmaceutico,1323,LAMBAYEQUE,8.4
+quimico-farmaceutico,1324,LAMBAYEQUE,8.2
+quimico-farmaceutico,1325,LAMBAYEQUE,10.8
+quimico-farmaceutico,1326,LAMBAYEQUE,7.2
+quimico-farmaceutico,1327,LAMBAYEQUE,10
+quimico-farmaceutico,1328,LAMBAYEQUE,8.4
+quimico-farmaceutico,1329,LAMBAYEQUE,6.8
+quimico-farmaceutico,1330,LAMBAYEQUE,NA
+quimico-farmaceutico,1331,LAMBAYEQUE,7.2
+quimico-farmaceutico,1332,LAMBAYEQUE,8
+quimico-farmaceutico,1333,LAMBAYEQUE,8.6
+quimico-farmaceutico,1334,LAMBAYEQUE,6.6
+quimico-farmaceutico,1335,LAMBAYEQUE,8.2
+quimico-farmaceutico,1336,LAMBAYEQUE,10.6
+quimico-farmaceutico,1337,LAMBAYEQUE,8.2
+quimico-farmaceutico,1338,LAMBAYEQUE,9
+quimico-farmaceutico,1339,LAMBAYEQUE,9.2
+quimico-farmaceutico,1340,LAMBAYEQUE,7.6
+quimico-farmaceutico,1341,LAMBAYEQUE,10.4
+quimico-farmaceutico,1342,LAMBAYEQUE,7.6
+quimico-farmaceutico,1343,LAMBAYEQUE,9.2
+quimico-farmaceutico,1344,LAMBAYEQUE,NA
+quimico-farmaceutico,1345,LAMBAYEQUE,7.6
+quimico-farmaceutico,1346,LAMBAYEQUE,NA
+quimico-farmaceutico,1347,LAMBAYEQUE,10.6
+quimico-farmaceutico,1348,LAMBAYEQUE,9.6
+quimico-farmaceutico,1349,LAMBAYEQUE,7.8
+quimico-farmaceutico,1350,LAMBAYEQUE,8.2
+quimico-farmaceutico,1351,LAMBAYEQUE,9
+quimico-farmaceutico,1352,LAMBAYEQUE,7.2
+quimico-farmaceutico,1353,LAMBAYEQUE,7.6
+quimico-farmaceutico,1354,LAMBAYEQUE,7.8
+quimico-farmaceutico,1355,LAMBAYEQUE,9
+quimico-farmaceutico,1356,LAMBAYEQUE,9
+quimico-farmaceutico,1357,LAMBAYEQUE,NA
+quimico-farmaceutico,1358,LAMBAYEQUE,8
+quimico-farmaceutico,1359,LAMBAYEQUE,11.4
+quimico-farmaceutico,1360,LAMBAYEQUE,10.6
+quimico-farmaceutico,1361,LAMBAYEQUE,8
+quimico-farmaceutico,1362,LAMBAYEQUE,11
+quimico-farmaceutico,1363,LAMBAYEQUE,11
+quimico-farmaceutico,1364,LAMBAYEQUE,10.8
+quimico-farmaceutico,1365,LAMBAYEQUE,9.4
+quimico-farmaceutico,1366,LAMBAYEQUE,12.4
+quimico-farmaceutico,1367,LAMBAYEQUE,8
+quimico-farmaceutico,1368,LAMBAYEQUE,11.6
+quimico-farmaceutico,1369,LAMBAYEQUE,8.2
+quimico-farmaceutico,1370,LAMBAYEQUE,10.4
+quimico-farmaceutico,1371,LAMBAYEQUE,9.6
+quimico-farmaceutico,1372,LAMBAYEQUE,5.6
+quimico-farmaceutico,1373,LAMBAYEQUE,10.8
+quimico-farmaceutico,1374,LAMBAYEQUE,11.4
+quimico-farmaceutico,1375,LAMBAYEQUE,8.4
+quimico-farmaceutico,1376,LAMBAYEQUE,7.4
+quimico-farmaceutico,1377,LAMBAYEQUE,10.4
+quimico-farmaceutico,1378,LAMBAYEQUE,NA
+quimico-farmaceutico,1379,LAMBAYEQUE,7.6
+quimico-farmaceutico,1380,LAMBAYEQUE,NA
+quimico-farmaceutico,1381,LAMBAYEQUE,10.6
+quimico-farmaceutico,1382,LIMA NORTE,8
+quimico-farmaceutico,1383,LIMA NORTE,8.6
+quimico-farmaceutico,1384,LIMA NORTE,10.8
+quimico-farmaceutico,1385,LIMA NORTE,8.6
+quimico-farmaceutico,1386,LIMA NORTE,NA
+quimico-farmaceutico,1387,LIMA NORTE,10.8
+quimico-farmaceutico,1388,LIMA NORTE,8.2
+quimico-farmaceutico,1389,LIMA NORTE,10
+quimico-farmaceutico,1390,LIMA NORTE,8.2
+quimico-farmaceutico,1391,LIMA NORTE,9
+quimico-farmaceutico,1392,LIMA NORTE,6.2
+quimico-farmaceutico,1393,LIMA NORTE,12
+quimico-farmaceutico,1394,LIMA NORTE,10.2
+quimico-farmaceutico,1395,LIMA NORTE,11
+quimico-farmaceutico,1396,LIMA NORTE,10.2
+quimico-farmaceutico,1397,LIMA NORTE,NA
+quimico-farmaceutico,1398,LIMA NORTE,NA
+quimico-farmaceutico,1399,LIMA NORTE,10
+quimico-farmaceutico,1400,LIMA NORTE,NA
+quimico-farmaceutico,1401,LIMA NORTE,14
+quimico-farmaceutico,1402,LIMA NORTE,NA
+quimico-farmaceutico,1403,LIMA NORTE,6.8
+quimico-farmaceutico,1404,LIMA NORTE,NA
+quimico-farmaceutico,1405,LIMA NORTE,11.6
+quimico-farmaceutico,1406,LIMA NORTE,9.6
+quimico-farmaceutico,1407,LIMA NORTE,12.2
+quimico-farmaceutico,1408,LIMA NORTE,12.2
+quimico-farmaceutico,1409,LIMA NORTE,8.6
+quimico-farmaceutico,1410,LIMA NORTE,NA
+quimico-farmaceutico,1411,LIMA NORTE,9.4
+quimico-farmaceutico,1412,LIMA NORTE,11
+quimico-farmaceutico,1413,LIMA NORTE,NA
+quimico-farmaceutico,1414,LIMA NORTE,8
+quimico-farmaceutico,1415,LIMA NORTE,9
+quimico-farmaceutico,1416,LIMA NORTE,8.2
+quimico-farmaceutico,1417,LIMA NORTE,12.2
+quimico-farmaceutico,1418,LIMA NORTE,8.8
+quimico-farmaceutico,1419,LIMA NORTE,10.4
+quimico-farmaceutico,1420,LIMA NORTE,10.8
+quimico-farmaceutico,1421,LIMA NORTE,12.6
+quimico-farmaceutico,1422,LIMA NORTE,10
+quimico-farmaceutico,1423,LIMA NORTE,9.6
+quimico-farmaceutico,1424,LIMA NORTE,9.8
+quimico-farmaceutico,1425,LIMA NORTE,9
+quimico-farmaceutico,1426,LIMA NORTE,9.6
+quimico-farmaceutico,1427,LIMA NORTE,8.4
+quimico-farmaceutico,1428,LIMA NORTE,8.8
+quimico-farmaceutico,1429,LIMA NORTE,8.6
+quimico-farmaceutico,1430,LIMA NORTE,10.6
+quimico-farmaceutico,1431,LIMA NORTE,10
+quimico-farmaceutico,1432,LIMA NORTE,6.4
+quimico-farmaceutico,1433,LIMA NORTE,NA
+quimico-farmaceutico,1434,LIMA NORTE,8
+quimico-farmaceutico,1435,LIMA NORTE,NA
+quimico-farmaceutico,1436,LIMA NORTE,NA
+quimico-farmaceutico,1437,LIMA NORTE,NA
+quimico-farmaceutico,1438,LIMA NORTE,9
+quimico-farmaceutico,1439,LIMA NORTE,7.4
+quimico-farmaceutico,1440,LIMA NORTE,10.6
+quimico-farmaceutico,1441,LIMA NORTE,6.4
+quimico-farmaceutico,1442,LIMA NORTE,NA
+quimico-farmaceutico,1443,LIMA NORTE,9.8
+quimico-farmaceutico,1444,LIMA NORTE,11.4
+quimico-farmaceutico,1445,LIMA NORTE,NA
+quimico-farmaceutico,1446,LIMA NORTE,7.6
+quimico-farmaceutico,1447,LIMA NORTE,6
+quimico-farmaceutico,1448,LIMA NORTE,NA
+quimico-farmaceutico,1449,LIMA NORTE,NA
+quimico-farmaceutico,1450,LIMA NORTE,NA
+quimico-farmaceutico,1451,LIMA NORTE,12.2
+quimico-farmaceutico,1452,LIMA NORTE,9.2
+quimico-farmaceutico,1453,LIMA NORTE,7.6
+quimico-farmaceutico,1454,LIMA NORTE,10
+quimico-farmaceutico,1455,LIMA NORTE,9.2
+quimico-farmaceutico,1456,LIMA NORTE,10.4
+quimico-farmaceutico,1457,LIMA NORTE,10.8
+quimico-farmaceutico,1458,LIMA NORTE,9.8
+quimico-farmaceutico,1459,LIMA NORTE,10.6
+quimico-farmaceutico,1460,LIMA NORTE,7.4
+quimico-farmaceutico,1461,LIMA NORTE,9
+quimico-farmaceutico,1462,LIMA NORTE,NA
+quimico-farmaceutico,1463,LIMA NORTE,9
+quimico-farmaceutico,1464,LIMA NORTE,10.4
+quimico-farmaceutico,1465,LIMA NORTE,7.4
+quimico-farmaceutico,1466,LIMA NORTE,11.2
+quimico-farmaceutico,1467,LIMA NORTE,9
+quimico-farmaceutico,1468,LIMA NORTE,NA
+quimico-farmaceutico,1469,LIMA NORTE,8.8
+quimico-farmaceutico,1470,LIMA NORTE,11.8
+quimico-farmaceutico,1471,LIMA NORTE,12.2
+quimico-farmaceutico,1472,LIMA NORTE,12
+quimico-farmaceutico,1473,LIMA NORTE,12
+quimico-farmaceutico,1474,LIMA NORTE,8
+quimico-farmaceutico,1475,LIMA NORTE,8.8
+quimico-farmaceutico,1476,LIMA NORTE,9.8
+quimico-farmaceutico,1477,LIMA NORTE,9.8
+quimico-farmaceutico,1478,LIMA NORTE,10.6
+quimico-farmaceutico,1479,LIMA NORTE,11.6
+quimico-farmaceutico,1480,LIMA NORTE,7.6
+quimico-farmaceutico,1481,LIMA NORTE,NA
+quimico-farmaceutico,1482,LIMA NORTE,11.8
+quimico-farmaceutico,1483,LIMA NORTE,10.2
+quimico-farmaceutico,1484,LIMA NORTE,11.6
+quimico-farmaceutico,1485,LIMA NORTE,8.2
+quimico-farmaceutico,1486,LIMA NORTE,9.4
+quimico-farmaceutico,1487,LIMA NORTE,6.4
+quimico-farmaceutico,1488,LIMA NORTE,9.4
+quimico-farmaceutico,1489,LIMA NORTE,11.2
+quimico-farmaceutico,1490,LIMA NORTE,NA
+quimico-farmaceutico,1491,LIMA NORTE,10.6
+quimico-farmaceutico,1492,LIMA NORTE,12.6
+quimico-farmaceutico,1493,LIMA NORTE,9.4
+quimico-farmaceutico,1494,LIMA NORTE,10.2
+quimico-farmaceutico,1495,LIMA NORTE,10.4
+quimico-farmaceutico,1496,LIMA NORTE,9
+quimico-farmaceutico,1497,LIMA NORTE,10
+quimico-farmaceutico,1498,LIMA NORTE,11.8
+quimico-farmaceutico,1499,LIMA NORTE,9.4
+quimico-farmaceutico,1500,LIMA NORTE,8.2
+quimico-farmaceutico,1501,LIMA NORTE,8.6
+quimico-farmaceutico,1502,LIMA NORTE,NA
+quimico-farmaceutico,1503,LIMA NORTE,10.4
+quimico-farmaceutico,1504,LIMA NORTE,9.8
+quimico-farmaceutico,1505,LIMA NORTE,9.2
+quimico-farmaceutico,1506,LIMA NORTE,8.2
+quimico-farmaceutico,1507,LIMA NORTE,NA
+quimico-farmaceutico,1508,LIMA NORTE,8
+quimico-farmaceutico,1509,LIMA NORTE,10.8
+quimico-farmaceutico,1510,LIMA NORTE,9.2
+quimico-farmaceutico,1511,LIMA NORTE,10.6
+quimico-farmaceutico,1512,LIMA NORTE,9.2
+quimico-farmaceutico,1513,LIMA NORTE,10
+quimico-farmaceutico,1514,LIMA NORTE,7.8
+quimico-farmaceutico,1515,LIMA NORTE,11.6
+quimico-farmaceutico,1516,LIMA NORTE,9.4
+quimico-farmaceutico,1517,LIMA NORTE,8.6
+quimico-farmaceutico,1518,LIMA NORTE,8
+quimico-farmaceutico,1519,LIMA NORTE,7.2
+quimico-farmaceutico,1520,LIMA NORTE,7.6
+quimico-farmaceutico,1521,LIMA NORTE,7.4
+quimico-farmaceutico,1522,LIMA NORTE,10
+quimico-farmaceutico,1523,LIMA NORTE,NA
+quimico-farmaceutico,1524,LIMA NORTE,5.2
+quimico-farmaceutico,1525,LIMA NORTE,12.8
+quimico-farmaceutico,1526,LIMA NORTE,6.8
+quimico-farmaceutico,1527,LIMA NORTE,5.8
+quimico-farmaceutico,1528,LIMA NORTE,10.2
+quimico-farmaceutico,1529,LIMA NORTE,NA
+quimico-farmaceutico,1530,LIMA NORTE,9
+quimico-farmaceutico,1531,LIMA NORTE,6.6
+quimico-farmaceutico,1532,LIMA NORTE,NA
+quimico-farmaceutico,1533,LIMA NORTE,5.6
+quimico-farmaceutico,1534,LIMA NORTE,10
+quimico-farmaceutico,1535,LIMA NORTE,6
+quimico-farmaceutico,1536,LIMA NORTE,8.2
+quimico-farmaceutico,1537,LIMA NORTE,7.4
+quimico-farmaceutico,1538,LIMA NORTE,10.8
+quimico-farmaceutico,1539,LIMA NORTE,8.6
+quimico-farmaceutico,1540,LIMA NORTE,10.4
+quimico-farmaceutico,1541,LIMA NORTE,9.4
+quimico-farmaceutico,1542,LIMA NORTE,NA
+quimico-farmaceutico,1543,LIMA NORTE,8.2
+quimico-farmaceutico,1544,LIMA NORTE,8.2
+quimico-farmaceutico,1545,LIMA NORTE,10.2
+quimico-farmaceutico,1546,LIMA NORTE,8.6
+quimico-farmaceutico,1547,LIMA NORTE,10.6
+quimico-farmaceutico,1548,LIMA NORTE,9.6
+quimico-farmaceutico,1549,LIMA NORTE,11.2
+quimico-farmaceutico,1550,LIMA NORTE,10
+quimico-farmaceutico,1551,LIMA NORTE,10.6
+quimico-farmaceutico,1552,LIMA NORTE,7.4
+quimico-farmaceutico,1553,LIMA NORTE,NA
+quimico-farmaceutico,1554,LIMA NORTE,10
+quimico-farmaceutico,1555,LIMA NORTE,9.4
+quimico-farmaceutico,1556,LIMA NORTE,11.4
+quimico-farmaceutico,1557,LIMA NORTE,NA
+quimico-farmaceutico,1558,LIMA NORTE,6
+quimico-farmaceutico,1559,LIMA NORTE,11.8
+quimico-farmaceutico,1560,LIMA NORTE,6
+quimico-farmaceutico,1561,LIMA NORTE,12
+quimico-farmaceutico,1562,LIMA NORTE,11
+quimico-farmaceutico,1563,LIMA NORTE,8.2
+quimico-farmaceutico,1564,LIMA NORTE,9.8
+quimico-farmaceutico,1565,LIMA NORTE,NA
+quimico-farmaceutico,1566,LIMA NORTE,NA
+quimico-farmaceutico,1567,LIMA NORTE,NA
+quimico-farmaceutico,1568,LIMA NORTE,8.2
+quimico-farmaceutico,1569,LIMA NORTE,10.4
+quimico-farmaceutico,1570,LIMA NORTE,10.6
+quimico-farmaceutico,1571,LIMA NORTE,9.8
+quimico-farmaceutico,1572,LIMA NORTE,10
+quimico-farmaceutico,1573,LIMA NORTE,NA
+quimico-farmaceutico,1574,LIMA NORTE,7
+quimico-farmaceutico,1575,LIMA NORTE,NA
+quimico-farmaceutico,1576,LIMA NORTE,8.6
+quimico-farmaceutico,1577,LIMA NORTE,9.2
+quimico-farmaceutico,1578,LIMA NORTE,9
+quimico-farmaceutico,1579,LIMA NORTE,NA
+quimico-farmaceutico,1580,LIMA NORTE,NA
+quimico-farmaceutico,1581,LIMA NORTE,7.8
+quimico-farmaceutico,1582,LIMA NORTE,9.8
+quimico-farmaceutico,1583,LIMA NORTE,9
+quimico-farmaceutico,1584,LIMA NORTE,9.8
+quimico-farmaceutico,1585,LIMA NORTE,NA
+quimico-farmaceutico,1586,LIMA NORTE,9.4
+quimico-farmaceutico,1587,LIMA NORTE,8.8
+quimico-farmaceutico,1588,LIMA NORTE,7.8
+quimico-farmaceutico,1589,LIMA NORTE,10.2
+quimico-farmaceutico,1590,LIMA NORTE,7.8
+quimico-farmaceutico,1591,LIMA NORTE,9.8
+quimico-farmaceutico,1592,LIMA NORTE,11.6
+quimico-farmaceutico,1593,LIMA NORTE,9
+quimico-farmaceutico,1594,LIMA NORTE,9.8
+quimico-farmaceutico,1595,LIMA NORTE,9.8
+quimico-farmaceutico,1596,LIMA NORTE,13.2
+quimico-farmaceutico,1597,LIMA NORTE,10.6
+quimico-farmaceutico,1598,LIMA NORTE,10.6
+quimico-farmaceutico,1599,LIMA NORTE,NA
+quimico-farmaceutico,1600,LIMA NORTE,13.4
+quimico-farmaceutico,1601,LIMA NORTE,10.2
+quimico-farmaceutico,1602,LIMA NORTE,12
+quimico-farmaceutico,1603,LIMA NORTE,9.4
+quimico-farmaceutico,1604,LIMA NORTE,6.8
+quimico-farmaceutico,1605,LIMA NORTE,NA
+quimico-farmaceutico,1606,LIMA NORTE,12
+quimico-farmaceutico,1607,LIMA NORTE,8
+quimico-farmaceutico,1608,LIMA NORTE,9.8
+quimico-farmaceutico,1609,LIMA NORTE,9.6
+quimico-farmaceutico,1610,LIMA NORTE,NA
+quimico-farmaceutico,1611,LIMA NORTE,9.2
+quimico-farmaceutico,1612,LIMA NORTE,14
+quimico-farmaceutico,1613,LIMA NORTE,9.6
+quimico-farmaceutico,1614,LIMA NORTE,10.2
+quimico-farmaceutico,1615,LIMA NORTE,9.6
+quimico-farmaceutico,1616,LIMA NORTE,7.4
+quimico-farmaceutico,1617,LIMA NORTE,9.4
+quimico-farmaceutico,1618,LIMA NORTE,NA
+quimico-farmaceutico,1619,LIMA NORTE,11.4
+quimico-farmaceutico,1620,LIMA NORTE,10.4
+quimico-farmaceutico,1621,LIMA NORTE,8.2
+quimico-farmaceutico,1622,LIMA NORTE,12.4
+quimico-farmaceutico,1623,LIMA NORTE,9.4
+quimico-farmaceutico,1624,LIMA NORTE,7
+quimico-farmaceutico,1625,LIMA NORTE,10
+quimico-farmaceutico,1626,LIMA NORTE,8
+quimico-farmaceutico,1627,LIMA NORTE,7
+quimico-farmaceutico,1628,LIMA NORTE,9
+quimico-farmaceutico,1629,LIMA NORTE,7.4
+quimico-farmaceutico,1630,LIMA NORTE,8.8
+quimico-farmaceutico,1631,LIMA NORTE,8.4
+quimico-farmaceutico,1632,LIMA NORTE,9.2
+quimico-farmaceutico,1633,LIMA NORTE,8.4
+quimico-farmaceutico,1634,LIMA NORTE,NA
+quimico-farmaceutico,1635,LIMA NORTE,10.2
+quimico-farmaceutico,1636,LIMA NORTE,8.2
+quimico-farmaceutico,1637,LIMA NORTE,NA
+quimico-farmaceutico,1638,LIMA NORTE,9.2
+quimico-farmaceutico,1639,LIMA NORTE,12.2
+quimico-farmaceutico,1640,LIMA NORTE,NA
+quimico-farmaceutico,1641,LIMA NORTE,6.4
+quimico-farmaceutico,1642,LIMA NORTE,7.6
+quimico-farmaceutico,1643,LIMA NORTE,9
+quimico-farmaceutico,1644,LIMA NORTE,NA
+quimico-farmaceutico,1645,LIMA NORTE,NA
+quimico-farmaceutico,1646,LIMA NORTE,10.8
+quimico-farmaceutico,1647,LIMA NORTE,12.2
+quimico-farmaceutico,1648,LIMA NORTE,13.2
+quimico-farmaceutico,1649,LIMA NORTE,NA
+quimico-farmaceutico,1650,LIMA NORTE,7.2
+quimico-farmaceutico,1651,LIMA NORTE,8.2
+quimico-farmaceutico,1652,LIMA NORTE,9.6
+quimico-farmaceutico,1653,LIMA NORTE,9.4
+quimico-farmaceutico,1654,LIMA NORTE,NA
+quimico-farmaceutico,1655,LIMA NORTE,8.4
+quimico-farmaceutico,1656,LIMA NORTE,11.2
+quimico-farmaceutico,1657,LIMA NORTE,NA
+quimico-farmaceutico,1658,LIMA NORTE,9.8
+quimico-farmaceutico,1659,LIMA NORTE,10.2
+quimico-farmaceutico,1660,LIMA NORTE,9.6
+quimico-farmaceutico,1661,LIMA NORTE,10
+quimico-farmaceutico,1662,LIMA NORTE,NA
+quimico-farmaceutico,1663,LIMA NORTE,9.4
+quimico-farmaceutico,1664,LIMA NORTE,11.8
+quimico-farmaceutico,1665,LIMA NORTE,9.8
+quimico-farmaceutico,1666,LIMA NORTE,6.6
+quimico-farmaceutico,1667,LIMA NORTE,8.6
+quimico-farmaceutico,1668,LIMA NORTE,12
+quimico-farmaceutico,1669,LIMA NORTE,9.4
+quimico-farmaceutico,1670,LIMA NORTE,9.4
+quimico-farmaceutico,1671,LIMA NORTE,7
+quimico-farmaceutico,1672,LIMA NORTE,11
+quimico-farmaceutico,1673,LIMA NORTE,9.4
+quimico-farmaceutico,1674,LIMA NORTE,9.2
+quimico-farmaceutico,1675,LIMA NORTE,NA
+quimico-farmaceutico,1676,LIMA NORTE,9.4
+quimico-farmaceutico,1677,LIMA NORTE,6.8
+quimico-farmaceutico,1678,LIMA NORTE,11.2
+quimico-farmaceutico,1679,LIMA NORTE,6.6
+quimico-farmaceutico,1680,LIMA NORTE,10.6
+quimico-farmaceutico,1681,LIMA NORTE,10
+quimico-farmaceutico,1682,LIMA NORTE,8
+quimico-farmaceutico,1683,LIMA NORTE,8.8
+quimico-farmaceutico,1684,LIMA NORTE,11.2
+quimico-farmaceutico,1685,LIMA NORTE,10.8
+quimico-farmaceutico,1686,LIMA NORTE,NA
+quimico-farmaceutico,1687,LIMA NORTE,13
+quimico-farmaceutico,1688,LIMA NORTE,7.4
+quimico-farmaceutico,1689,LIMA NORTE,8.8
+quimico-farmaceutico,1690,LIMA NORTE,NA
+quimico-farmaceutico,1691,LIMA NORTE,14.2
+quimico-farmaceutico,1692,LIMA NORTE,8.2
+quimico-farmaceutico,1693,LIMA NORTE,NA
+quimico-farmaceutico,1694,LIMA NORTE,NA
+quimico-farmaceutico,1695,LIMA NORTE,10.6
+quimico-farmaceutico,1696,LIMA NORTE,9.8
+quimico-farmaceutico,1697,LIMA NORTE,7.8
+quimico-farmaceutico,1698,LIMA NORTE,8.2
+quimico-farmaceutico,1699,LIMA NORTE,10.4
+quimico-farmaceutico,1700,LIMA NORTE,10.2
+quimico-farmaceutico,1701,LIMA NORTE,9.2
+quimico-farmaceutico,1702,LIMA NORTE,7.6
+quimico-farmaceutico,1703,LIMA NORTE,6
+quimico-farmaceutico,1704,LIMA NORTE,NA
+quimico-farmaceutico,1705,LIMA NORTE,10.2
+quimico-farmaceutico,1706,LIMA NORTE,NA
+quimico-farmaceutico,1707,LIMA NORTE,11.8
+quimico-farmaceutico,1708,LIMA NORTE,8.6
+quimico-farmaceutico,1709,LIMA NORTE,9.6
+quimico-farmaceutico,1710,LIMA NORTE,10.6
+quimico-farmaceutico,1711,LIMA NORTE,10.6
+quimico-farmaceutico,1712,LIMA NORTE,NA
+quimico-farmaceutico,1713,LIMA NORTE,10.4
+quimico-farmaceutico,1714,LIMA NORTE,6
+quimico-farmaceutico,1715,LIMA NORTE,11.6
+quimico-farmaceutico,1716,LIMA NORTE,9.6
+quimico-farmaceutico,1717,LIMA NORTE,11
+quimico-farmaceutico,1718,LIMA NORTE,NA
+quimico-farmaceutico,1719,LIMA NORTE,8
+quimico-farmaceutico,1720,LIMA NORTE,10.8
+quimico-farmaceutico,1721,LIMA NORTE,9.2
+quimico-farmaceutico,1722,LIMA NORTE,7.6
+quimico-farmaceutico,1723,LIMA NORTE,9
+quimico-farmaceutico,1724,LIMA NORTE,8.4
+quimico-farmaceutico,1725,LIMA NORTE,8.2
+quimico-farmaceutico,1726,LIMA NORTE,12.8
+quimico-farmaceutico,1727,LIMA NORTE,8.8
+quimico-farmaceutico,1728,LIMA NORTE,10.4
+quimico-farmaceutico,1729,LIMA NORTE,8.4
+quimico-farmaceutico,1730,LIMA NORTE,NA
+quimico-farmaceutico,1731,LIMA NORTE,11.2
+quimico-farmaceutico,1732,LIMA NORTE,8.2
+quimico-farmaceutico,1733,LIMA NORTE,11.8
+quimico-farmaceutico,1734,LIMA NORTE,11.8
+quimico-farmaceutico,1735,LIMA NORTE,12.4
+quimico-farmaceutico,1736,LIMA NORTE,8.6
+quimico-farmaceutico,1737,LIMA NORTE,6.2
+quimico-farmaceutico,1738,LIMA NORTE,11.2
+quimico-farmaceutico,1739,LIMA NORTE,9
+quimico-farmaceutico,1740,LIMA NORTE,6.8
+quimico-farmaceutico,1741,LIMA NORTE,8.6
+quimico-farmaceutico,1742,LIMA NORTE,9.6
+quimico-farmaceutico,1743,LIMA NORTE,11.6
+quimico-farmaceutico,1744,LIMA NORTE,13
+quimico-farmaceutico,1745,LIMA NORTE,9.2
+quimico-farmaceutico,1746,LIMA NORTE,NA
+quimico-farmaceutico,1747,LIMA NORTE,7.4
+quimico-farmaceutico,1748,LIMA NORTE,9.4
+quimico-farmaceutico,1749,LIMA NORTE,NA
+quimico-farmaceutico,1750,LIMA NORTE,10.6
+quimico-farmaceutico,1751,LIMA NORTE,11
+quimico-farmaceutico,1752,LIMA NORTE,8.2
+quimico-farmaceutico,1753,LIMA NORTE,NA
+quimico-farmaceutico,1754,LIMA NORTE,9.4
+quimico-farmaceutico,1755,LIMA NORTE,9.6
+quimico-farmaceutico,1756,LIMA NORTE,7.8
+quimico-farmaceutico,1757,LIMA NORTE,9.2
+quimico-farmaceutico,1758,LIMA NORTE,12.4
+quimico-farmaceutico,1759,LIMA NORTE,12
+quimico-farmaceutico,1760,LIMA NORTE,12.2
+quimico-farmaceutico,1761,LIMA NORTE,7.2
+quimico-farmaceutico,1762,LIMA NORTE,9.8
+quimico-farmaceutico,1763,LIMA REGION,NA
+quimico-farmaceutico,1764,LIMA REGION,7.2
+quimico-farmaceutico,1765,LIMA REGION,NA
+quimico-farmaceutico,1766,LIMA REGION,NA
+quimico-farmaceutico,1767,LIMA REGION,11
+quimico-farmaceutico,1768,LIMA REGION,9.2
+quimico-farmaceutico,1769,LIMA REGION,11.6
+quimico-farmaceutico,1770,LIMA REGION,9.8
+quimico-farmaceutico,1771,LIMA REGION,10.4
+quimico-farmaceutico,1772,LIMA REGION,NA
+quimico-farmaceutico,1773,LIMA REGION,NA
+quimico-farmaceutico,1774,LIMA REGION,11.2
+quimico-farmaceutico,1775,LIMA REGION,NA
+quimico-farmaceutico,1776,LIMA REGION,9
+quimico-farmaceutico,1777,LIMA REGION,NA
+quimico-farmaceutico,1778,LIMA REGION,9.8
+quimico-farmaceutico,1779,LIMA REGION,6.4
+quimico-farmaceutico,1780,LIMA REGION,7.4
+quimico-farmaceutico,1781,LIMA REGION,NA
+quimico-farmaceutico,1782,LIMA REGION,8.8
+quimico-farmaceutico,1783,LIMA REGION,9.4
+quimico-farmaceutico,1784,LIMA REGION,NA
+quimico-farmaceutico,1785,LIMA REGION,8.6
+quimico-farmaceutico,1786,LIMA REGION,NA
+quimico-farmaceutico,1787,LIMA REGION,7.4
+quimico-farmaceutico,1788,LIMA REGION,11.2
+quimico-farmaceutico,1789,LIMA REGION,NA
+quimico-farmaceutico,1790,LIMA REGION,10
+quimico-farmaceutico,1791,LIMA REGION,9
+quimico-farmaceutico,1792,LIMA REGION,8
+quimico-farmaceutico,1793,LIMA REGION,8.4
+quimico-farmaceutico,1794,LIMA REGION,8.8
+quimico-farmaceutico,1795,LIMA REGION,NA
+quimico-farmaceutico,1796,LIMA REGION,9.2
+quimico-farmaceutico,1797,LIMA REGION,12.6
+quimico-farmaceutico,1798,LIMA REGION,10.6
+quimico-farmaceutico,1799,LIMA REGION,10
+quimico-farmaceutico,1800,LIMA REGION,8
+quimico-farmaceutico,1801,LIMA REGION,9
+quimico-farmaceutico,1802,LIMA REGION,6
+quimico-farmaceutico,1803,LIMA REGION,9
+quimico-farmaceutico,1804,LIMA REGION,9
+quimico-farmaceutico,1805,LIMA REGION,9.6
+quimico-farmaceutico,1806,LIMA REGION,11
+quimico-farmaceutico,1807,LIMA REGION,NA
+quimico-farmaceutico,1808,LIMA REGION,9.2
+quimico-farmaceutico,1809,LIMA REGION,8.2
+quimico-farmaceutico,1810,LIMA REGION,10.2
+quimico-farmaceutico,1811,LIMA REGION,8
+quimico-farmaceutico,1812,LIMA REGION,NA
+quimico-farmaceutico,1813,LIMA REGION,7.6
+quimico-farmaceutico,1814,LIMA REGION,NA
+quimico-farmaceutico,1815,LIMA REGION,8.6
+quimico-farmaceutico,1816,LIMA REGION,9.4
+quimico-farmaceutico,1817,LIMA REGION,9.8
+quimico-farmaceutico,1818,LIMA REGION,6.6
+quimico-farmaceutico,1819,LIMA REGION,NA
+quimico-farmaceutico,1820,LIMA REGION,8.4
+quimico-farmaceutico,1821,LIMA REGION,11.2
+quimico-farmaceutico,1822,LIMA REGION,7.2
+quimico-farmaceutico,1823,LIMA REGION,7.6
+quimico-farmaceutico,1824,LIMA REGION,NA
+quimico-farmaceutico,1825,LIMA REGION,11.8
+quimico-farmaceutico,1826,LIMA REGION,7
+quimico-farmaceutico,1827,LIMA REGION,10
+quimico-farmaceutico,1828,LIMA REGION,10
+quimico-farmaceutico,1829,LIMA REGION,7.8
+quimico-farmaceutico,1830,LIMA REGION,8.2
+quimico-farmaceutico,1831,LIMA REGION,NA
+quimico-farmaceutico,1832,LIMA REGION,7.8
+quimico-farmaceutico,1833,LIMA REGION,12
+quimico-farmaceutico,1834,LIMA REGION,11.2
+quimico-farmaceutico,1835,LIMA REGION,10.6
+quimico-farmaceutico,1836,LIMA REGION,NA
+quimico-farmaceutico,1837,LIMA REGION,12.4
+quimico-farmaceutico,1838,LIMA REGION,9.2
+quimico-farmaceutico,1839,LIMA REGION,10.8
+quimico-farmaceutico,1840,LIMA REGION,10.2
+quimico-farmaceutico,1841,LIMA REGION,9
+quimico-farmaceutico,1842,LIMA REGION,9.2
+quimico-farmaceutico,1843,LIMA REGION,8.8
+quimico-farmaceutico,1844,LIMA REGION,8.4
+quimico-farmaceutico,1845,LIMA REGION,10.4
+quimico-farmaceutico,1846,LIMA REGION,NA
+quimico-farmaceutico,1847,LIMA REGION,NA
+quimico-farmaceutico,1848,LIMA REGION,10.6
+quimico-farmaceutico,1849,LIMA REGION,NA
+quimico-farmaceutico,1850,LIMA REGION,9.2
+quimico-farmaceutico,1851,LIMA REGION,11.4
+quimico-farmaceutico,1852,LIMA REGION,NA
+quimico-farmaceutico,1853,LIMA REGION,9.2
+quimico-farmaceutico,1854,LIMA REGION,NA
+quimico-farmaceutico,1855,LIMA REGION,7.8
+quimico-farmaceutico,1856,LIMA REGION,NA
+quimico-farmaceutico,1857,LIMA REGION,8.6
+quimico-farmaceutico,1858,LIMA REGION,10.6
+quimico-farmaceutico,1859,LIMA REGION,10
+quimico-farmaceutico,1860,LIMA REGION,12
+quimico-farmaceutico,1861,LIMA REGION,11.2
+quimico-farmaceutico,1862,LIMA REGION,8.6
+quimico-farmaceutico,1863,LIMA REGION,NA
+quimico-farmaceutico,1864,LIMA REGION,NA
+quimico-farmaceutico,1865,LIMA REGION,10.6
+quimico-farmaceutico,1866,LIMA REGION,11.8
+quimico-farmaceutico,1867,LIMA REGION,7.4
+quimico-farmaceutico,1868,LIMA REGION,NA
+quimico-farmaceutico,1869,LIMA REGION,12.6
+quimico-farmaceutico,1870,LIMA REGION,11.6
+quimico-farmaceutico,1871,LIMA REGION,9.4
+quimico-farmaceutico,1872,LIMA REGION,13.4
+quimico-farmaceutico,1873,LIMA REGION,10.8
+quimico-farmaceutico,1874,LIMA REGION,11.2
+quimico-farmaceutico,1875,LIMA REGION,8.4
+quimico-farmaceutico,1876,LIMA REGION,NA
+quimico-farmaceutico,1877,LIMA REGION,6.8
+quimico-farmaceutico,1878,LIMA REGION,NA
+quimico-farmaceutico,1879,LIMA REGION,9.2
+quimico-farmaceutico,1880,LIMA REGION,10
+quimico-farmaceutico,1881,LIMA REGION,NA
+quimico-farmaceutico,1882,LIMA REGION,NA
+quimico-farmaceutico,1883,LIMA REGION,8
+quimico-farmaceutico,1884,LIMA REGION,NA
+quimico-farmaceutico,1885,LIMA REGION,8.4
+quimico-farmaceutico,1886,LIMA REGION,11
+quimico-farmaceutico,1887,LIMA REGION,NA
+quimico-farmaceutico,1888,LIMA REGION,11.6
+quimico-farmaceutico,1889,LIMA REGION,7.6
+quimico-farmaceutico,1890,LIMA REGION,11.4
+quimico-farmaceutico,1891,LIMA REGION,11.2
+quimico-farmaceutico,1892,LIMA REGION,10.2
+quimico-farmaceutico,1893,LIMA REGION,9.2
+quimico-farmaceutico,1894,LIMA REGION,NA
+quimico-farmaceutico,1895,LIMA REGION,11.6
+quimico-farmaceutico,1896,LIMA REGION,12.2
+quimico-farmaceutico,1897,LIMA REGION,10
+quimico-farmaceutico,1898,LIMA REGION,11.6
+quimico-farmaceutico,1899,LIMA REGION,NA
+quimico-farmaceutico,1900,LIMA REGION,10.8
+quimico-farmaceutico,1901,LIMA REGION,10.6
+quimico-farmaceutico,1902,LIMA REGION,10.8
+quimico-farmaceutico,1903,LIMA REGION,7.2
+quimico-farmaceutico,1904,LIMA REGION,7
+quimico-farmaceutico,1905,LIMA REGION,13.2
+quimico-farmaceutico,1906,LIMA REGION,7.2
+quimico-farmaceutico,1907,LIMA REGION,9.6
+quimico-farmaceutico,1908,LIMA REGION,8.8
+quimico-farmaceutico,1909,LIMA REGION,11
+quimico-farmaceutico,1910,LIMA REGION,11.4
+quimico-farmaceutico,1911,LIMA REGION,10.6
+quimico-farmaceutico,1912,LIMA REGION,10.4
+quimico-farmaceutico,1913,LIMA REGION,7.2
+quimico-farmaceutico,1914,LIMA REGION,14
+quimico-farmaceutico,1915,LIMA REGION,NA
+quimico-farmaceutico,1916,LIMA REGION,9.6
+quimico-farmaceutico,1917,LIMA REGION,NA
+quimico-farmaceutico,1918,LIMA REGION,8
+quimico-farmaceutico,1919,LIMA REGION,8.2
+quimico-farmaceutico,1920,LIMA REGION,8.6
+quimico-farmaceutico,1921,LIMA REGION,10.8
+quimico-farmaceutico,1922,LIMA REGION,12.6
+quimico-farmaceutico,1923,LIMA REGION,NA
+quimico-farmaceutico,1924,LIMA REGION,10
+quimico-farmaceutico,1925,LIMA REGION,NA
+quimico-farmaceutico,1926,LIMA REGION,12
+quimico-farmaceutico,1927,LIMA REGION,10
+quimico-farmaceutico,1928,LIMA REGION,10.8
+quimico-farmaceutico,1929,LIMA REGION,NA
+quimico-farmaceutico,1930,LIMA REGION,13.2
+quimico-farmaceutico,1931,LIMA REGION,12.8
+quimico-farmaceutico,1932,LIMA REGION,NA
+quimico-farmaceutico,1933,LIMA REGION,8.4
+quimico-farmaceutico,1934,LIMA REGION,NA
+quimico-farmaceutico,1935,LIMA REGION,10.4
+quimico-farmaceutico,1936,LIMA REGION,10.6
+quimico-farmaceutico,1937,LIMA REGION,8.2
+quimico-farmaceutico,1938,LIMA REGION,11.2
+quimico-farmaceutico,1939,LIMA REGION,13
+quimico-farmaceutico,1940,LIMA REGION,10.8
+quimico-farmaceutico,1941,LIMA REGION,10.2
+quimico-farmaceutico,1942,LIMA REGION,9.4
+quimico-farmaceutico,1943,LIMA REGION,11.2
+quimico-farmaceutico,1944,LIMA REGION,NA
+quimico-farmaceutico,1945,LIMA REGION,NA
+quimico-farmaceutico,1946,LIMA REGION,NA
+quimico-farmaceutico,1947,LIMA REGION,NA
+quimico-farmaceutico,1948,LIMA REGION,NA
+quimico-farmaceutico,1949,LIMA REGION,7.6
+quimico-farmaceutico,1950,LIMA REGION,10.6
+quimico-farmaceutico,1951,LIMA REGION,10.6
+quimico-farmaceutico,1952,LIMA REGION,10.4
+quimico-farmaceutico,1953,LIMA REGION,NA
+quimico-farmaceutico,1954,LIMA REGION,8.2
+quimico-farmaceutico,1955,LIMA REGION,NA
+quimico-farmaceutico,1956,LIMA REGION,11
+quimico-farmaceutico,1957,LIMA REGION,7.8
+quimico-farmaceutico,1958,LIMA REGION,7.8
+quimico-farmaceutico,1959,LIMA REGION,6.8
+quimico-farmaceutico,1960,LIMA REGION,13.2
+quimico-farmaceutico,1961,LIMA REGION,NA
+quimico-farmaceutico,1962,LIMA REGION,7.6
+quimico-farmaceutico,1963,LIMA REGION,7.4
+quimico-farmaceutico,1964,LIMA REGION,8.2
+quimico-farmaceutico,1965,LIMA REGION,11
+quimico-farmaceutico,1966,LIMA REGION,NA
+quimico-farmaceutico,1967,LIMA REGION,7.8
+quimico-farmaceutico,1968,LIMA REGION,12.2
+quimico-farmaceutico,1969,LIMA REGION,10.8
+quimico-farmaceutico,1970,LIMA REGION,10.4
+quimico-farmaceutico,1971,LIMA REGION,NA
+quimico-farmaceutico,1972,LIMA REGION,NA
+quimico-farmaceutico,1973,LIMA REGION,10.8
+quimico-farmaceutico,1974,LIMA REGION,8.8
+quimico-farmaceutico,1975,LIMA REGION,11.2
+quimico-farmaceutico,1976,LIMA REGION,8.8
+quimico-farmaceutico,1977,LIMA REGION,7.2
+quimico-farmaceutico,1978,LIMA REGION,10
+quimico-farmaceutico,1979,LIMA REGION,9
+quimico-farmaceutico,1980,LIMA REGION,10.4
+quimico-farmaceutico,1981,LIMA REGION,10.6
+quimico-farmaceutico,1982,LIMA REGION,10.2
+quimico-farmaceutico,1983,LIMA REGION,11.8
+quimico-farmaceutico,1984,LIMA REGION,11.4
+quimico-farmaceutico,1985,LIMA REGION,10.2
+quimico-farmaceutico,1986,LIMA REGION,8
+quimico-farmaceutico,1987,LIMA REGION,9.8
+quimico-farmaceutico,1988,LIMA REGION,NA
+quimico-farmaceutico,1989,LIMA REGION,8.4
+quimico-farmaceutico,1990,LIMA REGION,NA
+quimico-farmaceutico,1991,LIMA REGION,12
+quimico-farmaceutico,1992,LIMA REGION,NA
+quimico-farmaceutico,1993,LIMA REGION,11
+quimico-farmaceutico,1994,LIMA REGION,NA
+quimico-farmaceutico,1995,LIMA REGION,13
+quimico-farmaceutico,1996,LIMA REGION,NA
+quimico-farmaceutico,1997,LIMA REGION,12.4
+quimico-farmaceutico,1998,LIMA REGION,NA
+quimico-farmaceutico,1999,LIMA REGION,9.2
+quimico-farmaceutico,2000,LIMA REGION,NA
+quimico-farmaceutico,2001,LIMA REGION,8.6
+quimico-farmaceutico,2002,LIMA REGION,8.8
+quimico-farmaceutico,2003,LIMA REGION,NA
+quimico-farmaceutico,2004,LIMA REGION,8.4
+quimico-farmaceutico,2005,LIMA REGION,12
+quimico-farmaceutico,2006,LIMA REGION,12.4
+quimico-farmaceutico,2007,LIMA REGION,10.4
+quimico-farmaceutico,2008,LIMA REGION,7.4
+quimico-farmaceutico,2009,LIMA REGION,NA
+quimico-farmaceutico,2010,LIMA REGION,NA
+quimico-farmaceutico,2011,LIMA REGION,NA
+quimico-farmaceutico,2012,LIMA REGION,11
+quimico-farmaceutico,2013,LIMA REGION,NA
+quimico-farmaceutico,2014,LIMA REGION,9.6
+quimico-farmaceutico,2015,LIMA REGION,8.4
+quimico-farmaceutico,2016,LIMA REGION,7.4
+quimico-farmaceutico,2017,LIMA REGION,9.4
+quimico-farmaceutico,2018,LIMA REGION,9.6
+quimico-farmaceutico,2019,LIMA REGION,NA
+quimico-farmaceutico,2020,LIMA REGION,11
+quimico-farmaceutico,2021,LIMA REGION,10.4
+quimico-farmaceutico,2022,LIMA REGION,9
+quimico-farmaceutico,2023,LIMA REGION,NA
+quimico-farmaceutico,2024,LIMA REGION,11.2
+quimico-farmaceutico,2025,LIMA REGION,12.2
+quimico-farmaceutico,2026,LIMA REGION,9
+quimico-farmaceutico,2027,LIMA REGION,8.8
+quimico-farmaceutico,2028,LIMA REGION,13
+quimico-farmaceutico,2029,LIMA REGION,10.6
+quimico-farmaceutico,2030,LIMA REGION,NA
+quimico-farmaceutico,2031,LIMA REGION,10.2
+quimico-farmaceutico,2032,LIMA REGION,6.6
+quimico-farmaceutico,2033,LIMA REGION,10.4
+quimico-farmaceutico,2034,LIMA REGION,10.6
+quimico-farmaceutico,2035,LIMA REGION,9.2
+quimico-farmaceutico,2036,LIMA REGION,12.4
+quimico-farmaceutico,2037,LIMA REGION,NA
+quimico-farmaceutico,2038,LIMA REGION,NA
+quimico-farmaceutico,2039,LIMA REGION,NA
+quimico-farmaceutico,2040,LIMA REGION,10
+quimico-farmaceutico,2041,LIMA SUR,10.8
+quimico-farmaceutico,2042,LIMA SUR,NA
+quimico-farmaceutico,2043,LIMA SUR,10.8
+quimico-farmaceutico,2044,LIMA SUR,NA
+quimico-farmaceutico,2045,LIMA SUR,12.6
+quimico-farmaceutico,2046,LIMA SUR,7.8
+quimico-farmaceutico,2047,LIMA SUR,11.4
+quimico-farmaceutico,2048,LIMA SUR,11.2
+quimico-farmaceutico,2049,LIMA SUR,9.6
+quimico-farmaceutico,2050,LIMA SUR,9.6
+quimico-farmaceutico,2051,LIMA SUR,7.8
+quimico-farmaceutico,2052,LIMA SUR,10.4
+quimico-farmaceutico,2053,LIMA SUR,7.4
+quimico-farmaceutico,2054,LIMA SUR,8.6
+quimico-farmaceutico,2055,LIMA SUR,9
+quimico-farmaceutico,2056,LIMA SUR,7.4
+quimico-farmaceutico,2057,LIMA SUR,10.6
+quimico-farmaceutico,2058,LIMA SUR,12.8
+quimico-farmaceutico,2059,LIMA SUR,9.4
+quimico-farmaceutico,2060,LIMA SUR,10.8
+quimico-farmaceutico,2061,LIMA SUR,8.4
+quimico-farmaceutico,2062,LIMA SUR,11.6
+quimico-farmaceutico,2063,LIMA SUR,7.6
+quimico-farmaceutico,2064,LIMA SUR,8.2
+quimico-farmaceutico,2065,LIMA SUR,8.8
+quimico-farmaceutico,2066,LIMA SUR,NA
+quimico-farmaceutico,2067,LIMA SUR,8.8
+quimico-farmaceutico,2068,LIMA SUR,NA
+quimico-farmaceutico,2069,LIMA SUR,13.4
+quimico-farmaceutico,2070,LIMA SUR,9.6
+quimico-farmaceutico,2071,LIMA SUR,11.4
+quimico-farmaceutico,2072,LIMA SUR,9.6
+quimico-farmaceutico,2073,LIMA SUR,8.2
+quimico-farmaceutico,2074,LIMA SUR,9
+quimico-farmaceutico,2075,LIMA SUR,NA
+quimico-farmaceutico,2076,LIMA SUR,NA
+quimico-farmaceutico,2077,LIMA SUR,7.2
+quimico-farmaceutico,2078,LIMA SUR,NA
+quimico-farmaceutico,2079,LIMA SUR,10.4
+quimico-farmaceutico,2080,LIMA SUR,7.2
+quimico-farmaceutico,2081,LIMA SUR,10
+quimico-farmaceutico,2082,LIMA SUR,11.2
+quimico-farmaceutico,2083,LIMA SUR,12
+quimico-farmaceutico,2084,LIMA SUR,11
+quimico-farmaceutico,2085,LIMA SUR,NA
+quimico-farmaceutico,2086,LIMA SUR,13
+quimico-farmaceutico,2087,LIMA SUR,NA
+quimico-farmaceutico,2088,LIMA SUR,NA
+quimico-farmaceutico,2089,LIMA SUR,NA
+quimico-farmaceutico,2090,LIMA SUR,10.6
+quimico-farmaceutico,2091,LIMA SUR,9.4
+quimico-farmaceutico,2092,LIMA SUR,NA
+quimico-farmaceutico,2093,LIMA SUR,NA
+quimico-farmaceutico,2094,LIMA SUR,12
+quimico-farmaceutico,2095,LIMA SUR,NA
+quimico-farmaceutico,2096,LIMA SUR,10.6
+quimico-farmaceutico,2097,LIMA SUR,9
+quimico-farmaceutico,2098,LIMA SUR,NA
+quimico-farmaceutico,2099,LIMA SUR,12.2
+quimico-farmaceutico,2100,LIMA SUR,12.4
+quimico-farmaceutico,2101,LIMA SUR,8.8
+quimico-farmaceutico,2102,LIMA SUR,8.6
+quimico-farmaceutico,2103,LIMA SUR,NA
+quimico-farmaceutico,2104,LIMA SUR,9.8
+quimico-farmaceutico,2105,LIMA SUR,10
+quimico-farmaceutico,2106,LIMA SUR,NA
+quimico-farmaceutico,2107,LIMA SUR,NA
+quimico-farmaceutico,2108,LIMA SUR,10.4
+quimico-farmaceutico,2109,LIMA SUR,10
+quimico-farmaceutico,2110,LIMA SUR,9.4
+quimico-farmaceutico,2111,LIMA SUR,9.8
+quimico-farmaceutico,2112,LIMA SUR,NA
+quimico-farmaceutico,2113,LIMA SUR,NA
+quimico-farmaceutico,2114,LIMA SUR,8.4
+quimico-farmaceutico,2115,LIMA SUR,NA
+quimico-farmaceutico,2116,LIMA SUR,10.8
+quimico-farmaceutico,2117,LIMA SUR,9.4
+quimico-farmaceutico,2118,LIMA SUR,10
+quimico-farmaceutico,2119,LIMA SUR,7.8
+quimico-farmaceutico,2120,LIMA SUR,NA
+quimico-farmaceutico,2121,LIMA SUR,9.2
+quimico-farmaceutico,2122,LIMA SUR,11.2
+quimico-farmaceutico,2123,LIMA SUR,9.2
+quimico-farmaceutico,2124,LIMA SUR,7.8
+quimico-farmaceutico,2125,LIMA SUR,11
+quimico-farmaceutico,2126,LIMA SUR,9.6
+quimico-farmaceutico,2127,LIMA SUR,10.4
+quimico-farmaceutico,2128,LIMA SUR,8
+quimico-farmaceutico,2129,LIMA SUR,12.2
+quimico-farmaceutico,2130,LIMA SUR,9.2
+quimico-farmaceutico,2131,LIMA SUR,12.2
+quimico-farmaceutico,2132,LIMA SUR,8.8
+quimico-farmaceutico,2133,LIMA SUR,13.8
+quimico-farmaceutico,2134,LIMA SUR,7.4
+quimico-farmaceutico,2135,LIMA SUR,8.8
+quimico-farmaceutico,2136,LIMA SUR,NA
+quimico-farmaceutico,2137,LIMA SUR,11.6
+quimico-farmaceutico,2138,LIMA SUR,10.6
+quimico-farmaceutico,2139,LIMA SUR,12.4
+quimico-farmaceutico,2140,LIMA SUR,9.4
+quimico-farmaceutico,2141,LIMA SUR,NA
+quimico-farmaceutico,2142,LIMA SUR,8.8
+quimico-farmaceutico,2143,LIMA SUR,9
+quimico-farmaceutico,2144,LIMA SUR,11.2
+quimico-farmaceutico,2145,LIMA SUR,9.8
+quimico-farmaceutico,2146,LIMA SUR,8.8
+quimico-farmaceutico,2147,LIMA SUR,9
+quimico-farmaceutico,2148,LIMA SUR,NA
+quimico-farmaceutico,2149,LIMA SUR,10
+quimico-farmaceutico,2150,LIMA SUR,NA
+quimico-farmaceutico,2151,LIMA SUR,NA
+quimico-farmaceutico,2152,LIMA SUR,NA
+quimico-farmaceutico,2153,LIMA SUR,NA
+quimico-farmaceutico,2154,LIMA SUR,12.4
+quimico-farmaceutico,2155,LIMA SUR,NA
+quimico-farmaceutico,2156,LIMA SUR,NA
+quimico-farmaceutico,2157,LIMA SUR,9.2
+quimico-farmaceutico,2158,LIMA SUR,11.2
+quimico-farmaceutico,2159,LIMA SUR,NA
+quimico-farmaceutico,2160,LIMA SUR,NA
+quimico-farmaceutico,2161,LIMA SUR,NA
+quimico-farmaceutico,2162,LIMA SUR,10.2
+quimico-farmaceutico,2163,LIMA SUR,9
+quimico-farmaceutico,2164,LIMA SUR,10
+quimico-farmaceutico,2165,LIMA SUR,9.6
+quimico-farmaceutico,2166,LIMA SUR,10.2
+quimico-farmaceutico,2167,LIMA SUR,9.6
+quimico-farmaceutico,2168,LIMA SUR,9.4
+quimico-farmaceutico,2169,LIMA SUR,NA
+quimico-farmaceutico,2170,LIMA SUR,10
+quimico-farmaceutico,2171,LIMA SUR,NA
+quimico-farmaceutico,2172,LIMA SUR,9.4
+quimico-farmaceutico,2173,LIMA SUR,8.6
+quimico-farmaceutico,2174,LIMA SUR,8.4
+quimico-farmaceutico,2175,LIMA SUR,11
+quimico-farmaceutico,2176,LIMA SUR,NA
+quimico-farmaceutico,2177,LIMA SUR,12.2
+quimico-farmaceutico,2178,LIMA SUR,NA
+quimico-farmaceutico,2179,LIMA SUR,9.8
+quimico-farmaceutico,2180,LIMA SUR,7.8
+quimico-farmaceutico,2181,LIMA SUR,13.6
+quimico-farmaceutico,2182,LIMA SUR,9.4
+quimico-farmaceutico,2183,LIMA SUR,NA
+quimico-farmaceutico,2184,LIMA SUR,11.6
+quimico-farmaceutico,2185,LIMA SUR,8.2
+quimico-farmaceutico,2186,LIMA SUR,NA
+quimico-farmaceutico,2187,LIMA SUR,5.6
+quimico-farmaceutico,2188,LIMA SUR,9
+quimico-farmaceutico,2189,LIMA SUR,9.6
+quimico-farmaceutico,2190,LIMA SUR,9.4
+quimico-farmaceutico,2191,LIMA SUR,7.2
+quimico-farmaceutico,2192,LIMA SUR,10.6
+quimico-farmaceutico,2193,LIMA SUR,11.2
+quimico-farmaceutico,2194,LIMA SUR,7
+quimico-farmaceutico,2195,LIMA SUR,5.8
+quimico-farmaceutico,2196,LIMA SUR,10.8
+quimico-farmaceutico,2197,LIMA SUR,9.6
+quimico-farmaceutico,2198,LIMA SUR,7.2
+quimico-farmaceutico,2199,LIMA SUR,11.4
+quimico-farmaceutico,2200,LIMA SUR,11.2
+quimico-farmaceutico,2201,LIMA SUR,NA
+quimico-farmaceutico,2202,LIMA SUR,10.2
+quimico-farmaceutico,2203,LIMA SUR,9.8
+quimico-farmaceutico,2204,LIMA SUR,7.8
+quimico-farmaceutico,2205,LIMA SUR,11
+quimico-farmaceutico,2206,LIMA SUR,10.2
+quimico-farmaceutico,2207,LIMA SUR,NA
+quimico-farmaceutico,2208,LIMA SUR,NA
+quimico-farmaceutico,2209,LIMA SUR,8.8
+quimico-farmaceutico,2210,LIMA SUR,NA
+quimico-farmaceutico,2211,LIMA SUR,8.4
+quimico-farmaceutico,2212,LIMA SUR,NA
+quimico-farmaceutico,2213,LIMA SUR,10.4
+quimico-farmaceutico,2214,LIMA SUR,9
+quimico-farmaceutico,2215,LIMA SUR,9.2
+quimico-farmaceutico,2216,LIMA SUR,NA
+quimico-farmaceutico,2217,LIMA SUR,NA
+quimico-farmaceutico,2218,LIMA SUR,11.6
+quimico-farmaceutico,2219,LIMA SUR,8
+quimico-farmaceutico,2220,LIMA SUR,12.2
+quimico-farmaceutico,2221,LIMA SUR,12.2
+quimico-farmaceutico,2222,LIMA SUR,NA
+quimico-farmaceutico,2223,LIMA SUR,NA
+quimico-farmaceutico,2224,LIMA SUR,10
+quimico-farmaceutico,2225,LIMA SUR,12.2
+quimico-farmaceutico,2226,LIMA SUR,6.8
+quimico-farmaceutico,2227,LIMA SUR,NA
+quimico-farmaceutico,2228,LIMA SUR,9.2
+quimico-farmaceutico,2229,LIMA SUR,10
+quimico-farmaceutico,2230,LIMA SUR,NA
+quimico-farmaceutico,2231,LIMA SUR,10.8
+quimico-farmaceutico,2232,LIMA SUR,9
+quimico-farmaceutico,2233,LIMA SUR,7.8
+quimico-farmaceutico,2234,LIMA SUR,9
+quimico-farmaceutico,2235,LIMA SUR,8.8
+quimico-farmaceutico,2236,LIMA SUR,NA
+quimico-farmaceutico,2237,LIMA SUR,8.2
+quimico-farmaceutico,2238,LIMA SUR,NA
+quimico-farmaceutico,2239,LIMA SUR,9.8
+quimico-farmaceutico,2240,LIMA SUR,9.2
+quimico-farmaceutico,2241,LIMA SUR,NA
+quimico-farmaceutico,2242,LIMA SUR,NA
+quimico-farmaceutico,2243,LIMA SUR,10.8
+quimico-farmaceutico,2244,LIMA SUR,12.6
+quimico-farmaceutico,2245,LIMA SUR,10.8
+quimico-farmaceutico,2246,LIMA SUR,10.2
+quimico-farmaceutico,2247,LIMA SUR,11.4
+quimico-farmaceutico,2248,LIMA SUR,11
+quimico-farmaceutico,2249,LIMA SUR,8.4
+quimico-farmaceutico,2250,LIMA SUR,NA
+quimico-farmaceutico,2251,LIMA SUR,10.4
+quimico-farmaceutico,2252,LIMA SUR,10.8
+quimico-farmaceutico,2253,LIMA SUR,9
+quimico-farmaceutico,2254,LIMA SUR,8
+quimico-farmaceutico,2255,LIMA SUR,NA
+quimico-farmaceutico,2256,LIMA SUR,NA
+quimico-farmaceutico,2257,LIMA SUR,12.4
+quimico-farmaceutico,2258,LIMA SUR,10
+quimico-farmaceutico,2259,LIMA SUR,10
+quimico-farmaceutico,2260,LIMA SUR,7.2
+quimico-farmaceutico,2261,LIMA SUR,8.6
+quimico-farmaceutico,2262,LIMA SUR,NA
+quimico-farmaceutico,2263,LIMA SUR,11.6
+quimico-farmaceutico,2264,LIMA SUR,10.2
+quimico-farmaceutico,2265,LIMA SUR,9.4
+quimico-farmaceutico,2266,LIMA SUR,9
+quimico-farmaceutico,2267,LIMA SUR,7.8
+quimico-farmaceutico,2268,LIMA SUR,NA
+quimico-farmaceutico,2269,LIMA SUR,NA
+quimico-farmaceutico,2270,LIMA SUR,9.6
+quimico-farmaceutico,2271,LIMA SUR,10
+quimico-farmaceutico,2272,LIMA SUR,12.8
+quimico-farmaceutico,2273,LIMA SUR,NA
+quimico-farmaceutico,2274,LIMA SUR,NA
+quimico-farmaceutico,2275,LIMA SUR,13.8
+quimico-farmaceutico,2276,LIMA SUR,NA
+quimico-farmaceutico,2277,LIMA SUR,NA
+quimico-farmaceutico,2278,LIMA SUR,9.2
+quimico-farmaceutico,2279,LIMA SUR,12.4
+quimico-farmaceutico,2280,LIMA SUR,10.2
+quimico-farmaceutico,2281,LIMA SUR,NA
+quimico-farmaceutico,2282,LIMA SUR,12
+quimico-farmaceutico,2283,LIMA SUR,10
+quimico-farmaceutico,2284,LIMA SUR,9
+quimico-farmaceutico,2285,LIMA SUR,7.2
+quimico-farmaceutico,2286,LIMA SUR,8.8
+quimico-farmaceutico,2287,LIMA SUR,8
+quimico-farmaceutico,2288,LIMA SUR,NA
+quimico-farmaceutico,2289,LIMA SUR,NA
+quimico-farmaceutico,2290,LIMA SUR,11.4
+quimico-farmaceutico,2291,LIMA SUR,11
+quimico-farmaceutico,2292,LIMA SUR,8.2
+quimico-farmaceutico,2293,LIMA SUR,8
+quimico-farmaceutico,2294,LIMA SUR,6.4
+quimico-farmaceutico,2295,LIMA SUR,13
+quimico-farmaceutico,2296,LIMA SUR,NA
+quimico-farmaceutico,2297,LIMA SUR,NA
+quimico-farmaceutico,2298,LIMA SUR,8.8
+quimico-farmaceutico,2299,LIMA SUR,13.4
+quimico-farmaceutico,2300,LIMA SUR,12
+quimico-farmaceutico,2301,LIMA SUR,NA
+quimico-farmaceutico,2302,LIMA SUR,10.8
+quimico-farmaceutico,2303,LIMA SUR,10.4
+quimico-farmaceutico,2304,LIMA SUR,12.2
+quimico-farmaceutico,2305,LIMA SUR,NA
+quimico-farmaceutico,2306,LIMA SUR,7.8
+quimico-farmaceutico,2307,LIMA SUR,12.4
+quimico-farmaceutico,2308,LIMA SUR,11
+quimico-farmaceutico,2309,LIMA SUR,10.8
+quimico-farmaceutico,2310,LIMA SUR,12.4
+quimico-farmaceutico,2311,LIMA SUR,11.8
+quimico-farmaceutico,2312,LIMA SUR,8.8
+quimico-farmaceutico,2313,LIMA SUR,8.2
+quimico-farmaceutico,2314,LIMA SUR,NA
+quimico-farmaceutico,2315,LIMA SUR,12
+quimico-farmaceutico,2316,LIMA SUR,10.4
+quimico-farmaceutico,2317,LIMA SUR,NA
+quimico-farmaceutico,2318,LIMA SUR,8.6
+quimico-farmaceutico,2319,LIMA SUR,NA
+quimico-farmaceutico,2320,LIMA SUR,10.2
+quimico-farmaceutico,2321,LIMA SUR,12.2
+quimico-farmaceutico,2322,LIMA SUR,5.2
+quimico-farmaceutico,2323,LIMA SUR,10.4
+quimico-farmaceutico,2324,LIMA SUR,11
+quimico-farmaceutico,2325,LIMA SUR,11
+quimico-farmaceutico,2326,LIMA SUR,10.6
+quimico-farmaceutico,2327,LIMA SUR,10.6
+quimico-farmaceutico,2328,LIMA SUR,11.2
+quimico-farmaceutico,2329,LIMA SUR,11.2
+quimico-farmaceutico,2330,LIMA SUR,12.6
+quimico-farmaceutico,2331,LIMA SUR,10.4
+quimico-farmaceutico,2332,LIMA SUR,12.4
+quimico-farmaceutico,2333,LIMA SUR,9
+quimico-farmaceutico,2334,LIMA SUR,NA
+quimico-farmaceutico,2335,LIMA SUR,8.4
+quimico-farmaceutico,2336,LIMA SUR,8.6
+quimico-farmaceutico,2337,LIMA SUR,12.2
+quimico-farmaceutico,2338,LIMA SUR,NA
+quimico-farmaceutico,2339,LIMA SUR,8.2
+quimico-farmaceutico,2340,LIMA SUR,8
+quimico-farmaceutico,2341,LIMA SUR,11.6
+quimico-farmaceutico,2342,LIMA SUR,NA
+quimico-farmaceutico,2343,LIMA SUR,9.6
+quimico-farmaceutico,2344,LIMA SUR,12.2
+quimico-farmaceutico,2345,LIMA SUR,10.8
+quimico-farmaceutico,2346,LIMA SUR,8.6
+quimico-farmaceutico,2347,LIMA SUR,12.2
+quimico-farmaceutico,2348,LIMA SUR,NA
+quimico-farmaceutico,2349,LIMA SUR,13.2
+quimico-farmaceutico,2350,LIMA SUR,13.2
+quimico-farmaceutico,2351,LIMA SUR,12.6
+quimico-farmaceutico,2352,LIMA SUR,10.2
+quimico-farmaceutico,2353,LIMA SUR,7
+quimico-farmaceutico,2354,LIMA SUR,9.4
+quimico-farmaceutico,2355,LIMA SUR,NA
+quimico-farmaceutico,2356,LIMA SUR,7.8
+quimico-farmaceutico,2357,LIMA SUR,NA
+quimico-farmaceutico,2358,LIMA SUR,NA
+quimico-farmaceutico,2359,LIMA SUR,10
+quimico-farmaceutico,2360,LIMA SUR,9.8
+quimico-farmaceutico,2361,LIMA SUR,10.8
+quimico-farmaceutico,2362,LIMA SUR,8.4
+quimico-farmaceutico,2363,LIMA SUR,9
+quimico-farmaceutico,2364,LIMA SUR,10
+quimico-farmaceutico,2365,LIMA SUR,NA
+quimico-farmaceutico,2366,LIMA SUR,6.6
+quimico-farmaceutico,2367,LIMA SUR,7.2
+quimico-farmaceutico,2368,LIMA SUR,13.6
+quimico-farmaceutico,2369,LIMA SUR,8
+quimico-farmaceutico,2370,LIMA SUR,10.4
+quimico-farmaceutico,2371,LIMA SUR,9.2
+quimico-farmaceutico,2372,LIMA SUR,9.8
+quimico-farmaceutico,2373,LIMA SUR,10.2
+quimico-farmaceutico,2374,LIMA SUR,8.6
+quimico-farmaceutico,2375,LIMA SUR,11.8
+quimico-farmaceutico,2376,LIMA SUR,11.2
+quimico-farmaceutico,2377,LIMA SUR,10.6
+quimico-farmaceutico,2378,LIMA SUR,7.8
+quimico-farmaceutico,2379,LIMA SUR,13.6
+quimico-farmaceutico,2380,LIMA SUR,9.8
+quimico-farmaceutico,2381,LIMA SUR,9.6
+quimico-farmaceutico,2382,LIMA SUR,NA
+quimico-farmaceutico,2383,LIMA SUR,9.8
+quimico-farmaceutico,2384,LIMA SUR,8.4
+quimico-farmaceutico,2385,LIMA SUR,9.8
+quimico-farmaceutico,2386,LIMA SUR,6.4
+quimico-farmaceutico,2387,LIMA SUR,11.8
+quimico-farmaceutico,2388,LIMA SUR,10.4
+quimico-farmaceutico,2389,LIMA SUR,12
+quimico-farmaceutico,2390,LIMA SUR,11.6
+quimico-farmaceutico,2391,LIMA SUR,NA
+quimico-farmaceutico,2392,LIMA SUR,11.6
+quimico-farmaceutico,2393,LIMA SUR,9.8
+quimico-farmaceutico,2394,LIMA SUR,10.2
+quimico-farmaceutico,2395,LIMA SUR,13.6
+quimico-farmaceutico,2396,LIMA SUR,11
+quimico-farmaceutico,2397,LIMA SUR,8.2
+quimico-farmaceutico,2398,LIMA SUR,NA
+quimico-farmaceutico,2399,LIMA SUR,NA
+quimico-farmaceutico,2400,LIMA SUR,8.2
+quimico-farmaceutico,2401,LIMA SUR,9.8
+quimico-farmaceutico,2402,LIMA SUR,NA
+quimico-farmaceutico,2403,LIMA SUR,10.2
+quimico-farmaceutico,2404,LORETO,9.6
+quimico-farmaceutico,2405,LORETO,9.2
+quimico-farmaceutico,2406,LORETO,7.4
+quimico-farmaceutico,2407,LORETO,7
+quimico-farmaceutico,2408,LORETO,11.2
+quimico-farmaceutico,2409,LORETO,8.8
+quimico-farmaceutico,2410,LORETO,8
+quimico-farmaceutico,2411,LORETO,10.8
+quimico-farmaceutico,2412,LORETO,6.6
+quimico-farmaceutico,2413,LORETO,9.4
+quimico-farmaceutico,2414,LORETO,10.2
+quimico-farmaceutico,2415,LORETO,8.2
+quimico-farmaceutico,2416,LORETO,9.2
+quimico-farmaceutico,2417,LORETO,8
+quimico-farmaceutico,2418,LORETO,9.6
+quimico-farmaceutico,2419,LORETO,11
+quimico-farmaceutico,2420,LORETO,8.2
+quimico-farmaceutico,2421,LORETO,10.2
+quimico-farmaceutico,2422,LORETO,9.8
+quimico-farmaceutico,2423,LORETO,12
+quimico-farmaceutico,2424,LORETO,12.6
+quimico-farmaceutico,2425,LORETO,10
+quimico-farmaceutico,2426,LORETO,9
+quimico-farmaceutico,2427,LORETO,10.2
+quimico-farmaceutico,2428,LORETO,12
+quimico-farmaceutico,2429,LORETO,10
+quimico-farmaceutico,2430,MADRE DE DIOS,10
+quimico-farmaceutico,2431,MADRE DE DIOS,8.4
+quimico-farmaceutico,2432,MADRE DE DIOS,9
+quimico-farmaceutico,2433,MADRE DE DIOS,5.4
+quimico-farmaceutico,2434,MADRE DE DIOS,11
+quimico-farmaceutico,2435,MADRE DE DIOS,7.6
+quimico-farmaceutico,2436,MADRE DE DIOS,7.8
+quimico-farmaceutico,2437,MADRE DE DIOS,7.6
+quimico-farmaceutico,2438,MADRE DE DIOS,9.4
+quimico-farmaceutico,2439,MADRE DE DIOS,6.6
+quimico-farmaceutico,2440,MADRE DE DIOS,8.4
+quimico-farmaceutico,2441,MADRE DE DIOS,11
+quimico-farmaceutico,2442,MADRE DE DIOS,9.2
+quimico-farmaceutico,2443,MADRE DE DIOS,NA
+quimico-farmaceutico,2444,MADRE DE DIOS,9.6
+quimico-farmaceutico,2445,MADRE DE DIOS,NA
+quimico-farmaceutico,2446,MADRE DE DIOS,8.8
+quimico-farmaceutico,2447,MOQUEGUA,8.2
+quimico-farmaceutico,2448,MOQUEGUA,9.8
+quimico-farmaceutico,2449,MOQUEGUA,9.6
+quimico-farmaceutico,2450,MOQUEGUA,9.6
+quimico-farmaceutico,2451,MOQUEGUA,9.2
+quimico-farmaceutico,2452,MOQUEGUA,11
+quimico-farmaceutico,2453,PASCO,9
+quimico-farmaceutico,2454,PASCO,9
+quimico-farmaceutico,2455,PASCO,10.8
+quimico-farmaceutico,2456,PASCO,7.4
+quimico-farmaceutico,2457,PASCO,7.2
+quimico-farmaceutico,2458,PASCO,NA
+quimico-farmaceutico,2459,PASCO,10
+quimico-farmaceutico,2460,PASCO,8
+quimico-farmaceutico,2461,PASCO,9.8
+quimico-farmaceutico,2462,PASCO,11.4
+quimico-farmaceutico,2463,PASCO,12
+quimico-farmaceutico,2464,PASCO,8.6
+quimico-farmaceutico,2465,PASCO,11
+quimico-farmaceutico,2466,PIURA,9.2
+quimico-farmaceutico,2467,PIURA,6.4
+quimico-farmaceutico,2468,PIURA,9.8
+quimico-farmaceutico,2469,PIURA,NA
+quimico-farmaceutico,2470,PIURA,8.6
+quimico-farmaceutico,2471,PIURA,10
+quimico-farmaceutico,2472,PIURA,11.6
+quimico-farmaceutico,2473,PIURA,9.4
+quimico-farmaceutico,2474,PIURA,7.6
+quimico-farmaceutico,2475,PIURA,8.4
+quimico-farmaceutico,2476,PIURA,7.6
+quimico-farmaceutico,2477,PIURA,12.2
+quimico-farmaceutico,2478,PIURA,5
+quimico-farmaceutico,2479,PIURA,8.4
+quimico-farmaceutico,2480,PIURA,7
+quimico-farmaceutico,2481,PIURA,10.2
+quimico-farmaceutico,2482,PIURA,9.8
+quimico-farmaceutico,2483,PIURA,9.8
+quimico-farmaceutico,2484,PIURA,9.8
+quimico-farmaceutico,2485,PIURA,9.8
+quimico-farmaceutico,2486,PIURA,5
+quimico-farmaceutico,2487,PIURA,14
+quimico-farmaceutico,2488,PIURA,9.8
+quimico-farmaceutico,2489,PIURA,10.6
+quimico-farmaceutico,2490,PIURA,8.4
+quimico-farmaceutico,2491,PIURA,9
+quimico-farmaceutico,2492,PIURA,7.4
+quimico-farmaceutico,2493,PIURA,8.8
+quimico-farmaceutico,2494,PIURA,10.8
+quimico-farmaceutico,2495,PIURA,8.6
+quimico-farmaceutico,2496,PIURA,8.8
+quimico-farmaceutico,2497,PIURA,NA
+quimico-farmaceutico,2498,PIURA,9.2
+quimico-farmaceutico,2499,PIURA,9.6
+quimico-farmaceutico,2500,PIURA,8.4
+quimico-farmaceutico,2501,PIURA,NA
+quimico-farmaceutico,2502,PIURA,6.8
+quimico-farmaceutico,2503,PIURA,9.2
+quimico-farmaceutico,2504,PIURA,11.4
+quimico-farmaceutico,2505,PIURA,12.4
+quimico-farmaceutico,2506,PIURA,NA
+quimico-farmaceutico,2507,PIURA,NA
+quimico-farmaceutico,2508,PIURA,10.8
+quimico-farmaceutico,2509,PIURA,9.8
+quimico-farmaceutico,2510,PIURA,6.2
+quimico-farmaceutico,2511,PIURA,8.8
+quimico-farmaceutico,2512,PIURA,7
+quimico-farmaceutico,2513,PIURA,10.8
+quimico-farmaceutico,2514,PIURA,8.6
+quimico-farmaceutico,2515,PIURA,9.2
+quimico-farmaceutico,2516,PIURA,10.4
+quimico-farmaceutico,2517,PIURA,6.6
+quimico-farmaceutico,2518,PIURA,10.6
+quimico-farmaceutico,2519,PIURA,10.2
+quimico-farmaceutico,2520,PIURA,10.4
+quimico-farmaceutico,2521,PIURA,9.2
+quimico-farmaceutico,2522,PIURA,9.2
+quimico-farmaceutico,2523,PIURA,7.8
+quimico-farmaceutico,2524,PIURA,NA
+quimico-farmaceutico,2525,PIURA,11.4
+quimico-farmaceutico,2526,PIURA,9.2
+quimico-farmaceutico,2527,PIURA,7.6
+quimico-farmaceutico,2528,PIURA,10
+quimico-farmaceutico,2529,PIURA,9
+quimico-farmaceutico,2530,PIURA,NA
+quimico-farmaceutico,2531,PIURA,10
+quimico-farmaceutico,2532,PIURA,8
+quimico-farmaceutico,2533,PIURA,10.4
+quimico-farmaceutico,2534,PIURA,9.4
+quimico-farmaceutico,2535,PIURA,9
+quimico-farmaceutico,2536,PIURA,9.2
+quimico-farmaceutico,2537,PIURA,11
+quimico-farmaceutico,2538,PIURA,11.4
+quimico-farmaceutico,2539,PIURA,11
+quimico-farmaceutico,2540,PIURA,10.4
+quimico-farmaceutico,2541,PIURA,7.6
+quimico-farmaceutico,2542,PIURA,10.6
+quimico-farmaceutico,2543,PIURA,6.8
+quimico-farmaceutico,2544,PIURA,NA
+quimico-farmaceutico,2545,PIURA,10.2
+quimico-farmaceutico,2546,PIURA,NA
+quimico-farmaceutico,2547,PIURA,12.8
+quimico-farmaceutico,2548,PIURA,NA
+quimico-farmaceutico,2549,PIURA,7.8
+quimico-farmaceutico,2550,PIURA,9.4
+quimico-farmaceutico,2551,PIURA,9.8
+quimico-farmaceutico,2552,PIURA,10.2
+quimico-farmaceutico,2553,PIURA,10.4
+quimico-farmaceutico,2554,PIURA,8.4
+quimico-farmaceutico,2555,PIURA,8
+quimico-farmaceutico,2556,PIURA,10.6
+quimico-farmaceutico,2557,PIURA,10.6
+quimico-farmaceutico,2558,PIURA,11.8
+quimico-farmaceutico,2559,PIURA,8.2
+quimico-farmaceutico,2560,PIURA,6.6
+quimico-farmaceutico,2561,PIURA,10.2
+quimico-farmaceutico,2562,PIURA,10.4
+quimico-farmaceutico,2563,PIURA,10.6
+quimico-farmaceutico,2564,PIURA,9.2
+quimico-farmaceutico,2565,PUNO,8.6
+quimico-farmaceutico,2566,PUNO,9.2
+quimico-farmaceutico,2567,PUNO,12
+quimico-farmaceutico,2568,PUNO,8
+quimico-farmaceutico,2569,PUNO,9.2
+quimico-farmaceutico,2570,PUNO,8.4
+quimico-farmaceutico,2571,PUNO,7.8
+quimico-farmaceutico,2572,PUNO,11.2
+quimico-farmaceutico,2573,PUNO,NA
+quimico-farmaceutico,2574,PUNO,10.8
+quimico-farmaceutico,2575,PUNO,8.4
+quimico-farmaceutico,2576,PUNO,8.2
+quimico-farmaceutico,2577,PUNO,11.2
+quimico-farmaceutico,2578,PUNO,7.8
+quimico-farmaceutico,2579,PUNO,9.8
+quimico-farmaceutico,2580,PUNO,6.8
+quimico-farmaceutico,2581,PUNO,10.2
+quimico-farmaceutico,2582,PUNO,9.6
+quimico-farmaceutico,2583,PUNO,NA
+quimico-farmaceutico,2584,PUNO,11.4
+quimico-farmaceutico,2585,PUNO,NA
+quimico-farmaceutico,2586,PUNO,8.6
+quimico-farmaceutico,2587,PUNO,5.8
+quimico-farmaceutico,2588,PUNO,NA
+quimico-farmaceutico,2589,PUNO,11
+quimico-farmaceutico,2590,PUNO,NA
+quimico-farmaceutico,2591,PUNO,7.8
+quimico-farmaceutico,2592,PUNO,5.4
+quimico-farmaceutico,2593,PUNO,NA
+quimico-farmaceutico,2594,PUNO,10.6
+quimico-farmaceutico,2595,PUNO,8.4
+quimico-farmaceutico,2596,PUNO,8.8
+quimico-farmaceutico,2597,PUNO,11
+quimico-farmaceutico,2598,PUNO,12
+quimico-farmaceutico,2599,PUNO,7.2
+quimico-farmaceutico,2600,PUNO,8.8
+quimico-farmaceutico,2601,PUNO,7.8
+quimico-farmaceutico,2602,PUNO,8.4
+quimico-farmaceutico,2603,PUNO,7
+quimico-farmaceutico,2604,PUNO,10
+quimico-farmaceutico,2605,PUNO,8.8
+quimico-farmaceutico,2606,PUNO,5.8
+quimico-farmaceutico,2607,PUNO,7
+quimico-farmaceutico,2608,PUNO,10.8
+quimico-farmaceutico,2609,PUNO,NA
+quimico-farmaceutico,2610,PUNO,7
+quimico-farmaceutico,2611,PUNO,10
+quimico-farmaceutico,2612,PUNO,9
+quimico-farmaceutico,2613,PUNO,9.4
+quimico-farmaceutico,2614,PUNO,8.2
+quimico-farmaceutico,2615,PUNO,8
+quimico-farmaceutico,2616,PUNO,11.8
+quimico-farmaceutico,2617,PUNO,8
+quimico-farmaceutico,2618,PUNO,9.4
+quimico-farmaceutico,2619,PUNO,9.8
+quimico-farmaceutico,2620,PUNO,7.6
+quimico-farmaceutico,2621,PUNO,9.2
+quimico-farmaceutico,2622,PUNO,8.4
+quimico-farmaceutico,2623,PUNO,10
+quimico-farmaceutico,2624,PUNO,6
+quimico-farmaceutico,2625,PUNO,10
+quimico-farmaceutico,2626,PUNO,7.4
+quimico-farmaceutico,2627,PUNO,12
+quimico-farmaceutico,2628,PUNO,8.8
+quimico-farmaceutico,2629,PUNO,10.6
+quimico-farmaceutico,2630,PUNO,9.2
+quimico-farmaceutico,2631,PUNO,7.8
+quimico-farmaceutico,2632,PUNO,8.2
+quimico-farmaceutico,2633,PUNO,9
+quimico-farmaceutico,2634,PUNO,8
+quimico-farmaceutico,2635,PUNO,10.4
+quimico-farmaceutico,2636,PUNO,8.6
+quimico-farmaceutico,2637,PUNO,7
+quimico-farmaceutico,2638,PUNO,8.6
+quimico-farmaceutico,2639,PUNO,6.6
+quimico-farmaceutico,2640,PUNO,8.8
+quimico-farmaceutico,2641,PUNO,10.4
+quimico-farmaceutico,2642,PUNO,NA
+quimico-farmaceutico,2643,PUNO,8.4
+quimico-farmaceutico,2644,PUNO,11.8
+quimico-farmaceutico,2645,PUNO,7.2
+quimico-farmaceutico,2646,PUNO,NA
+quimico-farmaceutico,2647,PUNO,8.2
+quimico-farmaceutico,2648,PUNO,9
+quimico-farmaceutico,2649,PUNO,11
+quimico-farmaceutico,2650,PUNO,NA
+quimico-farmaceutico,2651,PUNO,8.8
+quimico-farmaceutico,2652,PUNO,8.8
+quimico-farmaceutico,2653,PUNO,11.2
+quimico-farmaceutico,2654,PUNO,12.2
+quimico-farmaceutico,2655,PUNO,9
+quimico-farmaceutico,2656,PUNO,10.6
+quimico-farmaceutico,2657,PUNO,10.6
+quimico-farmaceutico,2658,PUNO,8.6
+quimico-farmaceutico,2659,PUNO,9.6
+quimico-farmaceutico,2660,PUNO,NA
+quimico-farmaceutico,2661,PUNO,7.2
+quimico-farmaceutico,2662,PUNO,10.2
+quimico-farmaceutico,2663,PUNO,9.2
+quimico-farmaceutico,2664,PUNO,9.8
+quimico-farmaceutico,2665,PUNO,9.4
+quimico-farmaceutico,2666,PUNO,10
+quimico-farmaceutico,2667,PUNO,7.2
+quimico-farmaceutico,2668,PUNO,9.4
+quimico-farmaceutico,2669,PUNO,8.4
+quimico-farmaceutico,2670,PUNO,10.8
+quimico-farmaceutico,2671,PUNO,8
+quimico-farmaceutico,2672,PUNO,6
+quimico-farmaceutico,2673,PUNO,7.4
+quimico-farmaceutico,2674,PUNO,7.6
+quimico-farmaceutico,2675,PUNO,7.6
+quimico-farmaceutico,2676,PUNO,9.6
+quimico-farmaceutico,2677,PUNO,12.2
+quimico-farmaceutico,2678,PUNO,10.4
+quimico-farmaceutico,2679,PUNO,NA
+quimico-farmaceutico,2680,PUNO,6.8
+quimico-farmaceutico,2681,PUNO,NA
+quimico-farmaceutico,2682,PUNO,7.4
+quimico-farmaceutico,2683,PUNO,10.6
+quimico-farmaceutico,2684,PUNO,7.2
+quimico-farmaceutico,2685,PUNO,10.2
+quimico-farmaceutico,2686,PUNO,10.8
+quimico-farmaceutico,2687,PUNO,NA
+quimico-farmaceutico,2688,PUNO,9.8
+quimico-farmaceutico,2689,PUNO,12.4
+quimico-farmaceutico,2690,PUNO,9.4
+quimico-farmaceutico,2691,PUNO,NA
+quimico-farmaceutico,2692,PUNO,6.8
+quimico-farmaceutico,2693,PUNO,8
+quimico-farmaceutico,2694,PUNO,10.8
+quimico-farmaceutico,2695,PUNO,9.4
+quimico-farmaceutico,2696,PUNO,10.4
+quimico-farmaceutico,2697,PUNO,NA
+quimico-farmaceutico,2698,PUNO,9
+quimico-farmaceutico,2699,PUNO,9.6
+quimico-farmaceutico,2700,PUNO,NA
+quimico-farmaceutico,2701,PUNO,12
+quimico-farmaceutico,2702,PUNO,9.6
+quimico-farmaceutico,2703,PUNO,7.2
+quimico-farmaceutico,2704,PUNO,7.2
+quimico-farmaceutico,2705,PUNO,10.8
+quimico-farmaceutico,2706,PUNO,11.6
+quimico-farmaceutico,2707,PUNO,9.6
+quimico-farmaceutico,2708,PUNO,NA
+quimico-farmaceutico,2709,PUNO,11
+quimico-farmaceutico,2710,PUNO,NA
+quimico-farmaceutico,2711,PUNO,9
+quimico-farmaceutico,2712,PUNO,6.6
+quimico-farmaceutico,2713,PUNO,7.2
+quimico-farmaceutico,2714,PUNO,NA
+quimico-farmaceutico,2715,PUNO,10
+quimico-farmaceutico,2716,PUNO,9.6
+quimico-farmaceutico,2717,PUNO,10
+quimico-farmaceutico,2718,PUNO,11.8
+quimico-farmaceutico,2719,PUNO,9.6
+quimico-farmaceutico,2720,PUNO,11.6
+quimico-farmaceutico,2721,PUNO,8.6
+quimico-farmaceutico,2722,PUNO,NA
+quimico-farmaceutico,2723,PUNO,9.8
+quimico-farmaceutico,2724,PUNO,10.6
+quimico-farmaceutico,2725,PUNO,NA
+quimico-farmaceutico,2726,PUNO,10.4
+quimico-farmaceutico,2727,PUNO,10
+quimico-farmaceutico,2728,PUNO,11.6
+quimico-farmaceutico,2729,PUNO,8
+quimico-farmaceutico,2730,PUNO,8.6
+quimico-farmaceutico,2731,PUNO,9.6
+quimico-farmaceutico,2732,PUNO,7.8
+quimico-farmaceutico,2733,PUNO,7
+quimico-farmaceutico,2734,PUNO,8.8
+quimico-farmaceutico,2735,PUNO,7.2
+quimico-farmaceutico,2736,PUNO,NA
+quimico-farmaceutico,2737,PUNO,9.2
+quimico-farmaceutico,2738,PUNO,NA
+quimico-farmaceutico,2739,PUNO,7.8
+quimico-farmaceutico,2740,PUNO,8
+quimico-farmaceutico,2741,PUNO,8.2
+quimico-farmaceutico,2742,PUNO,8.2
+quimico-farmaceutico,2743,PUNO,10.4
+quimico-farmaceutico,2744,PUNO,10.6
+quimico-farmaceutico,2745,PUNO,11.2
+quimico-farmaceutico,2746,PUNO,11
+quimico-farmaceutico,2747,PUNO,5.8
+quimico-farmaceutico,2748,PUNO,8.2
+quimico-farmaceutico,2749,PUNO,9.4
+quimico-farmaceutico,2750,PUNO,8
+quimico-farmaceutico,2751,PUNO,NA
+quimico-farmaceutico,2752,PUNO,7
+quimico-farmaceutico,2753,PUNO,8.4
+quimico-farmaceutico,2754,PUNO,6.8
+quimico-farmaceutico,2755,PUNO,NA
+quimico-farmaceutico,2756,PUNO,8.6
+quimico-farmaceutico,2757,PUNO,10.2
+quimico-farmaceutico,2758,PUNO,7.8
+quimico-farmaceutico,2759,PUNO,10.2
+quimico-farmaceutico,2760,PUNO,NA
+quimico-farmaceutico,2761,PUNO,7.6
+quimico-farmaceutico,2762,SAN MARTIN,7
+quimico-farmaceutico,2763,SAN MARTIN,9.8
+quimico-farmaceutico,2764,SAN MARTIN,7.8
+quimico-farmaceutico,2765,SAN MARTIN,9.8
+quimico-farmaceutico,2766,SAN MARTIN,9
+quimico-farmaceutico,2767,SAN MARTIN,8.4
+quimico-farmaceutico,2768,SAN MARTIN,7.6
+quimico-farmaceutico,2769,SAN MARTIN,7.8
+quimico-farmaceutico,2770,SAN MARTIN,10
+quimico-farmaceutico,2771,SAN MARTIN,6.4
+quimico-farmaceutico,2772,SAN MARTIN,7.6
+quimico-farmaceutico,2773,SAN MARTIN,11.4
+quimico-farmaceutico,2774,SAN MARTIN,8.8
+quimico-farmaceutico,2775,SAN MARTIN,NA
+quimico-farmaceutico,2776,SAN MARTIN,11.2
+quimico-farmaceutico,2777,SAN MARTIN,6.8
+quimico-farmaceutico,2778,SAN MARTIN,11
+quimico-farmaceutico,2779,SAN MARTIN,10
+quimico-farmaceutico,2780,TACNA,12.2
+quimico-farmaceutico,2781,TACNA,10
+quimico-farmaceutico,2782,TACNA,11.8
+quimico-farmaceutico,2783,TACNA,7.6
+quimico-farmaceutico,2784,TACNA,9
+quimico-farmaceutico,2785,TACNA,10.6
+quimico-farmaceutico,2786,TACNA,13.8
+quimico-farmaceutico,2787,TACNA,9.8
+quimico-farmaceutico,2788,TACNA,NA
+quimico-farmaceutico,2789,TACNA,11.8
+quimico-farmaceutico,2790,TACNA,12.4
+quimico-farmaceutico,2791,TACNA,11.6
+quimico-farmaceutico,2792,TACNA,9.8
+quimico-farmaceutico,2793,TACNA,10.4
+quimico-farmaceutico,2794,TACNA,11.8
+quimico-farmaceutico,2795,TACNA,10.4
+quimico-farmaceutico,2796,TACNA,9.6
+quimico-farmaceutico,2797,TACNA,10
+quimico-farmaceutico,2798,TACNA,11.4
+quimico-farmaceutico,2799,TACNA,11.4
+quimico-farmaceutico,2800,TACNA,10.4
+quimico-farmaceutico,2801,TACNA,10.4
+quimico-farmaceutico,2802,TACNA,10.4
+quimico-farmaceutico,2803,TACNA,10.4
+quimico-farmaceutico,2804,TACNA,9.8
+quimico-farmaceutico,2805,TACNA,12.8
+quimico-farmaceutico,2806,TACNA,10.2
+quimico-farmaceutico,2807,TACNA,7.4
+quimico-farmaceutico,2808,TACNA,11.2
+quimico-farmaceutico,2809,TACNA,10
+quimico-farmaceutico,2810,TACNA,8.4
+quimico-farmaceutico,2811,TACNA,11.6
+quimico-farmaceutico,2812,TUMBES,10.6
+quimico-farmaceutico,2813,UCAYALI,8
+quimico-farmaceutico,2814,UCAYALI,NA
+quimico-farmaceutico,2815,UCAYALI,9
+quimico-farmaceutico,2816,UCAYALI,11.4
+quimico-farmaceutico,2817,UCAYALI,10.2
+quimico-farmaceutico,2818,UCAYALI,11.8
+quimico-farmaceutico,2819,UCAYALI,8.6
+quimico-farmaceutico,2820,UCAYALI,9.4

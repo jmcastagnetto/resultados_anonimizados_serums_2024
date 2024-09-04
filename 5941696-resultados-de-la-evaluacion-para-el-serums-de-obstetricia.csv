@@ -1,0 +1,801 @@
+carrera,n,region_de_evaluacion,nota
+obstetricia,1,ANCASH,NA
+obstetricia,2,ANCASH,10.8
+obstetricia,3,ANCASH,NA
+obstetricia,4,ANCASH,10.6
+obstetricia,5,ANCASH,11.4
+obstetricia,6,ANCASH,10
+obstetricia,7,ANCASH,8.4
+obstetricia,8,ANCASH,8.4
+obstetricia,9,ANCASH,8.8
+obstetricia,10,ANCASH,10.4
+obstetricia,11,ANCASH,9.8
+obstetricia,12,ANCASH,NA
+obstetricia,13,ANCASH,8
+obstetricia,14,ANCASH,8.6
+obstetricia,15,ANCASH,8
+obstetricia,16,ANCASH,9.2
+obstetricia,17,ANCASH,9.6
+obstetricia,18,ANCASH,9.8
+obstetricia,19,ANCASH,11.6
+obstetricia,20,ANCASH,10.4
+obstetricia,21,ANCASH,9.2
+obstetricia,22,ANCASH,10.4
+obstetricia,23,ANCASH,8
+obstetricia,24,ANCASH,NA
+obstetricia,25,ANCASH,9.4
+obstetricia,26,ANCASH,8.8
+obstetricia,27,ANCASH,NA
+obstetricia,28,ANCASH,NA
+obstetricia,29,ANCASH,7.6
+obstetricia,30,ANCASH,9.2
+obstetricia,31,ANCASH,12.6
+obstetricia,32,APURIMAC,10.2
+obstetricia,33,APURIMAC,9.8
+obstetricia,34,APURIMAC,10.2
+obstetricia,35,APURIMAC,11.4
+obstetricia,36,APURIMAC,10.6
+obstetricia,37,APURIMAC,12.8
+obstetricia,38,APURIMAC,11.6
+obstetricia,39,APURIMAC,10.4
+obstetricia,40,APURIMAC,9
+obstetricia,41,APURIMAC,8.4
+obstetricia,42,APURIMAC,8.6
+obstetricia,43,APURIMAC,10.8
+obstetricia,44,APURIMAC,11.8
+obstetricia,45,APURIMAC,9.6
+obstetricia,46,APURIMAC,6
+obstetricia,47,APURIMAC,9.8
+obstetricia,48,APURIMAC,9.2
+obstetricia,49,APURIMAC,11.2
+obstetricia,50,APURIMAC,9.2
+obstetricia,51,AREQUIPA,12.2
+obstetricia,52,AREQUIPA,11.4
+obstetricia,53,AREQUIPA,10.4
+obstetricia,54,AREQUIPA,8.2
+obstetricia,55,AREQUIPA,8.8
+obstetricia,56,AREQUIPA,7.6
+obstetricia,57,AREQUIPA,8.6
+obstetricia,58,AREQUIPA,10.4
+obstetricia,59,AREQUIPA,14.2
+obstetricia,60,AREQUIPA,8.2
+obstetricia,61,AREQUIPA,10
+obstetricia,62,AREQUIPA,8.6
+obstetricia,63,AREQUIPA,8.2
+obstetricia,64,AREQUIPA,NA
+obstetricia,65,AREQUIPA,10.2
+obstetricia,66,AREQUIPA,11.6
+obstetricia,67,AREQUIPA,11.2
+obstetricia,68,AREQUIPA,10
+obstetricia,69,AREQUIPA,10.2
+obstetricia,70,AREQUIPA,11.8
+obstetricia,71,AREQUIPA,NA
+obstetricia,72,AREQUIPA,8.6
+obstetricia,73,AYACUCHO,10.8
+obstetricia,74,AYACUCHO,12
+obstetricia,75,AYACUCHO,10.2
+obstetricia,76,AYACUCHO,12.8
+obstetricia,77,AYACUCHO,10
+obstetricia,78,AYACUCHO,9
+obstetricia,79,AYACUCHO,10.8
+obstetricia,80,AYACUCHO,8
+obstetricia,81,AYACUCHO,8.8
+obstetricia,82,AYACUCHO,11.4
+obstetricia,83,AYACUCHO,12.4
+obstetricia,84,AYACUCHO,11.6
+obstetricia,85,AYACUCHO,8.8
+obstetricia,86,AYACUCHO,10.8
+obstetricia,87,AYACUCHO,12.2
+obstetricia,88,AYACUCHO,9.6
+obstetricia,89,AYACUCHO,10.6
+obstetricia,90,AYACUCHO,9.8
+obstetricia,91,AYACUCHO,9.8
+obstetricia,92,AYACUCHO,NA
+obstetricia,93,AYACUCHO,9.4
+obstetricia,94,AYACUCHO,10.4
+obstetricia,95,AYACUCHO,9.8
+obstetricia,96,AYACUCHO,9.8
+obstetricia,97,AYACUCHO,8.6
+obstetricia,98,AYACUCHO,8.8
+obstetricia,99,AYACUCHO,10
+obstetricia,100,AYACUCHO,10.6
+obstetricia,101,AYACUCHO,8
+obstetricia,102,AYACUCHO,9.2
+obstetricia,103,AYACUCHO,8.8
+obstetricia,104,AYACUCHO,10.2
+obstetricia,105,AYACUCHO,5
+obstetricia,106,AYACUCHO,10.2
+obstetricia,107,AYACUCHO,9.8
+obstetricia,108,AYACUCHO,7.6
+obstetricia,109,AYACUCHO,10.4
+obstetricia,110,AYACUCHO,8
+obstetricia,111,AYACUCHO,10.2
+obstetricia,112,AYACUCHO,11.4
+obstetricia,113,CAJAMARCA,11.2
+obstetricia,114,CAJAMARCA,9.6
+obstetricia,115,CAJAMARCA,6.6
+obstetricia,116,CAJAMARCA,7.2
+obstetricia,117,CAJAMARCA,8.6
+obstetricia,118,CAJAMARCA,9
+obstetricia,119,CAJAMARCA,7.2
+obstetricia,120,CAJAMARCA,12.6
+obstetricia,121,CAJAMARCA,11.4
+obstetricia,122,CAJAMARCA,6.6
+obstetricia,123,CALLAO,8.8
+obstetricia,124,CALLAO,11.6
+obstetricia,125,CALLAO,8.8
+obstetricia,126,CALLAO,10.6
+obstetricia,127,CALLAO,12.2
+obstetricia,128,CALLAO,11
+obstetricia,129,CALLAO,9.6
+obstetricia,130,CALLAO,10.4
+obstetricia,131,CALLAO,9.4
+obstetricia,132,CALLAO,NA
+obstetricia,133,CALLAO,9.8
+obstetricia,134,CALLAO,9.6
+obstetricia,135,CALLAO,11
+obstetricia,136,CALLAO,10
+obstetricia,137,CALLAO,11.6
+obstetricia,138,CALLAO,12
+obstetricia,139,CUSCO,9.8
+obstetricia,140,CUSCO,12.8
+obstetricia,141,CUSCO,11.6
+obstetricia,142,CUSCO,10.2
+obstetricia,143,CUSCO,9.8
+obstetricia,144,CUSCO,13.2
+obstetricia,145,CUSCO,10
+obstetricia,146,CUSCO,7.2
+obstetricia,147,CUSCO,12
+obstetricia,148,CUSCO,10.2
+obstetricia,149,CUSCO,10
+obstetricia,150,CUSCO,8.4
+obstetricia,151,CUSCO,10.2
+obstetricia,152,CUSCO,9.4
+obstetricia,153,CUSCO,8.8
+obstetricia,154,CUSCO,12.6
+obstetricia,155,CUSCO,NA
+obstetricia,156,CUSCO,8.8
+obstetricia,157,CUSCO,9.8
+obstetricia,158,CUSCO,9.4
+obstetricia,159,CUSCO,10.4
+obstetricia,160,CUSCO,NA
+obstetricia,161,CUSCO,8.8
+obstetricia,162,HUANCAVELICA,7.2
+obstetricia,163,HUANCAVELICA,8.6
+obstetricia,164,HUANCAVELICA,9.4
+obstetricia,165,HUANCAVELICA,10
+obstetricia,166,HUANCAVELICA,9.4
+obstetricia,167,HUANCAVELICA,9.6
+obstetricia,168,HUANCAVELICA,9.6
+obstetricia,169,HUANCAVELICA,10
+obstetricia,170,HUANCAVELICA,8.6
+obstetricia,171,HUANCAVELICA,8.8
+obstetricia,172,HUANCAVELICA,9.6
+obstetricia,173,HUANCAVELICA,10.2
+obstetricia,174,HUANCAVELICA,11
+obstetricia,175,HUANUCO,7.8
+obstetricia,176,HUANUCO,10.2
+obstetricia,177,HUANUCO,NA
+obstetricia,178,HUANUCO,8.4
+obstetricia,179,HUANUCO,10.4
+obstetricia,180,HUANUCO,12
+obstetricia,181,HUANUCO,7
+obstetricia,182,HUANUCO,11
+obstetricia,183,HUANUCO,NA
+obstetricia,184,HUANUCO,9
+obstetricia,185,HUANUCO,8.8
+obstetricia,186,HUANUCO,10.4
+obstetricia,187,HUANUCO,10.6
+obstetricia,188,HUANUCO,8.4
+obstetricia,189,HUANUCO,12
+obstetricia,190,HUANUCO,11.2
+obstetricia,191,HUANUCO,9
+obstetricia,192,HUANUCO,6.2
+obstetricia,193,HUANUCO,13
+obstetricia,194,HUANUCO,7.6
+obstetricia,195,HUANUCO,10
+obstetricia,196,HUANUCO,6.8
+obstetricia,197,HUANUCO,10
+obstetricia,198,HUANUCO,NA
+obstetricia,199,HUANUCO,6.8
+obstetricia,200,HUANUCO,11
+obstetricia,201,HUANUCO,7.6
+obstetricia,202,HUANUCO,NA
+obstetricia,203,HUANUCO,10.2
+obstetricia,204,HUANUCO,12
+obstetricia,205,HUANUCO,NA
+obstetricia,206,HUANUCO,9.4
+obstetricia,207,HUANUCO,8.4
+obstetricia,208,HUANUCO,11.8
+obstetricia,209,ICA,9.6
+obstetricia,210,ICA,11.2
+obstetricia,211,ICA,9.2
+obstetricia,212,ICA,8.6
+obstetricia,213,ICA,8
+obstetricia,214,ICA,8.8
+obstetricia,215,ICA,7.8
+obstetricia,216,ICA,8.6
+obstetricia,217,ICA,NA
+obstetricia,218,ICA,9.8
+obstetricia,219,ICA,10
+obstetricia,220,ICA,NA
+obstetricia,221,ICA,9
+obstetricia,222,ICA,8.8
+obstetricia,223,ICA,13
+obstetricia,224,ICA,10.6
+obstetricia,225,ICA,10.6
+obstetricia,226,ICA,13.2
+obstetricia,227,ICA,9.8
+obstetricia,228,ICA,NA
+obstetricia,229,ICA,8.8
+obstetricia,230,ICA,9.6
+obstetricia,231,ICA,10.8
+obstetricia,232,ICA,10.2
+obstetricia,233,ICA,8.8
+obstetricia,234,ICA,9
+obstetricia,235,ICA,11
+obstetricia,236,ICA,9.8
+obstetricia,237,ICA,7.6
+obstetricia,238,ICA,12.8
+obstetricia,239,ICA,10.6
+obstetricia,240,ICA,8.6
+obstetricia,241,ICA,8
+obstetricia,242,ICA,12.6
+obstetricia,243,ICA,12.6
+obstetricia,244,ICA,7.2
+obstetricia,245,ICA,6
+obstetricia,246,ICA,5.8
+obstetricia,247,ICA,9
+obstetricia,248,ICA,9.8
+obstetricia,249,ICA,9
+obstetricia,250,ICA,10
+obstetricia,251,ICA,10.2
+obstetricia,252,ICA,11.6
+obstetricia,253,ICA,5.4
+obstetricia,254,ICA,7.4
+obstetricia,255,ICA,10.4
+obstetricia,256,ICA,10
+obstetricia,257,ICA,11.4
+obstetricia,258,ICA,7
+obstetricia,259,ICA,5.6
+obstetricia,260,ICA,11.8
+obstetricia,261,ICA,7.6
+obstetricia,262,ICA,10.6
+obstetricia,263,ICA,10
+obstetricia,264,ICA,9.6
+obstetricia,265,ICA,10.8
+obstetricia,266,ICA,10.8
+obstetricia,267,ICA,9.4
+obstetricia,268,ICA,10.2
+obstetricia,269,ICA,7.2
+obstetricia,270,ICA,6.8
+obstetricia,271,ICA,11
+obstetricia,272,ICA,9
+obstetricia,273,JUNIN,NA
+obstetricia,274,JUNIN,10.8
+obstetricia,275,JUNIN,9.8
+obstetricia,276,JUNIN,13.4
+obstetricia,277,JUNIN,11.4
+obstetricia,278,JUNIN,8.2
+obstetricia,279,JUNIN,6.8
+obstetricia,280,JUNIN,10.2
+obstetricia,281,JUNIN,9.4
+obstetricia,282,JUNIN,10.2
+obstetricia,283,JUNIN,6.8
+obstetricia,284,JUNIN,8.8
+obstetricia,285,JUNIN,NA
+obstetricia,286,JUNIN,11
+obstetricia,287,JUNIN,9
+obstetricia,288,JUNIN,10.4
+obstetricia,289,JUNIN,8
+obstetricia,290,JUNIN,12.4
+obstetricia,291,JUNIN,8.4
+obstetricia,292,JUNIN,11.2
+obstetricia,293,JUNIN,11.4
+obstetricia,294,JUNIN,8
+obstetricia,295,JUNIN,10.6
+obstetricia,296,JUNIN,7.6
+obstetricia,297,JUNIN,8.8
+obstetricia,298,JUNIN,8.8
+obstetricia,299,JUNIN,10.2
+obstetricia,300,JUNIN,8.4
+obstetricia,301,JUNIN,NA
+obstetricia,302,JUNIN,8.6
+obstetricia,303,JUNIN,10.6
+obstetricia,304,JUNIN,8.6
+obstetricia,305,JUNIN,10.6
+obstetricia,306,JUNIN,11.2
+obstetricia,307,JUNIN,10.8
+obstetricia,308,JUNIN,10.2
+obstetricia,309,JUNIN,8.4
+obstetricia,310,JUNIN,9.8
+obstetricia,311,JUNIN,10.2
+obstetricia,312,JUNIN,10.4
+obstetricia,313,JUNIN,10.4
+obstetricia,314,JUNIN,9.4
+obstetricia,315,JUNIN,11.2
+obstetricia,316,JUNIN,NA
+obstetricia,317,JUNIN,10
+obstetricia,318,JUNIN,10.2
+obstetricia,319,JUNIN,NA
+obstetricia,320,JUNIN,8.6
+obstetricia,321,JUNIN,9.6
+obstetricia,322,JUNIN,10.2
+obstetricia,323,JUNIN,10.2
+obstetricia,324,JUNIN,10.2
+obstetricia,325,JUNIN,8.8
+obstetricia,326,JUNIN,9
+obstetricia,327,JUNIN,10
+obstetricia,328,JUNIN,10.6
+obstetricia,329,JUNIN,10
+obstetricia,330,JUNIN,9
+obstetricia,331,JUNIN,8.4
+obstetricia,332,JUNIN,13.8
+obstetricia,333,JUNIN,12
+obstetricia,334,JUNIN,10
+obstetricia,335,JUNIN,10.4
+obstetricia,336,JUNIN,NA
+obstetricia,337,LA LIBERTAD,9.8
+obstetricia,338,LA LIBERTAD,9.6
+obstetricia,339,LA LIBERTAD,9.4
+obstetricia,340,LA LIBERTAD,NA
+obstetricia,341,LA LIBERTAD,8
+obstetricia,342,LA LIBERTAD,11.8
+obstetricia,343,LA LIBERTAD,9.2
+obstetricia,344,LA LIBERTAD,NA
+obstetricia,345,LA LIBERTAD,NA
+obstetricia,346,LA LIBERTAD,NA
+obstetricia,347,LA LIBERTAD,NA
+obstetricia,348,LA LIBERTAD,9.4
+obstetricia,349,LA LIBERTAD,11.4
+obstetricia,350,LA LIBERTAD,10.2
+obstetricia,351,LAMBAYEQUE,10
+obstetricia,352,LAMBAYEQUE,8.6
+obstetricia,353,LAMBAYEQUE,9.6
+obstetricia,354,LAMBAYEQUE,8.6
+obstetricia,355,LAMBAYEQUE,10
+obstetricia,356,LAMBAYEQUE,8
+obstetricia,357,LAMBAYEQUE,8
+obstetricia,358,LAMBAYEQUE,9.2
+obstetricia,359,LAMBAYEQUE,8.2
+obstetricia,360,LAMBAYEQUE,NA
+obstetricia,361,LAMBAYEQUE,9.2
+obstetricia,362,LAMBAYEQUE,9.4
+obstetricia,363,LAMBAYEQUE,10.2
+obstetricia,364,LAMBAYEQUE,10.4
+obstetricia,365,LAMBAYEQUE,9.2
+obstetricia,366,LAMBAYEQUE,9.2
+obstetricia,367,LAMBAYEQUE,8.2
+obstetricia,368,LAMBAYEQUE,12.4
+obstetricia,369,LAMBAYEQUE,8.4
+obstetricia,370,LAMBAYEQUE,6.6
+obstetricia,371,LAMBAYEQUE,7.8
+obstetricia,372,LAMBAYEQUE,6.4
+obstetricia,373,LAMBAYEQUE,12.4
+obstetricia,374,LAMBAYEQUE,9.2
+obstetricia,375,LAMBAYEQUE,8.2
+obstetricia,376,LIMA NORTE,10.6
+obstetricia,377,LIMA NORTE,10.2
+obstetricia,378,LIMA NORTE,11
+obstetricia,379,LIMA NORTE,NA
+obstetricia,380,LIMA NORTE,10.4
+obstetricia,381,LIMA NORTE,12
+obstetricia,382,LIMA NORTE,13.6
+obstetricia,383,LIMA NORTE,11.8
+obstetricia,384,LIMA NORTE,10.6
+obstetricia,385,LIMA NORTE,9.8
+obstetricia,386,LIMA NORTE,NA
+obstetricia,387,LIMA NORTE,11.8
+obstetricia,388,LIMA NORTE,13
+obstetricia,389,LIMA NORTE,10.2
+obstetricia,390,LIMA NORTE,10.6
+obstetricia,391,LIMA NORTE,9.4
+obstetricia,392,LIMA NORTE,8.2
+obstetricia,393,LIMA NORTE,NA
+obstetricia,394,LIMA NORTE,14.4
+obstetricia,395,LIMA NORTE,11.2
+obstetricia,396,LIMA NORTE,11.6
+obstetricia,397,LIMA NORTE,11
+obstetricia,398,LIMA NORTE,9.2
+obstetricia,399,LIMA NORTE,10.2
+obstetricia,400,LIMA NORTE,11
+obstetricia,401,LIMA NORTE,12
+obstetricia,402,LIMA NORTE,13
+obstetricia,403,LIMA NORTE,11
+obstetricia,404,LIMA NORTE,11.6
+obstetricia,405,LIMA NORTE,7.8
+obstetricia,406,LIMA NORTE,8.8
+obstetricia,407,LIMA NORTE,NA
+obstetricia,408,LIMA NORTE,12.8
+obstetricia,409,LIMA NORTE,10.2
+obstetricia,410,LIMA NORTE,NA
+obstetricia,411,LIMA NORTE,9.2
+obstetricia,412,LIMA NORTE,10.2
+obstetricia,413,LIMA NORTE,9.4
+obstetricia,414,LIMA NORTE,13.2
+obstetricia,415,LIMA NORTE,13.6
+obstetricia,416,LIMA NORTE,NA
+obstetricia,417,LIMA NORTE,11.8
+obstetricia,418,LIMA NORTE,9.8
+obstetricia,419,LIMA NORTE,10.4
+obstetricia,420,LIMA NORTE,11.4
+obstetricia,421,LIMA NORTE,8
+obstetricia,422,LIMA NORTE,8.2
+obstetricia,423,LIMA NORTE,11.6
+obstetricia,424,LIMA NORTE,10.6
+obstetricia,425,LIMA NORTE,13.4
+obstetricia,426,LIMA NORTE,12.8
+obstetricia,427,LIMA NORTE,9.6
+obstetricia,428,LIMA NORTE,8.4
+obstetricia,429,LIMA NORTE,8.2
+obstetricia,430,LIMA NORTE,7.8
+obstetricia,431,LIMA NORTE,10.6
+obstetricia,432,LIMA NORTE,9.4
+obstetricia,433,LIMA NORTE,8.6
+obstetricia,434,LIMA NORTE,NA
+obstetricia,435,LIMA NORTE,11.6
+obstetricia,436,LIMA NORTE,12.4
+obstetricia,437,LIMA NORTE,13.6
+obstetricia,438,LIMA NORTE,14.8
+obstetricia,439,LIMA NORTE,10
+obstetricia,440,LIMA NORTE,11.4
+obstetricia,441,LIMA NORTE,10.4
+obstetricia,442,LIMA NORTE,12.4
+obstetricia,443,LIMA NORTE,13.8
+obstetricia,444,LIMA NORTE,9
+obstetricia,445,LIMA NORTE,8.8
+obstetricia,446,LIMA NORTE,NA
+obstetricia,447,LIMA NORTE,9.2
+obstetricia,448,LIMA NORTE,10
+obstetricia,449,LIMA NORTE,11.4
+obstetricia,450,LIMA NORTE,9
+obstetricia,451,LIMA NORTE,8
+obstetricia,452,LIMA NORTE,11.8
+obstetricia,453,LIMA NORTE,9.6
+obstetricia,454,LIMA NORTE,NA
+obstetricia,455,LIMA NORTE,7.4
+obstetricia,456,LIMA NORTE,8.8
+obstetricia,457,LIMA NORTE,9.4
+obstetricia,458,LIMA NORTE,11
+obstetricia,459,LIMA NORTE,9.8
+obstetricia,460,LIMA NORTE,13.4
+obstetricia,461,LIMA REGION,11.6
+obstetricia,462,LIMA REGION,10.6
+obstetricia,463,LIMA REGION,9.6
+obstetricia,464,LIMA REGION,8.6
+obstetricia,465,LIMA REGION,9.2
+obstetricia,466,LIMA REGION,10.4
+obstetricia,467,LIMA REGION,NA
+obstetricia,468,LIMA REGION,8.8
+obstetricia,469,LIMA REGION,10
+obstetricia,470,LIMA REGION,8.2
+obstetricia,471,LIMA REGION,12.8
+obstetricia,472,LIMA REGION,9
+obstetricia,473,LIMA REGION,9.4
+obstetricia,474,LIMA REGION,NA
+obstetricia,475,LIMA REGION,13.4
+obstetricia,476,LIMA REGION,8.6
+obstetricia,477,LIMA REGION,9.6
+obstetricia,478,LIMA REGION,11.4
+obstetricia,479,LIMA REGION,10.8
+obstetricia,480,LIMA REGION,9.4
+obstetricia,481,LIMA REGION,NA
+obstetricia,482,LIMA REGION,11.8
+obstetricia,483,LIMA REGION,8.6
+obstetricia,484,LIMA REGION,7.8
+obstetricia,485,LIMA REGION,9.8
+obstetricia,486,LIMA REGION,9.6
+obstetricia,487,LIMA REGION,8
+obstetricia,488,LIMA REGION,5.8
+obstetricia,489,LIMA REGION,NA
+obstetricia,490,LIMA REGION,10
+obstetricia,491,LIMA REGION,9.8
+obstetricia,492,LIMA REGION,10.2
+obstetricia,493,LIMA REGION,8.6
+obstetricia,494,LIMA REGION,11.2
+obstetricia,495,LIMA REGION,10.2
+obstetricia,496,LIMA REGION,9.8
+obstetricia,497,LIMA REGION,9.6
+obstetricia,498,LIMA REGION,8.6
+obstetricia,499,LIMA REGION,9.6
+obstetricia,500,LIMA REGION,9.4
+obstetricia,501,LIMA REGION,10.6
+obstetricia,502,LIMA REGION,10.8
+obstetricia,503,LIMA REGION,13.8
+obstetricia,504,LIMA REGION,9.6
+obstetricia,505,LIMA REGION,11.2
+obstetricia,506,LIMA REGION,NA
+obstetricia,507,LIMA REGION,8
+obstetricia,508,LIMA REGION,10
+obstetricia,509,LIMA REGION,10.4
+obstetricia,510,LIMA REGION,11.2
+obstetricia,511,LIMA REGION,9.2
+obstetricia,512,LIMA REGION,9.4
+obstetricia,513,LIMA REGION,8.4
+obstetricia,514,LIMA REGION,11.2
+obstetricia,515,LIMA REGION,11
+obstetricia,516,LIMA REGION,11.2
+obstetricia,517,LIMA REGION,NA
+obstetricia,518,LIMA REGION,8.4
+obstetricia,519,LIMA REGION,12.4
+obstetricia,520,LIMA REGION,11.2
+obstetricia,521,LIMA SUR,12.8
+obstetricia,522,LIMA SUR,10.2
+obstetricia,523,LIMA SUR,11.8
+obstetricia,524,LIMA SUR,8.6
+obstetricia,525,LIMA SUR,13.4
+obstetricia,526,LIMA SUR,NA
+obstetricia,527,LIMA SUR,9.4
+obstetricia,528,LIMA SUR,8
+obstetricia,529,LIMA SUR,14.6
+obstetricia,530,LIMA SUR,10.6
+obstetricia,531,LIMA SUR,8.2
+obstetricia,532,LIMA SUR,NA
+obstetricia,533,LIMA SUR,11.2
+obstetricia,534,LIMA SUR,NA
+obstetricia,535,LIMA SUR,9.8
+obstetricia,536,LIMA SUR,11
+obstetricia,537,LIMA SUR,11.4
+obstetricia,538,LIMA SUR,9.4
+obstetricia,539,LIMA SUR,13
+obstetricia,540,LIMA SUR,10.4
+obstetricia,541,LIMA SUR,13
+obstetricia,542,LIMA SUR,9
+obstetricia,543,LIMA SUR,NA
+obstetricia,544,LIMA SUR,11.4
+obstetricia,545,LIMA SUR,8.8
+obstetricia,546,LIMA SUR,10.6
+obstetricia,547,LIMA SUR,10
+obstetricia,548,LIMA SUR,14
+obstetricia,549,LIMA SUR,10.6
+obstetricia,550,LIMA SUR,14.2
+obstetricia,551,LIMA SUR,13
+obstetricia,552,LIMA SUR,9.6
+obstetricia,553,LIMA SUR,NA
+obstetricia,554,LIMA SUR,10.2
+obstetricia,555,LIMA SUR,12.6
+obstetricia,556,LIMA SUR,9.8
+obstetricia,557,LIMA SUR,9
+obstetricia,558,LIMA SUR,6.4
+obstetricia,559,LIMA SUR,13.2
+obstetricia,560,LIMA SUR,13.4
+obstetricia,561,LIMA SUR,11.4
+obstetricia,562,LIMA SUR,6
+obstetricia,563,LIMA SUR,NA
+obstetricia,564,LIMA SUR,NA
+obstetricia,565,LIMA SUR,14
+obstetricia,566,LIMA SUR,NA
+obstetricia,567,LIMA SUR,10.6
+obstetricia,568,LIMA SUR,NA
+obstetricia,569,LIMA SUR,NA
+obstetricia,570,LIMA SUR,8.4
+obstetricia,571,LIMA SUR,NA
+obstetricia,572,LIMA SUR,9
+obstetricia,573,LIMA SUR,10.8
+obstetricia,574,LIMA SUR,NA
+obstetricia,575,LORETO,11.4
+obstetricia,576,LORETO,11.6
+obstetricia,577,LORETO,8.6
+obstetricia,578,LORETO,10
+obstetricia,579,LORETO,7.8
+obstetricia,580,LORETO,9.8
+obstetricia,581,LORETO,9
+obstetricia,582,LORETO,9.6
+obstetricia,583,LORETO,7.6
+obstetricia,584,LORETO,11.4
+obstetricia,585,LORETO,NA
+obstetricia,586,LORETO,9
+obstetricia,587,LORETO,11.6
+obstetricia,588,MOQUEGUA,7.8
+obstetricia,589,MOQUEGUA,11.8
+obstetricia,590,MOQUEGUA,10.2
+obstetricia,591,PASCO,10.4
+obstetricia,592,PASCO,NA
+obstetricia,593,PASCO,10.8
+obstetricia,594,PASCO,10.2
+obstetricia,595,PASCO,11.8
+obstetricia,596,PASCO,9.2
+obstetricia,597,PASCO,7.4
+obstetricia,598,PASCO,8.2
+obstetricia,599,PASCO,9.8
+obstetricia,600,PASCO,NA
+obstetricia,601,PASCO,7.8
+obstetricia,602,PASCO,8.4
+obstetricia,603,PASCO,10.4
+obstetricia,604,PASCO,9.2
+obstetricia,605,PASCO,9
+obstetricia,606,PASCO,NA
+obstetricia,607,PASCO,6.4
+obstetricia,608,PASCO,9.8
+obstetricia,609,PASCO,9.2
+obstetricia,610,PASCO,7.6
+obstetricia,611,PASCO,9.2
+obstetricia,612,PASCO,9.6
+obstetricia,613,PASCO,11
+obstetricia,614,PASCO,9
+obstetricia,615,PASCO,10.2
+obstetricia,616,PASCO,11.6
+obstetricia,617,PASCO,8.4
+obstetricia,618,PASCO,12.2
+obstetricia,619,PASCO,9.4
+obstetricia,620,PASCO,11.6
+obstetricia,621,PASCO,8.2
+obstetricia,622,PASCO,10
+obstetricia,623,PASCO,8.6
+obstetricia,624,PASCO,8.4
+obstetricia,625,PASCO,10.8
+obstetricia,626,PIURA,10.6
+obstetricia,627,PIURA,10.8
+obstetricia,628,PIURA,8.6
+obstetricia,629,PIURA,10.6
+obstetricia,630,PIURA,10.4
+obstetricia,631,PIURA,10.8
+obstetricia,632,PIURA,9.8
+obstetricia,633,PIURA,7.8
+obstetricia,634,PIURA,10.2
+obstetricia,635,PIURA,10.4
+obstetricia,636,PIURA,8.8
+obstetricia,637,PIURA,5.4
+obstetricia,638,PIURA,9
+obstetricia,639,PIURA,9.6
+obstetricia,640,PIURA,8
+obstetricia,641,PIURA,NA
+obstetricia,642,PIURA,9.4
+obstetricia,643,PIURA,10.2
+obstetricia,644,PIURA,10.6
+obstetricia,645,PIURA,11.8
+obstetricia,646,PIURA,10.4
+obstetricia,647,PIURA,11.4
+obstetricia,648,PIURA,11.4
+obstetricia,649,PIURA,9.6
+obstetricia,650,PIURA,10.2
+obstetricia,651,PIURA,11
+obstetricia,652,PIURA,10
+obstetricia,653,PIURA,8.6
+obstetricia,654,PIURA,9
+obstetricia,655,PIURA,8
+obstetricia,656,PIURA,8
+obstetricia,657,PIURA,10
+obstetricia,658,PIURA,9.8
+obstetricia,659,PIURA,10.4
+obstetricia,660,PIURA,12.2
+obstetricia,661,PIURA,9.8
+obstetricia,662,PIURA,12.2
+obstetricia,663,PIURA,9.4
+obstetricia,664,PIURA,9.2
+obstetricia,665,PIURA,8.6
+obstetricia,666,PIURA,NA
+obstetricia,667,PIURA,11.2
+obstetricia,668,PIURA,11
+obstetricia,669,PIURA,10.2
+obstetricia,670,PIURA,9.8
+obstetricia,671,PIURA,10
+obstetricia,672,PIURA,9.4
+obstetricia,673,PIURA,10
+obstetricia,674,PIURA,8.4
+obstetricia,675,PIURA,11.2
+obstetricia,676,PIURA,8.8
+obstetricia,677,PIURA,NA
+obstetricia,678,PIURA,8.4
+obstetricia,679,PIURA,10.8
+obstetricia,680,PIURA,10.2
+obstetricia,681,PIURA,11.6
+obstetricia,682,PIURA,9
+obstetricia,683,PIURA,6.6
+obstetricia,684,PIURA,9.2
+obstetricia,685,PIURA,10
+obstetricia,686,PIURA,12
+obstetricia,687,PIURA,9
+obstetricia,688,PIURA,10.2
+obstetricia,689,PIURA,8.2
+obstetricia,690,PIURA,9
+obstetricia,691,PIURA,10.8
+obstetricia,692,PIURA,8
+obstetricia,693,PIURA,8.8
+obstetricia,694,PIURA,11.6
+obstetricia,695,PIURA,8.8
+obstetricia,696,PIURA,8.4
+obstetricia,697,PIURA,8.8
+obstetricia,698,PIURA,8.8
+obstetricia,699,PUNO,7.8
+obstetricia,700,PUNO,10
+obstetricia,701,PUNO,9.2
+obstetricia,702,PUNO,10
+obstetricia,703,PUNO,8
+obstetricia,704,PUNO,10.6
+obstetricia,705,PUNO,7.6
+obstetricia,706,PUNO,9
+obstetricia,707,PUNO,10.4
+obstetricia,708,PUNO,8.2
+obstetricia,709,PUNO,10.2
+obstetricia,710,PUNO,7.2
+obstetricia,711,PUNO,7.6
+obstetricia,712,PUNO,7
+obstetricia,713,PUNO,9
+obstetricia,714,PUNO,8
+obstetricia,715,PUNO,9.6
+obstetricia,716,PUNO,11.2
+obstetricia,717,PUNO,8.6
+obstetricia,718,PUNO,9
+obstetricia,719,PUNO,8.6
+obstetricia,720,PUNO,8.6
+obstetricia,721,PUNO,7.6
+obstetricia,722,PUNO,8.4
+obstetricia,723,PUNO,8
+obstetricia,724,PUNO,6.8
+obstetricia,725,PUNO,9.2
+obstetricia,726,PUNO,8.8
+obstetricia,727,PUNO,10.2
+obstetricia,728,PUNO,8.8
+obstetricia,729,PUNO,12.2
+obstetricia,730,PUNO,9.4
+obstetricia,731,PUNO,9.6
+obstetricia,732,PUNO,7.2
+obstetricia,733,PUNO,7.4
+obstetricia,734,PUNO,9
+obstetricia,735,PUNO,6.6
+obstetricia,736,PUNO,10.2
+obstetricia,737,PUNO,8.2
+obstetricia,738,PUNO,8.6
+obstetricia,739,PUNO,6.6
+obstetricia,740,PUNO,8.2
+obstetricia,741,PUNO,9.2
+obstetricia,742,PUNO,NA
+obstetricia,743,PUNO,8.4
+obstetricia,744,PUNO,4.4
+obstetricia,745,PUNO,9.4
+obstetricia,746,PUNO,10.8
+obstetricia,747,PUNO,9.8
+obstetricia,748,PUNO,6.8
+obstetricia,749,PUNO,7.6
+obstetricia,750,PUNO,6.2
+obstetricia,751,PUNO,8
+obstetricia,752,PUNO,10.2
+obstetricia,753,PUNO,8
+obstetricia,754,PUNO,7.4
+obstetricia,755,PUNO,9.2
+obstetricia,756,PUNO,9.2
+obstetricia,757,PUNO,9.6
+obstetricia,758,PUNO,7.6
+obstetricia,759,PUNO,9
+obstetricia,760,PUNO,9
+obstetricia,761,PUNO,11
+obstetricia,762,PUNO,9
+obstetricia,763,PUNO,NA
+obstetricia,764,PUNO,NA
+obstetricia,765,PUNO,9.6
+obstetricia,766,PUNO,10.6
+obstetricia,767,PUNO,13.2
+obstetricia,768,PUNO,7
+obstetricia,769,PUNO,8.2
+obstetricia,770,PUNO,7.6
+obstetricia,771,PUNO,8.6
+obstetricia,772,SAN MARTIN,9.2
+obstetricia,773,SAN MARTIN,12.4
+obstetricia,774,TACNA,NA
+obstetricia,775,TACNA,11.6
+obstetricia,776,TACNA,10
+obstetricia,777,TACNA,12.2
+obstetricia,778,TACNA,11.2
+obstetricia,779,TACNA,10.2
+obstetricia,780,TACNA,11
+obstetricia,781,TUMBES,10
+obstetricia,782,TUMBES,8.8
+obstetricia,783,TUMBES,9.4
+obstetricia,784,TUMBES,9.8
+obstetricia,785,TUMBES,9.6
+obstetricia,786,TUMBES,6.2
+obstetricia,787,UCAYALI,NA
+obstetricia,788,UCAYALI,8.8
+obstetricia,789,UCAYALI,12
+obstetricia,790,UCAYALI,6
+obstetricia,791,UCAYALI,NA
+obstetricia,792,UCAYALI,9.4
+obstetricia,793,UCAYALI,10.4
+obstetricia,794,UCAYALI,12.2
+obstetricia,795,UCAYALI,12.4
+obstetricia,796,UCAYALI,9.8
+obstetricia,797,UCAYALI,10
+obstetricia,798,UCAYALI,8
+obstetricia,799,UCAYALI,7
+obstetricia,800,UCAYALI,9.6

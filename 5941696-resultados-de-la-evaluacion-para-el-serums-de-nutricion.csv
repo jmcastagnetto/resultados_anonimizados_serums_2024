@@ -1,0 +1,498 @@
+carrera,n,region_de_evaluacion,nota
+nutricion,1,AMAZONAS,8.6
+nutricion,2,AMAZONAS,8.4
+nutricion,3,ANCASH,9.6
+nutricion,4,ANCASH,10
+nutricion,5,APURIMAC,9.4
+nutricion,6,APURIMAC,11
+nutricion,7,APURIMAC,9.8
+nutricion,8,APURIMAC,10
+nutricion,9,APURIMAC,NA
+nutricion,10,AREQUIPA,10.8
+nutricion,11,AREQUIPA,9.6
+nutricion,12,AREQUIPA,10.4
+nutricion,13,AREQUIPA,7
+nutricion,14,AREQUIPA,11
+nutricion,15,AREQUIPA,9.8
+nutricion,16,AREQUIPA,10.4
+nutricion,17,AREQUIPA,9.8
+nutricion,18,AREQUIPA,10.8
+nutricion,19,AREQUIPA,10
+nutricion,20,AREQUIPA,12
+nutricion,21,AREQUIPA,10.6
+nutricion,22,AREQUIPA,10.6
+nutricion,23,AREQUIPA,10.2
+nutricion,24,AREQUIPA,8.4
+nutricion,25,AREQUIPA,12.2
+nutricion,26,AREQUIPA,9.4
+nutricion,27,AREQUIPA,9.8
+nutricion,28,AREQUIPA,NA
+nutricion,29,AREQUIPA,9.6
+nutricion,30,AREQUIPA,9.6
+nutricion,31,AREQUIPA,8.8
+nutricion,32,AREQUIPA,NA
+nutricion,33,AREQUIPA,9
+nutricion,34,AREQUIPA,10
+nutricion,35,AREQUIPA,9.8
+nutricion,36,AREQUIPA,10.4
+nutricion,37,AYACUCHO,11.8
+nutricion,38,AYACUCHO,NA
+nutricion,39,AYACUCHO,8.2
+nutricion,40,AYACUCHO,9.8
+nutricion,41,AYACUCHO,7.2
+nutricion,42,AYACUCHO,9.8
+nutricion,43,CAJAMARCA,NA
+nutricion,44,CAJAMARCA,8.8
+nutricion,45,CAJAMARCA,NA
+nutricion,46,CALLAO,11.2
+nutricion,47,CALLAO,10
+nutricion,48,CALLAO,8.8
+nutricion,49,CALLAO,8.8
+nutricion,50,CALLAO,8.8
+nutricion,51,CALLAO,8.8
+nutricion,52,CUSCO,9
+nutricion,53,CUSCO,12
+nutricion,54,CUSCO,8
+nutricion,55,CUSCO,8.2
+nutricion,56,CUSCO,9.6
+nutricion,57,HUANCAVELICA,12.6
+nutricion,58,HUANUCO,10.4
+nutricion,59,HUANUCO,9
+nutricion,60,ICA,10.2
+nutricion,61,JUNIN,10.2
+nutricion,62,JUNIN,12.6
+nutricion,63,JUNIN,11.2
+nutricion,64,JUNIN,10.6
+nutricion,65,JUNIN,12.4
+nutricion,66,JUNIN,9.8
+nutricion,67,JUNIN,13
+nutricion,68,JUNIN,8.2
+nutricion,69,JUNIN,10.6
+nutricion,70,JUNIN,9.6
+nutricion,71,JUNIN,10.6
+nutricion,72,JUNIN,13.4
+nutricion,73,JUNIN,13.4
+nutricion,74,JUNIN,9
+nutricion,75,JUNIN,9.2
+nutricion,76,LA LIBERTAD,9.6
+nutricion,77,LA LIBERTAD,8.6
+nutricion,78,LA LIBERTAD,NA
+nutricion,79,LA LIBERTAD,8.4
+nutricion,80,LA LIBERTAD,NA
+nutricion,81,LA LIBERTAD,11.4
+nutricion,82,LA LIBERTAD,10.2
+nutricion,83,LA LIBERTAD,NA
+nutricion,84,LA LIBERTAD,NA
+nutricion,85,LA LIBERTAD,10.2
+nutricion,86,LA LIBERTAD,8.8
+nutricion,87,LA LIBERTAD,8.8
+nutricion,88,LA LIBERTAD,8.6
+nutricion,89,LA LIBERTAD,9.4
+nutricion,90,LA LIBERTAD,NA
+nutricion,91,LA LIBERTAD,9.8
+nutricion,92,LA LIBERTAD,NA
+nutricion,93,LA LIBERTAD,9.2
+nutricion,94,LA LIBERTAD,NA
+nutricion,95,LA LIBERTAD,NA
+nutricion,96,LA LIBERTAD,NA
+nutricion,97,LA LIBERTAD,9.8
+nutricion,98,LA LIBERTAD,9.4
+nutricion,99,LA LIBERTAD,8.8
+nutricion,100,LA LIBERTAD,NA
+nutricion,101,LA LIBERTAD,NA
+nutricion,102,LA LIBERTAD,NA
+nutricion,103,LA LIBERTAD,11.8
+nutricion,104,LA LIBERTAD,8.4
+nutricion,105,LA LIBERTAD,9
+nutricion,106,LA LIBERTAD,11.2
+nutricion,107,LA LIBERTAD,7.6
+nutricion,108,LA LIBERTAD,7
+nutricion,109,LA LIBERTAD,8.4
+nutricion,110,LA LIBERTAD,8.6
+nutricion,111,LA LIBERTAD,NA
+nutricion,112,LA LIBERTAD,9
+nutricion,113,LAMBAYEQUE,10.6
+nutricion,114,LAMBAYEQUE,10
+nutricion,115,LAMBAYEQUE,8.6
+nutricion,116,LAMBAYEQUE,6.8
+nutricion,117,LAMBAYEQUE,9.2
+nutricion,118,LAMBAYEQUE,9.6
+nutricion,119,LAMBAYEQUE,NA
+nutricion,120,LAMBAYEQUE,12.4
+nutricion,121,LAMBAYEQUE,10.6
+nutricion,122,LAMBAYEQUE,10.8
+nutricion,123,LAMBAYEQUE,7.8
+nutricion,124,LAMBAYEQUE,8.6
+nutricion,125,LAMBAYEQUE,9.6
+nutricion,126,LAMBAYEQUE,10.4
+nutricion,127,LAMBAYEQUE,9.2
+nutricion,128,LIMA NORTE,11.4
+nutricion,129,LIMA NORTE,9.4
+nutricion,130,LIMA NORTE,8.6
+nutricion,131,LIMA NORTE,8.4
+nutricion,132,LIMA NORTE,10.6
+nutricion,133,LIMA NORTE,9.2
+nutricion,134,LIMA NORTE,8.6
+nutricion,135,LIMA NORTE,8.4
+nutricion,136,LIMA NORTE,11.6
+nutricion,137,LIMA NORTE,10.6
+nutricion,138,LIMA NORTE,10.8
+nutricion,139,LIMA NORTE,9.2
+nutricion,140,LIMA NORTE,10.8
+nutricion,141,LIMA NORTE,10
+nutricion,142,LIMA NORTE,12
+nutricion,143,LIMA NORTE,NA
+nutricion,144,LIMA NORTE,10
+nutricion,145,LIMA NORTE,10
+nutricion,146,LIMA NORTE,10.6
+nutricion,147,LIMA NORTE,9.4
+nutricion,148,LIMA NORTE,13
+nutricion,149,LIMA NORTE,10.6
+nutricion,150,LIMA NORTE,8.8
+nutricion,151,LIMA NORTE,8
+nutricion,152,LIMA NORTE,11.6
+nutricion,153,LIMA NORTE,9.8
+nutricion,154,LIMA NORTE,10.4
+nutricion,155,LIMA NORTE,14
+nutricion,156,LIMA NORTE,9.6
+nutricion,157,LIMA NORTE,10.4
+nutricion,158,LIMA NORTE,10.2
+nutricion,159,LIMA NORTE,9.2
+nutricion,160,LIMA NORTE,9.2
+nutricion,161,LIMA NORTE,11.6
+nutricion,162,LIMA NORTE,12.6
+nutricion,163,LIMA NORTE,8
+nutricion,164,LIMA NORTE,11.2
+nutricion,165,LIMA NORTE,12.8
+nutricion,166,LIMA NORTE,9.6
+nutricion,167,LIMA NORTE,11.8
+nutricion,168,LIMA NORTE,8.2
+nutricion,169,LIMA NORTE,10.6
+nutricion,170,LIMA NORTE,11.8
+nutricion,171,LIMA NORTE,10.2
+nutricion,172,LIMA NORTE,10.6
+nutricion,173,LIMA NORTE,9.4
+nutricion,174,LIMA NORTE,9.4
+nutricion,175,LIMA NORTE,11.4
+nutricion,176,LIMA NORTE,10
+nutricion,177,LIMA NORTE,11.2
+nutricion,178,LIMA NORTE,10
+nutricion,179,LIMA NORTE,9.4
+nutricion,180,LIMA NORTE,9.6
+nutricion,181,LIMA NORTE,7
+nutricion,182,LIMA NORTE,9
+nutricion,183,LIMA NORTE,9.4
+nutricion,184,LIMA NORTE,10.8
+nutricion,185,LIMA NORTE,9
+nutricion,186,LIMA NORTE,9.8
+nutricion,187,LIMA NORTE,8.2
+nutricion,188,LIMA NORTE,12.4
+nutricion,189,LIMA NORTE,10.2
+nutricion,190,LIMA NORTE,NA
+nutricion,191,LIMA NORTE,10.4
+nutricion,192,LIMA NORTE,NA
+nutricion,193,LIMA NORTE,10
+nutricion,194,LIMA NORTE,8.2
+nutricion,195,LIMA NORTE,10.8
+nutricion,196,LIMA NORTE,NA
+nutricion,197,LIMA NORTE,11.8
+nutricion,198,LIMA REGION,NA
+nutricion,199,LIMA REGION,5.8
+nutricion,200,LIMA REGION,9
+nutricion,201,LIMA REGION,11.2
+nutricion,202,LIMA REGION,7.8
+nutricion,203,LIMA REGION,9.8
+nutricion,204,LIMA REGION,8.4
+nutricion,205,LIMA REGION,NA
+nutricion,206,LIMA REGION,8.6
+nutricion,207,LIMA REGION,8.8
+nutricion,208,LIMA REGION,7.2
+nutricion,209,LIMA REGION,13
+nutricion,210,LIMA REGION,9.4
+nutricion,211,LIMA REGION,8.4
+nutricion,212,LIMA REGION,NA
+nutricion,213,LIMA REGION,8.8
+nutricion,214,LIMA REGION,NA
+nutricion,215,LIMA REGION,10
+nutricion,216,LIMA REGION,9.8
+nutricion,217,LIMA REGION,7
+nutricion,218,LIMA REGION,9
+nutricion,219,LIMA REGION,NA
+nutricion,220,LIMA REGION,11.4
+nutricion,221,LIMA REGION,9
+nutricion,222,LIMA REGION,10.4
+nutricion,223,LIMA REGION,9.4
+nutricion,224,LIMA REGION,NA
+nutricion,225,LIMA REGION,9.4
+nutricion,226,LIMA REGION,8.8
+nutricion,227,LIMA REGION,6.8
+nutricion,228,LIMA REGION,9.4
+nutricion,229,LIMA REGION,12
+nutricion,230,LIMA REGION,NA
+nutricion,231,LIMA REGION,NA
+nutricion,232,LIMA REGION,9.2
+nutricion,233,LIMA REGION,12
+nutricion,234,LIMA REGION,9.2
+nutricion,235,LIMA REGION,NA
+nutricion,236,LIMA REGION,11.6
+nutricion,237,LIMA REGION,10.6
+nutricion,238,LIMA REGION,9.4
+nutricion,239,LIMA REGION,9
+nutricion,240,LIMA REGION,7.4
+nutricion,241,LIMA REGION,12.8
+nutricion,242,LIMA REGION,6.8
+nutricion,243,LIMA REGION,11
+nutricion,244,LIMA REGION,NA
+nutricion,245,LIMA REGION,8.2
+nutricion,246,LIMA REGION,6.8
+nutricion,247,LIMA REGION,10.8
+nutricion,248,LIMA REGION,9.8
+nutricion,249,LIMA REGION,NA
+nutricion,250,LIMA REGION,NA
+nutricion,251,LIMA REGION,10.4
+nutricion,252,LIMA REGION,10.8
+nutricion,253,LIMA REGION,8.2
+nutricion,254,LIMA REGION,8.6
+nutricion,255,LIMA REGION,8.8
+nutricion,256,LIMA REGION,7.6
+nutricion,257,LIMA REGION,NA
+nutricion,258,LIMA REGION,9.4
+nutricion,259,LIMA REGION,9.2
+nutricion,260,LIMA REGION,10
+nutricion,261,LIMA REGION,NA
+nutricion,262,LIMA REGION,NA
+nutricion,263,LIMA REGION,8.4
+nutricion,264,LIMA REGION,9.6
+nutricion,265,LIMA REGION,8
+nutricion,266,LIMA REGION,10.6
+nutricion,267,LIMA REGION,9
+nutricion,268,LIMA REGION,7.6
+nutricion,269,LIMA REGION,8.8
+nutricion,270,LIMA REGION,10.6
+nutricion,271,LIMA REGION,NA
+nutricion,272,LIMA REGION,8.8
+nutricion,273,LIMA REGION,8.6
+nutricion,274,LIMA REGION,NA
+nutricion,275,LIMA REGION,10.8
+nutricion,276,LIMA REGION,10.2
+nutricion,277,LIMA REGION,9.8
+nutricion,278,LIMA REGION,NA
+nutricion,279,LIMA REGION,9.8
+nutricion,280,LIMA REGION,9
+nutricion,281,LIMA REGION,11.8
+nutricion,282,LIMA REGION,8.6
+nutricion,283,LIMA REGION,10.6
+nutricion,284,LIMA REGION,10.4
+nutricion,285,LIMA REGION,10.8
+nutricion,286,LIMA REGION,8.4
+nutricion,287,LIMA REGION,NA
+nutricion,288,LIMA SUR,12.4
+nutricion,289,LIMA SUR,10.8
+nutricion,290,LIMA SUR,7.6
+nutricion,291,LIMA SUR,9.8
+nutricion,292,LIMA SUR,9.6
+nutricion,293,LIMA SUR,11
+nutricion,294,LIMA SUR,14.2
+nutricion,295,LIMA SUR,9.8
+nutricion,296,LIMA SUR,8.6
+nutricion,297,LIMA SUR,6.4
+nutricion,298,LIMA SUR,8.2
+nutricion,299,LIMA SUR,10.2
+nutricion,300,LIMA SUR,8.2
+nutricion,301,LIMA SUR,NA
+nutricion,302,LIMA SUR,NA
+nutricion,303,LIMA SUR,9.2
+nutricion,304,LIMA SUR,6.8
+nutricion,305,LIMA SUR,10
+nutricion,306,LIMA SUR,9.2
+nutricion,307,LIMA SUR,11.2
+nutricion,308,LIMA SUR,8.4
+nutricion,309,LIMA SUR,10.6
+nutricion,310,LIMA SUR,12.6
+nutricion,311,LIMA SUR,10.4
+nutricion,312,LIMA SUR,8.8
+nutricion,313,LIMA SUR,NA
+nutricion,314,LIMA SUR,12
+nutricion,315,LIMA SUR,8.2
+nutricion,316,LIMA SUR,11.2
+nutricion,317,LIMA SUR,8.6
+nutricion,318,LIMA SUR,11
+nutricion,319,LIMA SUR,8.6
+nutricion,320,LIMA SUR,10
+nutricion,321,LIMA SUR,8.4
+nutricion,322,LIMA SUR,9
+nutricion,323,LIMA SUR,10.8
+nutricion,324,LIMA SUR,10.4
+nutricion,325,LIMA SUR,10.6
+nutricion,326,LIMA SUR,11.2
+nutricion,327,LIMA SUR,9.4
+nutricion,328,LIMA SUR,12.2
+nutricion,329,LIMA SUR,11
+nutricion,330,LIMA SUR,NA
+nutricion,331,LIMA SUR,9.6
+nutricion,332,LIMA SUR,12
+nutricion,333,LIMA SUR,9.4
+nutricion,334,LIMA SUR,11
+nutricion,335,LIMA SUR,12.4
+nutricion,336,LIMA SUR,12.6
+nutricion,337,LIMA SUR,NA
+nutricion,338,LIMA SUR,4
+nutricion,339,LIMA SUR,10.6
+nutricion,340,LIMA SUR,9.4
+nutricion,341,LIMA SUR,11.8
+nutricion,342,LIMA SUR,9
+nutricion,343,LIMA SUR,11.6
+nutricion,344,LIMA SUR,11
+nutricion,345,LIMA SUR,8.8
+nutricion,346,LIMA SUR,9.4
+nutricion,347,LIMA SUR,9.8
+nutricion,348,LIMA SUR,11.6
+nutricion,349,LIMA SUR,11
+nutricion,350,LIMA SUR,9.2
+nutricion,351,LIMA SUR,7.6
+nutricion,352,LIMA SUR,11.6
+nutricion,353,LIMA SUR,10.8
+nutricion,354,LIMA SUR,8.2
+nutricion,355,LIMA SUR,9.8
+nutricion,356,LIMA SUR,12
+nutricion,357,LIMA SUR,12.4
+nutricion,358,LIMA SUR,11.6
+nutricion,359,LORETO,9.8
+nutricion,360,LORETO,10.8
+nutricion,361,LORETO,NA
+nutricion,362,LORETO,11.4
+nutricion,363,LORETO,9.8
+nutricion,364,LORETO,NA
+nutricion,365,LORETO,10
+nutricion,366,LORETO,8.4
+nutricion,367,LORETO,9.2
+nutricion,368,LORETO,8.6
+nutricion,369,LORETO,6.8
+nutricion,370,LORETO,8.2
+nutricion,371,LORETO,9
+nutricion,372,LORETO,9.8
+nutricion,373,LORETO,9.4
+nutricion,374,LORETO,9
+nutricion,375,LORETO,9.2
+nutricion,376,LORETO,5.4
+nutricion,377,LORETO,8.4
+nutricion,378,LORETO,10.2
+nutricion,379,LORETO,10.8
+nutricion,380,LORETO,9.6
+nutricion,381,LORETO,4.6
+nutricion,382,LORETO,10.6
+nutricion,383,LORETO,9.8
+nutricion,384,MADRE DE DIOS,8.2
+nutricion,385,MADRE DE DIOS,9.6
+nutricion,386,MOQUEGUA,11.2
+nutricion,387,MOQUEGUA,8.6
+nutricion,388,PIURA,8
+nutricion,389,PIURA,9.8
+nutricion,390,PIURA,9.8
+nutricion,391,PIURA,8.8
+nutricion,392,PIURA,9.4
+nutricion,393,PIURA,9.4
+nutricion,394,PIURA,10
+nutricion,395,PIURA,12
+nutricion,396,PIURA,8.2
+nutricion,397,PUNO,8.2
+nutricion,398,PUNO,9.6
+nutricion,399,PUNO,NA
+nutricion,400,PUNO,11.4
+nutricion,401,PUNO,8.8
+nutricion,402,PUNO,8.4
+nutricion,403,PUNO,11.4
+nutricion,404,PUNO,7.4
+nutricion,405,PUNO,10.4
+nutricion,406,PUNO,10.8
+nutricion,407,PUNO,NA
+nutricion,408,PUNO,9.4
+nutricion,409,PUNO,9.2
+nutricion,410,PUNO,9.4
+nutricion,411,PUNO,7
+nutricion,412,PUNO,NA
+nutricion,413,PUNO,9.4
+nutricion,414,PUNO,9.2
+nutricion,415,PUNO,6.2
+nutricion,416,PUNO,NA
+nutricion,417,PUNO,9.2
+nutricion,418,PUNO,10.2
+nutricion,419,PUNO,8
+nutricion,420,PUNO,7.8
+nutricion,421,PUNO,8.8
+nutricion,422,PUNO,NA
+nutricion,423,PUNO,11.6
+nutricion,424,PUNO,10.4
+nutricion,425,PUNO,10.6
+nutricion,426,PUNO,6.8
+nutricion,427,PUNO,8.6
+nutricion,428,PUNO,11.6
+nutricion,429,PUNO,13.6
+nutricion,430,PUNO,10.2
+nutricion,431,PUNO,NA
+nutricion,432,PUNO,NA
+nutricion,433,PUNO,8
+nutricion,434,PUNO,NA
+nutricion,435,PUNO,11
+nutricion,436,PUNO,10.8
+nutricion,437,PUNO,10.2
+nutricion,438,PUNO,9.6
+nutricion,439,PUNO,NA
+nutricion,440,PUNO,10.6
+nutricion,441,PUNO,9.2
+nutricion,442,PUNO,10
+nutricion,443,PUNO,10
+nutricion,444,PUNO,8.4
+nutricion,445,PUNO,7.6
+nutricion,446,PUNO,10.8
+nutricion,447,PUNO,9
+nutricion,448,PUNO,9.8
+nutricion,449,PUNO,NA
+nutricion,450,PUNO,10
+nutricion,451,PUNO,10.4
+nutricion,452,PUNO,8
+nutricion,453,PUNO,8.8
+nutricion,454,PUNO,7.6
+nutricion,455,PUNO,8.2
+nutricion,456,PUNO,9.6
+nutricion,457,PUNO,8.6
+nutricion,458,PUNO,6.6
+nutricion,459,PUNO,10.4
+nutricion,460,PUNO,7.4
+nutricion,461,PUNO,7.4
+nutricion,462,PUNO,11.4
+nutricion,463,PUNO,9.8
+nutricion,464,PUNO,11.6
+nutricion,465,PUNO,11.2
+nutricion,466,PUNO,7.8
+nutricion,467,SAN MARTIN,10
+nutricion,468,SAN MARTIN,7.8
+nutricion,469,SAN MARTIN,9.4
+nutricion,470,SAN MARTIN,12
+nutricion,471,SAN MARTIN,9
+nutricion,472,SAN MARTIN,7.6
+nutricion,473,SAN MARTIN,6.8
+nutricion,474,SAN MARTIN,9.6
+nutricion,475,TUMBES,NA
+nutricion,476,TUMBES,NA
+nutricion,477,TUMBES,9.4
+nutricion,478,TUMBES,7.2
+nutricion,479,TUMBES,9.6
+nutricion,480,TUMBES,12
+nutricion,481,TUMBES,7.4
+nutricion,482,TUMBES,6.4
+nutricion,483,TUMBES,9.2
+nutricion,484,TUMBES,8.6
+nutricion,485,TUMBES,8.2
+nutricion,486,TUMBES,9
+nutricion,487,TUMBES,9.4
+nutricion,488,TUMBES,9.2
+nutricion,489,TUMBES,10
+nutricion,490,TUMBES,8.8
+nutricion,491,TUMBES,8
+nutricion,492,TUMBES,10.6
+nutricion,493,TUMBES,6.8
+nutricion,494,TUMBES,7
+nutricion,495,TUMBES,11
+nutricion,496,TUMBES,9.4
+nutricion,497,TUMBES,NA
