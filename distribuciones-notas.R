@@ -38,7 +38,7 @@ mk_dist_plot <- function(res) {
       plot.subtitle = element_text(size = 16, color = "gray40"),
       plot.caption = element_text(size = 14)
     )
-  fn <- paste0("distribucion-serums2024-", carrera, ".png")
+  fn <- paste0("plots/distribucion-serums2024-", carrera, ".png")
   ggsave(
     width = 20,
     height = 14,
