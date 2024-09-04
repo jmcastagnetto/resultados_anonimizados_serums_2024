@@ -27,7 +27,7 @@ Ver detalles de como se han generado estos gráficos en [distribuciones-notas.R]
 
 ### Medicina
 
-[![Medicina](/plots/distribucion-serums2024-medicina.png)](/plots/distribucion-serums2024-medicina.png))
+[![Medicina](/plots/distribucion-serums2024-medicina.png)](/plots/distribucion-serums2024-medicina.png)
 
 ### Nutrición
 
