@@ -23,7 +23,7 @@ Ver detalles de como se han generado estos gráficos en [distribuciones-notas.R]
 
 ### Enfermería
 
-[![Enfermería](/plots/distribucion-serums20242024-enfermeria.png)](/plots/distribucion-serums2024-enfermeria.png)
+[![Enfermería](/plots/distribucion-serums2024-enfermeria.png)](/plots/distribucion-serums2024-enfermeria.png)
 
 ### Medicina
 
