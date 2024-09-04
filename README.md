@@ -19,28 +19,28 @@ Fuente original: [Resultados de la Evaluación para el SERUMS](https://www.gob.p
 
 ## Distribuciones de notas
 
-Ver detalles de como se han generado estos gráficos en [distribuciones-notas.R](distribuciones-notas.R)
+Ver detalles de como se han generado estos gráficos en [distribuciones-notas.R](/ distribuciones-notas.R)
 
 ### Enfermería
 
-[![Enfermería](plots/distribucion-serums-enfermeria.png)](plots/distribucion-serums-enfermeria.png)
+[![Enfermería](/plots/distribucion-serums-enfermeria.png)](/plots/distribucion-serums-enfermeria.png)
 
 ### Medicina
 
-[![Medicina](plots/distribucion-serums-medicina.png)](plots/distribucion-serums-medicina.png))
+[![Medicina](/plots/distribucion-serums-medicina.png)](/plots/distribucion-serums-medicina.png))
 
 ### Nutrición
 
-[![Nutrición](plots/distribucion-serums-nutricion.png)](plots/distribucion-serums-nutricion.png)
+[![Nutrición](/plots/distribucion-serums-nutricion.png)](/plots/distribucion-serums-nutricion.png)
 
 ### Obstetricia
 
-[![Obstetricia](plots/distribucion-serums-obstetricia.png)](plots/distribucion-serums-obstetricia.png)
+[![Obstetricia](/plots/distribucion-serums-obstetricia.png)](/plots/distribucion-serums-obstetricia.png)
 
 ### Odontología
 
-[![Odontología](plots/distribucion-serums-odontologia.png)](plots/distribucion-serums-odontologia.png)
+[![Odontología](/plots/distribucion-serums-odontologia.png)](/plots/distribucion-serums-odontologia.png)
 
 ### Químico Farmacéutico
 
-[![Químico Farmacéutico](plots/distribucion-serums-quimico-farmaceutico.png)](plots/distribucion-serums-quimico-farmaceutico.png)
+[![Químico Farmacéutico](/plots/distribucion-serums-quimico-farmaceutico.png)](/plots/distribucion-serums-quimico-farmaceutico.png)
