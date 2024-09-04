@@ -1,4 +1,4 @@
-# Resultados Anonimizados del serums2024 2024, Perú
+# Resultados Anonimizados del SERUMS 2024, Perú
 
 Datos extraídos de los PDFs con los resultados del serums2024 2024 en Perú. Se han anonimizado removiendo los nombres de las personas.
 
